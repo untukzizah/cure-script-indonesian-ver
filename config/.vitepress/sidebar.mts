@@ -111,7 +111,7 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
           "text": "20. Directionals: それ・その・そんな・そう etc.",
           "link": "/20-directionals-それ-その-そんな-そう-etc"
         }
-        ]
+      ]
     },
     {
       "text": "Advanced Grammar and Expressions",
@@ -286,7 +286,7 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
       ]
     },
     {
-      "text": "Advanced Topics and Cultural Contextanced",
+      "text": "Advanced Topics and Cultural Context",
       "collapsed": false,
       "items": [
         {
@@ -442,6 +442,448 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
         {
           "text": "97. The meanings of うち: Home, Self, Social boundary, Time marker: いまのうち、そのうち",
           "link": "/97-the-meanings-of-うち-home-self-social-boundary-time-marker-いまのうち-そのうち"
+        }
+      ]
+    }
+  ],
+  "/id/": [
+    {
+      "text": "Tentang",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "Intro",
+          "link": "/id/about"
+        },
+        {
+          "text": "Oleh nunko/dinuz",
+          "link": "/id/original"
+        }
+      ]
+    },
+    {
+      "text": "Struktur Kalimat Dasar dan Tata Bahasa Inti",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "1. Tipe-tipe Kalimat Dasar",
+          "link": "/id/1-the-basic-types-of-sentences"
+        },
+        {
+          "text": "2. Gerbong Tak Terlihat dan Partikel を",
+          "link": "/id/2-the-invisible-carriage-and-the-を-particle"
+        },
+        {
+          "text": "3. Partikel は",
+          "link": "/id/3-the-は-particle"
+        },
+        {
+          "text": "4. Waktu (Tense) Kata Kerja Bahasa Jepang",
+          "link": "/id/4-japanese-verb-tenses"
+        },
+        {
+          "text": "5. Grup Kata Kerja dan Bentuk-て",
+          "link": "/id/5-verb-groups-and-the-て-form"
+        },
+        {
+          "text": "6. Kata Sifat",
+          "link": "/id/6-adjectives"
+        },
+        {
+          "text": "7. Bentuk Negatif dan Kata Sifat di Masa Lampau",
+          "link": "/id/7-negative-forms-and-adjectives-in-past-tense"
+        },
+        {
+          "text": "7.5. Konjugasi",
+          "link": "/id/7-5-conjugation"
+        },
+        {
+          "text": "8. Partikel に dan へ",
+          "link": "/id/8-the-に-and-へ-particles"
+        },
+        {
+          "text": "8b. Penjelasan Partikel.",
+          "link": "/id/8b-particles-explained"
+        },
+        {
+          "text": "9. Subjek Kalimat Jepang & Mengekspresikan Keinginan: ほしい, たい, たがる",
+          "link": "/id/9-the-subject-of-the-japanese-sentence-expressing-desire-ほしい-たい-たがる"
+        },
+        {
+          "text": "10. Helper Engine & Helper Engine Potensial",
+          "link": "/id/10-helper-verbs-the-potential-helper-verb"
+        },
+        {
+          "text": "11. Kalimat Majemuk, くれる, あげる dan Kegunaan Lain Bentuk-て",
+          "link": "/id/11-compound-sentences-くれる-あげる-and-more-uses-of-the-て-form"
+        },
+        {
+          "text": "12. Partikel Kutipan と, Kata Kerja & Kata Benda Majemuk",
+          "link": "/id/12-quotation-particle-と-compound-verbs-nouns"
+        },
+        {
+          "text": "13. Konjugasi Pasif / Helper Engine Penerima (Receptive)",
+          "link": "/id/13-passive-conjugation-receptive-helper-verb"
+        },
+        {
+          "text": "14. Kata Keterangan (Adverb) dan Partikel も",
+          "link": "/id/14-adverbs-and-the-も-particle"
+        },
+        {
+          "text": "15. Kata Kerja Transitif & Intransitif",
+          "link": "/id/15-transitive-intransitive-verbs"
+        },
+        {
+          "text": "16. てみる, Partikel や, Partikel から, dan 'Dan' Eksklusif",
+          "link": "/id/16-てみる-や-particle-から-particle-exclusive-and"
+        },
+        {
+          "text": "17. Bahasa Jepang Sopan dan Bentuk Volitional",
+          "link": "/id/17-polite-japanese-and-the-volitional"
+        },
+        {
+          "text": "18. って = は?? Misteri Terungkap! -おうとする, とする, として, という, っていう",
+          "link": "/id/18-って-は-mysteries-explained-おうとする-とする-として-という-っていう"
+        },
+        {
+          "text": "19. Kausatif + Kausatif Penerima (Receptive)",
+          "link": "/id/19-causative-causative-receptive"
+        },
+        {
+          "text": "20. Penunjuk Arah (Directional): それ・その・そんな・そう dsb.",
+          "link": "/id/20-directionals-それ-その-そんな-そう-etc"
+        }
+        ]
+    },
+    {
+      "text": "Tata Bahasa Lanjutan dan Ekspresi",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "21. てある/ている & ておく",
+          "link": "/id/21-てある-ている-ておく"
+        },
+        {
+          "text": "22. ては & ても",
+          "link": "/id/22-ては-ても"
+        },
+        {
+          "text": "23. だって + だから & それから",
+          "link": "/id/23-だって-だから-それから"
+        },
+        {
+          "text": "24. Kabar Burung & Tebakan - そう・そうだ・そうです",
+          "link": "/id/24-hearsay-guesses-そう-そうだ-そうです"
+        },
+        {
+          "text": "25. らしい vs そうだ / そうです + っぽい (ppoi)",
+          "link": "/id/25-らしい-vs-そうだ-そうです-っぽい-ppoi"
+        },
+        {
+          "text": "26. Perumpamaan (Simile): ようだ・のように・のような ・みたい",
+          "link": "/id/26-similes-ようだ-のように-のような-みたい"
+        },
+        {
+          "text": "27. ばかり",
+          "link": "/id/27-ばかり"
+        },
+        {
+          "text": "28. ように - Satu Kunci untuk Semua Kegunaan Utama",
+          "link": "/id/28-ように-one-key-to-all-the-main-uses"
+        },
+        {
+          "text": "29. ことにする & ことになる",
+          "link": "/id/29-ことにする-ことになる"
+        },
+        {
+          "text": "30. Pengandaian (Conditional) Jepang: と",
+          "link": "/id/30-japanese-conditionals-と"
+        },
+        {
+          "text": "31. Pengandaian (Conditional) ば / れば",
+          "link": "/id/31-the-ば-れば-conditional"
+        },
+        {
+          "text": "32. Pengandaian (Conditional) たら, なら",
+          "link": "/id/32-the-たら-なら-conditionals"
+        },
+        {
+          "text": "33. Istilah Pembatas: だけ, しか, ばかり, のみ",
+          "link": "/id/33-limiting-terms-だけ-しか-ばかり-のみ"
+        },
+        {
+          "text": "34. Memahami Kalimat Apa Pun",
+          "link": "/id/34-understand-any-sentence"
+        },
+        {
+          "text": "35. より, のほう, 一方",
+          "link": "/id/35-より-のほう-一方"
+        },
+        {
+          "text": "36. 所 - Konsep Tempat",
+          "link": "/id/36-所-the-concept-of-place"
+        },
+        {
+          "text": "37. Rahasia Struktur Baru + な vs の, Kata Sifat なる & たる",
+          "link": "/id/37-new-structure-secrets-な-vs-の-なる-たる-adjectives"
+        },
+        {
+          "text": "38. Saat 'Bukan' Berarti 'Iya': Misteri じゃない janai, ではない de wa nai",
+          "link": "/id/38-when-it-isn-t-means-it-is-じゃない-ではない"
+        },
+        {
+          "text": "39. Partikel か: Pertanyaan Terkubur, かな, もんか, かどうか...",
+          "link": "/id/39-the-か-particle-buried-questions-かな-もんか-かどうか"
+        },
+        {
+          "text": "40. 3 Jebakan dalam Bahasa Jepang dan Cara Menghindarinya",
+          "link": "/id/40-3-pitfalls-in-japanese-and-how-to-avoid-them"
+        }
+      ]
+    },
+    {
+      "text": "Strategi Belajar Bahasa & Analisis Kalimat",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "41. 5 Fakta Kunci tentang Struktur Dasar Bahasa Jepang",
+          "link": "/id/41-5-key-facts-about-the-basic-structure-of-japanese"
+        },
+        {
+          "text": "42. Kebingungan Kata Dasar | まま",
+          "link": "/id/42-basic-word-confusion-まま"
+        },
+        {
+          "text": "43. PERGESERAN PARADIGMA: Menembus Kebingungan",
+          "link": "/id/43-paradigm-shift-cut-through-the-confusion"
+        },
+        {
+          "text": "44. Cara Menggunakan Bahasa Jepang Natural: ちゃう, ちゃった",
+          "link": "/id/44-how-to-use-natural-japanese-ちゃう-ちゃった"
+        },
+        {
+          "text": "45. Panduan Langkah Pertama ke Teknik Self-Immersion",
+          "link": "/id/45-first-step-guide-into-self-immersion-technique"
+        },
+        {
+          "text": "46. Urutan Kata PENTING: 2 Aturan Sederhana untuk Memecahkan Kalimat Sulit",
+          "link": "/id/46-word-order-matters-2-simple-rules-to-crack-tough-sentences"
+        },
+        {
+          "text": "47. Cara Memahami Bahasa Jepang: Senjata Rahasia Membedah Kalimat",
+          "link": "/id/47-how-to-understand-japanese-your-secret-weapon-for-breaking-down-sentences"
+        },
+        {
+          "text": "48. Menghadapi Ambiguitas dalam Bahasa Jepang",
+          "link": "/id/48-dealing-with-ambiguity-in-japanese"
+        },
+        {
+          "text": "49. Sudut Pandang Jepang Anti-Pusing! -もらう・てもらう",
+          "link": "/id/49-japanese-point-of-view-deconfused-もらう-てもらう"
+        },
+        {
+          "text": "50. 2 Aspek Bahasa Jepang yang Sulit Dipahami Orang Asing: させてもらう, Rahasia Terakhir Bentuk Potensial",
+          "link": "/id/50-2-aspects-of-japanese-that-foreigners-can-t-fathom-させてもらう-last-secret-of-the-potential"
+        },
+        {
+          "text": "51. Cara Membaca 怪談 / かいだん (Cerita Hantu) Jepang",
+          "link": "/id/51-how-to-read-a-japanese-怪談-かいだん-ghost-story"
+        },
+        {
+          "text": "52. Analisis Kalimat Jepang Mendalam di Konteks Asli (Native)",
+          "link": "/id/52-in-depth-japanese-sentence-analysis-in-real-native-context"
+        },
+        {
+          "text": "53. Menikmati Horor Jepang dalam Bahasa Jepang",
+          "link": "/id/53-enjoy-japanese-horror-in-japanese"
+        },
+        {
+          "text": "54. KETIDAKBERATURAN (Irregularity) & Cara Kerjanya | 見る, 見られる, 見れる, 見える, 聞く, 聞ける, 聞こえる",
+          "link": "/id/54-irregularities-how-they-work-見る-見られる-見れる-見える-聞く-聞ける-聞こえる"
+        },
+        {
+          "text": "55. Rahasia Partikel で. Kenapa Kita Bilang みんなで行く? dan 世界で一番?",
+          "link": "/id/55-secrets-of-the-で-particle-why-do-we-say-みんなで行く-and-世界で一番"
+        },
+        {
+          "text": "56. Kelincahan: Rahasia Terdalam Partikel は dan の",
+          "link": "/id/56-agility-deeper-secrets-of-は-and-の-particles"
+        },
+        {
+          "text": "57. 込む (Komu) dan Rahasia Kata Multimakna Jepang",
+          "link": "/id/57-込む-komu-and-the-secret-of-multi-meaning-japanese-words"
+        },
+        {
+          "text": "58. Partikel Ganda Jepang. Bagaimana Cara Kerjanya",
+          "link": "/id/58-japanese-double-particles-how-they-work"
+        },
+        {
+          "text": "59. Ada Bahasa Jepang yang Tak Bisa Diterjemahkan! Cara Memahaminya",
+          "link": "/id/59-untranslatable-japanese-exists-how-to-understand-it"
+        },
+        {
+          "text": "60. PARUH LAIN dari Struktur Jepang - Struktur Topik/Komentar Non-Logis",
+          "link": "/id/60-the-other-half-of-japanese-structure-non-logical-topic-comment-structure"
+        }
+      ]
+    },
+    {
+      "text": "Topik Lanjutan dan Konteks Budaya",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "61. は dan が: Rahasia Terdalam! Struktur Yin-Yang Bahasa Jepang",
+          "link": "/id/61-は-and-が-the-deeper-secrets-the-yin-yang-structure-of-japanese"
+        },
+        {
+          "text": "62. ておく vs てしまう, Rahasia Helper Engine",
+          "link": "/id/62-ておく-vs-てしまう-helper-verb-secrets"
+        },
+        {
+          "text": "63. Akhiran Kalimat LIAR di Bahasa Jepang Asli: かい、だい、ぜ、ぞ、さ、から、し、ちょうだい",
+          "link": "/id/63-wild-sentence-enders-in-real-life-japanese-かい-だい-ぜ-ぞ-さ-から-し-ちょうだい"
+        },
+        {
+          "text": "64. Makin Aneh! もの dan こと - Rahasia Lanjutan: ものだ, ことがある, こと sebagai Akhiran Kalimat",
+          "link": "/id/64-things-get-strange-もの-and-こと-advanced-secrets-ものだ-ことがある-こと-as-sentence-ender"
+        },
+        {
+          "text": "65. Datang dan Pergi: Rahasia Terdalam 行く dan 来る, て行く dan て来る",
+          "link": "/id/65-coming-and-going-deeper-secrets-of-行く-and-来る-て行くand-て来る-te-iku-te-kuru"
+        },
+        {
+          "text": "66. Subjek TERSEMBUNYI di Bahasa Jepang - dan Cara Memahaminya",
+          "link": "/id/66-hidden-subjects-in-japanese-and-how-to-understand-them"
+        },
+        {
+          "text": "67. もう dan まだ: Relasi Waktu yang Membuatnya Masuk Akal",
+          "link": "/id/67-もう-and-まだ-the-time-relations-that-make-sense-of-them"
+        },
+        {
+          "text": "68. Logika Dasar Bahasa Jepang: わけ、そういうわけ、わけが分からない、わけない",
+          "link": "/id/68-japanese-underlying-logic-わけ-そういうわけ-わけが分からない-わけない"
+        },
+        {
+          "text": "69. Bahasa Jepang di Alam Liar! Menghadapi Materi Asli (Native). 怪談 4",
+          "link": "/id/69-japanese-in-the-wild-tackling-native-japanese-material-怪談-4"
+        },
+        {
+          "text": "70. かける / かかる: Bahasa Jepang Serbaguna Dijelaskan!",
+          "link": "/id/70-かける-かかる-all-purpose-japanese-explained"
+        },
+        {
+          "text": "71. Penghitung (Counter) Jepang: 3 Aturan Sederhana",
+          "link": "/id/71-japanese-counters-3-simple-rules"
+        },
+        {
+          "text": "72. Sang Penghubung Hebat (Keajaiban い-stem)",
+          "link": "/id/72-the-great-connector-い-stem-magic"
+        },
+        {
+          "text": "73. Rahasia 気: 気になる, 気にする, 気がする, 気に入る dsb.",
+          "link": "/id/73-secrets-of-気-気になる-気にする-気がする-気に入る-etc"
+        },
+        {
+          "text": "74. CINTA dan Misteri Lain dari こと! あなたのことが好き, 私のことが嫌い, ということ, そういうこと, どういうこと, そんなこと",
+          "link": "/id/74-love-and-other-mysteries-of-こと-あなたのことが好き-私のことが嫌い-ということ-そういうこと-どういうこと-そんなこと"
+        },
+        {
+          "text": "75. Jepang BUKAN Inggris: Bedanya Strategi Berekspresi | Eihongo (Inggris-Jepang) Sopan = Jepang Kasar",
+          "link": "/id/75-japanese-is-not-english-how-expression-strategies-differ-polite-英本語-rude-japanese"
+        },
+        {
+          "text": "76. Pembukaan yang Tepat? | あく, あける, ひらく, ひらける, 開く, 開け",
+          "link": "/id/76-the-right-opening-あく-あける-ひらく-ひらける-開く-開け"
+        },
+        {
+          "text": "77. Struktur Jepang Asli vs Tae Kim: Ulasan Struktural Tata Bahasa Jepang Tae Kim",
+          "link": "/id/77-real-japanese-structure-vs-tae-kim-structural-review-of-tae-kim-s-japanese-grammar"
+        },
+        {
+          "text": "78. Menghancurkan Inti: Tae Kim vs Kopula | Ulasan Kritis Berbasis Struktur Jepang",
+          "link": "/id/78-breaking-the-core-tae-kim-vs-the-copula-japanese-structure-based-critical-review"
+        },
+        {
+          "text": "79. Rahasia Terdalam dari Kopula",
+          "link": "/id/79-deeper-secret-of-the-copula"
+        },
+        {
+          "text": "80. Partikel yang Dihilangkan & Omisi Kasual",
+          "link": "/id/80-dropped-particles-casual-omissions"
+        }
+      ]
+    },
+    {
+      "text": "Menyempurnakan Bahasa Jepangmu",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "81. Prinsip Global Semua Bentuk Kata Jepang.",
+          "link": "/id/81-global-principle-of-all-japanese-word-forms"
+        },
+        {
+          "text": "82. なんて、なんか、など: 3 Kata Umum Diperjelas.",
+          "link": "/id/82-なんて-なんか-など-3-common-words-clarified"
+        },
+        {
+          "text": "83. Tiga Level Perintah di Bahasa Jepang: Perintah Bentuk-て, なさい, Perintah-な, Bentuk Imperatif.",
+          "link": "/id/83-three-levels-of-command-in-japanese-て-form-commands-なさい-な-commands-imperative-form"
+        },
+        {
+          "text": "84. である dan Struktur Bahasa Jepang. Apa yang Dikatakan Kopula Lama pada Kita: である, であります、でござる、でございます",
+          "link": "/id/84-である-and-the-structure-of-japanese-what-older-copulas-tell-us-である-であります-でござる-でございます"
+        },
+        {
+          "text": "85. まい - Helper Negatif",
+          "link": "/id/85-まい-the-negative-helper"
+        },
+        {
+          "text": "86. 次第 (shidai)",
+          "link": "/id/86-次第-shidai"
+        },
+        {
+          "text": "87. Struktur Jepang TERBALIK: Kehidupan Aneh しか",
+          "link": "/id/87-japanese-structure-inverted-strange-life-of-しか"
+        },
+        {
+          "text": "88. Xをしたい vs Xがしたい",
+          "link": "/id/88-xをしたい-vs-xがしたい"
+        },
+        {
+          "text": "89. Mengungkap Misteri Bahasa Jepang. Subjek Universal",
+          "link": "/id/89-de-mystifying-japanese-the-universal-subject"
+        },
+        {
+          "text": "90. Tanda Baca Jepang: Bagaimana Cara Kerjanya.",
+          "link": "/id/90-japanese-punctuation-how-it-works"
+        },
+        {
+          "text": "91. Batas Luar! 限る & 限り: Banyak Maknanya dan Cara Kerjanya (知っている限り、とは限らない dsb.)",
+          "link": "/id/91-outer-limits-限る-限り-its-many-meanings-and-how-they-work-知っている限り-とは限らない-and-more"
+        },
+        {
+          "text": "92. Akankah Bahasa Inggris MEMAKAN Bahasa Jepang? Invasi Kata Serapan - Benarkah Sebuah Ancaman?",
+          "link": "/id/92-will-english-eat-japanese-loan-word-invasion-is-it-really-a-threat"
+        },
+        {
+          "text": "93. Mengumpat dengan くせに. Bagaimana Cara Kerjanya.",
+          "link": "/id/93-cussin-em-out-with-くせに-how-it-works"
+        },
+        {
+          "text": "94. くらい VS ほど",
+          "link": "/id/94-くらい-vs-ほど"
+        },
+        {
+          "text": "95. Menggunakan Sejarah Kata Secara Cerdas: どうも、やっぱり、やはり",
+          "link": "/id/95-using-word-history-the-smart-way-どうも-やっぱり-やはり"
+        },
+        {
+          "text": "96. 通り dan せっかく: Jalan Metaforis dan Kata yang Tak Bisa Diterjemahkan.",
+          "link": "/id/96-通り-and-せっかく-a-metaphorical-road-and-an-untranslatable-word"
+        },
+        {
+          "text": "97. Makna うち: Rumah, Diri, Batas Sosial, Penanda Waktu: いまのうち、そのうち",
+          "link": "/id/97-the-meanings-of-うち-home-self-social-boundary-time-marker-いまのうち-そのうち"
         }
       ]
     }
