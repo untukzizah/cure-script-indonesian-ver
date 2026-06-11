@@ -6,6 +6,7 @@ hero:
   name: Cure Script
   text: Panduan Organic Japanese
   tagline: Baca semua kursus bahasa Jepang dalam format Markdown
+  image: /background.webp
   actions:
     - theme: brand
       text: Mulai Belajar
