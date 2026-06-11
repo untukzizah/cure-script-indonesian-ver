@@ -1,19 +1,18 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
-tata letak: beranda
+layout: home
 
 hero:
-  nama: <code>Cure Dolly script</code>
-  teks: <code>in Markdown</code>tagline: Baca semua kursus bahasa Jepang Dolly di situs web yang praktis dan cepat
-  image: /background.webp
+  name: Cure Script
+  text: Panduan Organic Japanese
+  tagline: Baca semua kursus bahasa Jepang dalam format Markdown
   actions:
-    - tema: brand
-      teks: Baca dari pelajaran pertama
-      tautan: /1-jenis-kalimat-dasar
-    - tema: alt
-      teks: Tentang
-      tautan: /about
-
-
+    - theme: brand
+      text: Mulai Belajar
+      link: /id/1-the-basic-types-of-sentences
+    - theme: alt
+      text: Lihat di GitHub
+      link: https://github.com/nunko/cure-script
 ---
+
+Metode revolusioner untuk memahami struktur bahasa Jepang secara logis dan natural, tanpa harus menghafal aturan tata bahasa yang membingungkan.
 
