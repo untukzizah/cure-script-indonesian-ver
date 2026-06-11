@@ -12,12 +12,12 @@ export default defineConfig({
   },
   locales: {
     root: {
-      label: 'Indonesian',
-      lang: 'id',
-    },
-    en: {
       label: 'English',
       lang: 'en',
+    },
+    id: {
+      label: 'Indonesian',
+      lang: 'id',
     },
     ru: {
       label: 'Russian',
