@@ -5,7 +5,7 @@ export default defineConfig({
   title: "Cure Dolly",
   description: "in markdown",
   srcDir: 'docs',
-  base: process.env.VITE_BASE_URL || '/',
+  base: '/',
   ignoreDeadLinks: true,
   rewrites: {
     'en/:rest*': ':rest*'
