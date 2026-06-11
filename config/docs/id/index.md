@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Mulai Belajar
-      link: /id/1-the-basic-types-of-sentences
+      link: /1-the-basic-types-of-sentences
     - theme: alt
       text: Lihat di GitHub
       link: https://github.com/Kellenok/cure-script
