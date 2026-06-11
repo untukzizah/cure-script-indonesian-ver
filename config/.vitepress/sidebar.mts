@@ -1140,4 +1140,197 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
           "link": "/ru/53-enjoy-japanese-horror-in-japanese"
         },
         {
-          "text": "54. НЕРЕГУЛЯРНОСТИ и как они работают | 見る, 見られる, 見れる, 見える, 聞
+          "text": "54. НЕРЕГУЛЯРНОСТИ и как они работают | 見る, 見られる, 見れる, 見える, 聞く, 聞ける, 聞こえる",
+          "link": "/ru/54-irregularities-how-they-work-見る-見られる-見れる-見える-聞く-聞ける-聞こえる"
+        },
+        {
+          "text": "55. Секреты частицы で. Почему мы говорим みんなで行く? и 世界で一番?",
+          "link": "/ru/55-secrets-of-the-で-particle-why-do-we-say-みんなで行く-and-世界で一番"
+        },
+        {
+          "text": "56. Гибкость: Глубокие тайны частиц は и の",
+          "link": "/ru/56-agility-deeper-secrets-of-は-and-の-particles"
+        },
+        {
+          "text": "57. 込む (Komu) и секрет многозначных японских слов",
+          "link": "/ru/57-込む-komu-and-the-secret-of-multi-meaning-japanese-words"
+        },
+        {
+          "text": "58. Японские двойные частицы. Как они работают",
+          "link": "/ru/58-japanese-double-particles-how-they-work"
+        },
+        {
+          "text": "59. Существует непереводимый японский язык! Как его понять",
+          "link": "/ru/59-untranslatable-japanese-exists-how-to-understand-it"
+        },
+        {
+          "text": "60. ДРУГАЯ ПОЛОВИНА Японской Структуры — нелогическая структура «тема-комментарий»",
+          "link": "/ru/60-the-other-half-of-japanese-structure-non-logical-topic-comment-structure"
+        }
+      ]
+    },
+    {
+      "text": "Сложные темы и культурные особенности",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "61. は и が: Глубокие секреты! Инь-ян структура японского языка",
+          "link": "/ru/61-は-and-が-the-deeper-secrets-the-yin-yang-structure-of-japanese"
+        },
+        {
+          "text": "62. ておく vs てしまう, секреты вспомогательных глаголов",
+          "link": "/ru/62-ておく-vs-てしまう-helper-verb-secrets"
+        },
+        {
+          "text": "63. «Дикие» завершители предложений в реальном японском: かい, だい, ぜ, ぞ, さ, から, し, ちょうだい",
+          "link": "/ru/63-wild-sentence-enders-in-real-life-japanese-かい-だい-ぜ-ぞ-さ-から-し-ちょうだい"
+        },
+        {
+          "text": "64. Вещи становятся старнными! もの и こと — Продвинутые секреты: ものだ, ことがある, こと как завершители предложений",
+          "link": "/ru/64-things-get-strange-もの-and-こと-advanced-secrets-ものだ-ことがある-こと-as-sentence-ender"
+        },
+        {
+          "text": "65. Приходить и уходить: Глубокие секреты 行く и 来る, て行く и て来る (te-iku, te-kuru)",
+          "link": "/ru/65-coming-and-going-deeper-secrets-of-行く-and-来る-て行くand-て来る-te-iku-te-kuru"
+        },
+        {
+          "text": "66. СКРЫТЫЕ подлежащие в японском языке — и как их понять",
+          "link": "/ru/66-hidden-subjects-in-japanese-and-how-to-understand-them"
+        },
+        {
+          "text": "67. もう и まだ: временные отношения, которые объясняют их смысл",
+          "link": "/ru/67-もう-and-まだ-the-time-relations-that-make-sense-of-them"
+        },
+        {
+          "text": "68. Глубинная логика японского языка: わけ、そういうわけ、わけが分からない、わけない",
+          "link": "/ru/68-japanese-underlying-logic-わけ-そういうわけ-わけが分からない-わけない"
+        },
+        {
+          "text": "69. Японский в естественной среде! Разбираемся с аутентичными японскими материалами. 怪談 4",
+          "link": "/ru/69-japanese-in-the-wild-tackling-native-japanese-material-怪談-4"
+        },
+        {
+          "text": "70. かける / かかる: Японский язык на все случаи жизни объяснён!",
+          "link": "/ru/70-かける-かかる-all-purpose-japanese-explained"
+        },
+        {
+          "text": "71. Японские счётные слова: 3 простых правила",
+          "link": "/ru/71-japanese-counters-3-simple-rules"
+        },
+        {
+          "text": "72. Великий Соединитель (магия い-основы)",
+          "link": "/ru/72-the-great-connector-い-stem-magic"
+        },
+        {
+          "text": "73. Секреты 気: 気になる, 気にする, 気がする, 気に入る и т.д.",
+          "link": "/ru/73-secrets-of-気-気になる-気にする-気がする-気に入る-etc"
+        },
+        {
+          "text": "74. ЛЮБОВЬ и другие тайны こと! あなたのことが好き, 私のことが嫌い, ということ, そういうこと, どういうこと, そんなこと",
+          "link": "/ru/74-love-and-other-mysteries-of-こと-あなたのことが好き-私のことが嫌い-ということ-そういうこと-どういうこと-そんなこと"
+        },
+        {
+          "text": "75. Японский — это НЕ английский: Как стратегии выражения отличаются | вежливый Эйхонго = грубый японский",
+          "link": "/ru/75-japanese-is-not-english-how-expression-strategies-differ-polite-英本語-rude-japanese"
+        },
+        {
+          "text": "76. Правильное Открытие? | あく, あける, ひらく, ひらける, 開く, 開け",
+          "link": "/ru/76-the-right-opening-あく-あける-ひらく-ひらける-開く-開け"
+        },
+        {
+          "text": "77. Реальная структура японского языка против Тэ Кима: Структурный обзор японской грамматики Тэ Кима",
+          "link": "/ru/77-real-japanese-structure-vs-tae-kim-structural-review-of-tae-kim-s-japanese-grammar"
+        },
+        {
+          "text": "78. Разрушая ядро: Тэ Ким против связки | Критический обзор японской грамматики на основе структуры",
+          "link": "/ru/78-breaking-the-core-tae-kim-vs-the-copula-japanese-structure-based-critical-review"
+        },
+        {
+          "text": "79. Более глубокий секрет связки",
+          "link": "/ru/79-deeper-secret-of-the-copula"
+        },
+        {
+          "text": "80. Опущенные частицы и неформальные опущения",
+          "link": "/ru/80-dropped-particles-casual-omissions"
+        }
+      ]
+    },
+    {
+      "text": "Совершенствование японского языка",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "81. Глобальный принцип всех японских словоформ.",
+          "link": "/ru/81-global-principle-of-all-japanese-word-forms"
+        },
+        {
+          "text": "82. なんて、なんか、など: 3 распространённых слова, прояснённых.",
+          "link": "/ru/82-なんて-なんか-など-3-common-words-clarified"
+        },
+        {
+          "text": "83. Три уровня повелительного наклонения в японском: て-форма, なさい, な-повелительное, императив.",
+          "link": "/ru/83-three-levels-of-command-in-japanese-て-form-commands-なさい-な-commands-imperative-form"
+        },
+        {
+          "text": "84. である и структура японского языка. Что нам говорят старые связки: である, であります, でござる, でございます",
+          "link": "/ru/84-である-and-the-structure-of-japanese-what-older-copulas-tell-us-である-であります-でござる-でございます"
+        },
+        {
+          "text": "85. まい — отрицательный хелпер",
+          "link": "/ru/85-まい-the-negative-helper"
+        },
+        {
+          "text": "86. 次第 (shidai)",
+          "link": "/ru/86-次第-shidai"
+        },
+        {
+          "text": "87. Японская структура НАИЗНАНКУ: странная жизнь しか",
+          "link": "/ru/87-japanese-structure-inverted-strange-life-of-しか"
+        },
+        {
+          "text": "88. Xをしたい vs Xがしたい",
+          "link": "/ru/88-xをしたい-vs-xがしたい"
+        },
+        {
+          "text": "89. Развенчивая мифы о японском языке. Универсальное подлежащее",
+          "link": "/ru/89-de-mystifying-japanese-the-universal-subject"
+        },
+        {
+          "text": "90. Японская пунктуация: Как она работает.",
+          "link": "/ru/90-japanese-punctuation-how-it-works"
+        },
+        {
+          "text": "91. Внешние пределы! 限る & 限り: Множество значений и как они работают 知っている限り、とは限らない и многое другое",
+          "link": "/ru/91-outer-limits-限る-限り-its-many-meanings-and-how-they-work-知っている限り-とは限らない-and-more"
+        },
+        {
+          "text": "92. Съест ли английский японский? Вторжение заимствованных слов — действительно ли это угроза?",
+          "link": "/ru/92-will-english-eat-japanese-loan-word-invasion-is-it-really-a-threat"
+        },
+        {
+          "text": "93. Отчитываем их с помощью くせに. Как это работает.",
+          "link": "/ru/93-cussin-em-out-with-くせに-how-it-works"
+        },
+        {
+          "text": "94. くらい VS ほど",
+          "link": "/ru/94-くらい-vs-ほど"
+        },
+        {
+          "text": "95. Использование истории слов с умом: どうも, やっぱり, やはり",
+          "link": "/ru/95-using-word-history-the-smart-way-どうも-やっぱり-やはり"
+        },
+        {
+          "text": "96. 通り и せっかく: Метафорическая дорога и непереводимое слово.",
+          "link": "/ru/96-通り-and-せっかく-a-metaphorical-road-and-an-untranslatable-word"
+        },
+        {
+          "text": "97. Значения うち: Дом, Я, Социальная граница, Маркер времени: いまのうち、そのうち",
+          "link": "/ru/97-the-meanings-of-うち-home-self-social-boundary-time-marker-いまのうち-そのうち"
+        }
+      ]
+    }
+  ]
+};
+
+export default sidebar;
+
