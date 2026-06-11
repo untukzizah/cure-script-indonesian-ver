@@ -8,7 +8,7 @@ export default defineConfig({
   base: '/',
   ignoreDeadLinks: true,
   rewrites: {
-    'id/:rest*': ':rest*'
+    'en/:rest*': ':rest*'
   },
   locales: {
     root: {
