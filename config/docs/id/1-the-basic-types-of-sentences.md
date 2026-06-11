@@ -22,7 +22,7 @@ Dalam bahasa Jepang, jika kita ingin mengatakan <code>Sakura walks</code> (A mel
 
 Berjalan dalam bahasa Jepang adalah <code>あるく</code>. Kita membutuhkan satu hal lagi untuk membentuk kalimat inti dalam bahasa Jepang, dan **itulah kunci dari setiap kalimat, が** (ga). 
 
-**&quot;が&quot; adalah pusat tata bahasa Jepang. Setiap kalimat Jepang berputar di sekitが. Dalam beberapa kalimat, kita mungkin tidak dapat melihat &quot;が&quot;, tetapi ia selalu ada, dan selalu melakukan tugas yang sama. Ia menghubungkan A dan B dan mengubahnya menjadi sebuah kalimat.** Jadi, inti <code>A does B</code> adalah <code>**さくらが**あるく</code> = <code>**Sakura** walks</code>.
+**&quot;が&quot; adalah pusat tata bahasa Jepang. Setiap kalimat Jepang berputar di sekitar が. Dalam beberapa kalimat, kita mungkin tidak dapat melihat &quot;が&quot;, tetapi ia selalu ada, dan selalu melakukan tugas yang sama. Ia menghubungkan A dan B dan mengubahnya menjadi sebuah kalimat.** Jadi, inti <code>A does B</code> adalah <code>**さくらが**あるく</code> = <code>**Sakura** walks</code>.
 
 ## Kalimat kopula
 
