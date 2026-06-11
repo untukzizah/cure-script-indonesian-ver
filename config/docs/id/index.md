@@ -11,7 +11,7 @@ hero:
       link: /id/1-the-basic-types-of-sentences
     - theme: alt
       text: Lihat di GitHub
-      link: https://github.com/nunko/cure-script
+      link: https://github.com/Kellenok/cure-script
 ---
 
 Metode revolusioner untuk memahami struktur bahasa Jepang secara logis dan natural, tanpa harus menghafal aturan tata bahasa yang membingungkan.
