@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: Read from 1st lesson
-      link: /1-the-basic-types-of-sentences
+      link: /en/1-the-basic-types-of-sentences
     - theme: alt
       text: About
-      link: /about
+      link: /en/about
 
 
 ---
