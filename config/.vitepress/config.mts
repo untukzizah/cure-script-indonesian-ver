@@ -8,16 +8,16 @@ export default defineConfig({
   base: '/',
   ignoreDeadLinks: true,
   rewrites: {
-    'en/:rest*': ':rest*'
+    'id/:rest*': ':rest*'
   },
   locales: {
     root: {
-      label: 'English',
-      lang: 'en',
-    },
-    id: {
       label: 'Indonesian',
       lang: 'id',
+    },
+    en: {
+      label: 'English',
+      lang: 'en',
     },
     ru: {
       label: 'Russian',
