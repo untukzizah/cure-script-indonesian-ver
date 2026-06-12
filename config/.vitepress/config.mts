@@ -76,7 +76,7 @@ export default defineConfig({
       { text: 'About', link: '/about' }
     ],
     footer: {
-      message: 'Created by <a href="https://bento.me/kln">Kellen</a>',
+      message: 'Created by <a href="https://bento.me/kln">Kellen</a> | Indonesian translation by DeepL',
       copyright: 'Originally transripted by <a href="https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc">nunko/dinuz</a>.'
     }
   }
