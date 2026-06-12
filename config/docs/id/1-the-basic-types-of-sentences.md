@@ -22,7 +22,7 @@ Dalam bahasa Jepang, jika kita ingin mengatakan `Sakura walks` (A melakukan B: S
 
 Berjalan dalam bahasa Jepang adalah `あるく`. Namun, kita membutuhkan satu komponen lagi untuk merakit kalimat inti ini, dan **が (ga) adalah kunci dari setiap kalimat**. 
 
-**"が" adalah pusat dari seluruh tata bahasa Jepang. Setiap kalimat bahasa Jepang selalu berputar mengelilingi が.** Walaupun di beberapa kalimat wujud "が" ini mungkin tidak terlihat, ia sebenarnya selalu ada dan selalu melakukan tugas yang sama. Tugasnya adalah menghubungkan A dan B untuk membentuk sebuah kalimat yang utuh. Jadi, inti dari kalimat `A does B` ini adalah `**さくらが**あるく` = `**Sakura** walks`.
+**"が" adalah pusat dari seluruh tata bahasa Jepang. Setiap kalimat bahasa Jepang selalu berputar mengelilingi が.** Walaupun di beberapa kalimat, wujud "が" ini mungkin tidak terlihat, ia sebenarnya selalu ada dan selalu melakukan tugas yang sama. Tugasnya adalah menghubungkan A dan B untuk membentuk sebuah kalimat yang utuh. Jadi, inti dari kalimat `A does B` ini adalah `さくらがあるく` = `Sakura walks`.
 
 ## Kalimat kopula
 
@@ -32,7 +32,7 @@ Jadi, susunan sementaranya adalah さくらが日本人... tapi tunggu, kita but
 
 ![](../media/image632.webp)
 
-Mungkin sebelumnya kamu pernah melihat だ dalam bentuknya yang lebih sopan, yaitu です. Tapi, ada alasan kuat kenapa kita wajib mempelajari bentuk dasarnya yang lugas ini terlebih dahulu. Coba kamu perhatikan huruf だ, bentuknya mirip tanda sama dengan (=) yang diberi kotak penutup di sebelah kirinya. Ini adalah cara mengingat (mnemonik) yang sempurna untuk menjelaskan fungsinya, karena **だ bertugas memberi tahu kita bahwa A = B.**
+Mungkin sebelumnya kamu pernah melihat だ dalam bentuk yang lebih sopan, yaitu です. Tapi, ada alasan kuat kenapa kita wajib mempelajari bentuk dasarnya yang lugas ini terlebih dahulu. Coba kamu perhatikan huruf だ, bentuknya mirip tanda sama dengan (=) yang diberi kotak penutup di sebelah kirinya. Ini adalah cara mengingat (mnemonik) yang sempurna untuk menjelaskan fungsinya, karena **だ bertugas memberi tahu kita bahwa A = B.**
 
 Lalu, kenapa kotaknya ada di sebelah kiri? Karena aturan ini hanya berlaku satu arah (dari kiri ke kanan). Coba pikirkan secara logis: さくらが日本人だ berarti `Sakura = Japanese person`. Tapi logika ini tidak berlaku sebaliknya. Orang Jepang itu bukan Sakura—karena tidak semua orang Jepang bernama Sakura. Sakura adalah orang Jepang, tapi orang Jepang belum tentu Sakura.
 
