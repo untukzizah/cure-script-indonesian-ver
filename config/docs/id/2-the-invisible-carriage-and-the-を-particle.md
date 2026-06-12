@@ -26,9 +26,9 @@ Apakah ada orang yang berbicara mengulang-ulang subjek "bola itu" seperti di ata
 
 > Bola itu menggelinding menuruni bukit.
 > 
-> Ketika sampai di bawah, **ia** (it) menabrak batu tajam.
+> Ketika sampai di bawah, **it** (benda tersebut) menabrak batu tajam.
 > 
-> **Ia** (it) bocor dan semua udaranya keluar.
+> **It** bocor dan semua udaranya keluar.
 
 Kata `it` sebenarnya tidak memiliki makna spesifik karena ia bisa mewakili apa saja. Saat saya bilang `it`, saya mungkin sedang membicarakan bunga, langit, pohon, jari saya, Menara Eiffel, atau bahkan galaksi Andromeda. `It` tidak punya makna bawaan: **kamu hanya bisa tahu apa arti `it` itu dari konteks pembicaraannya.**
 
@@ -50,13 +50,13 @@ Sama sekali tidak membingungkan, kan? Padahal maksud struktur kalimat utuhnya ad
 
 **Dalam tata bahasa formal bahasa Inggris, menghilangkan subjek seperti itu dianggap salah. Tapi di dalam bahasa Jepang, ini adalah struktur yang 100% benar. Semua kata ganti kecil seperti `it`, `she`, `he`, `I`, dan `they` dalam bahasa Jepang bisa digantikan secara utuh oleh gerbong tak terlihat. Namun, fakta terpenting yang wajib kamu ingat adalah: secara struktural, subjek tersebut tetap ada di sana.**
 
-Mari kita lihat penerapannya di dalam bahasa Jepang. Saya mungkin berkata, `ドリーだ`, yang berarti `I am Dolly`. Sekilas, kalimat ini terlihat seolah hanya punya *engine* tanpa ada gerbong utama sama sekali. Padahal, gerbong utamanya tetap ada, hanya saja posisinya sedang diisi oleh gerbong tak terlihat. Kalau ditulis secara struktural utuh, kalimat aslinya berbunyi: `(**zeroが**)ドリーだ`.
+Mari kita lihat penerapannya di dalam bahasa Jepang. Saya mungkin berkata, `ドリーだ`, yang berarti `I am Dolly`. Sekilas, kalimat ini terlihat seolah hanya punya *engine* tanpa ada gerbong utama sama sekali. Padahal, gerbong utamanya tetap ada, hanya saja posisinya sedang diisi oleh gerbong tak terlihat. Kalau ditulis secara struktural utuh, kalimat aslinya berbunyi: `(zeroが)ドリーだ`.
 
 ![](../media/image975.webp)
 
 Bisa dibilang bahwa `I` (Saya) adalah *setting default* dari subjek tak terlihat (Zero が) ini. Tapi, konteks di lapangan bisa mengubah maknanya menjadi apa saja. 
 
-Misalnya, kita sedang berada di hutan, lalu tiba-tiba terdengar suara gemerisik di semak-semak. Saat menoleh, saya spontan berteriak, `ウサギだ!`. Di situasi ini, kalimat struktural lengkapnya adalah `(**zeroが**)ウサギだ!` alias `It is a rabbit!`. Kata `it` (*zero が*) tersebut merujuk langsung pada konteks fisik benda yang baru saja kita lihat muncul dari semak-semak, yaitu seekor kelinci.
+Misalnya, kita sedang berada di hutan, lalu tiba-tiba terdengar suara gemerisik di semak-semak. Saat menoleh, saya spontan berteriak, `ウサギだ!`. Di situasi ini, kalimat struktural lengkapnya adalah `(zeroが)ウサギだ!` alias `It is a rabbit!`. Kata `it` (*zero が*) tersebut merujuk langsung pada konteks fisik benda yang baru saja kita lihat muncul dari semak-semak, yaitu seekor kelinci.
 
 ![](../media/image617.webp)
 
@@ -66,7 +66,7 @@ Contoh lain, jika saya berkata, `土曜日だ` (土曜日 / どようび berarti
 
 ## Partikel を
 
-Sekarang, saya akan memperkenalkan satu jenis gerbong baru, yaitu gerbong を. Gerbong ini berisi kata benda yang ditempelkan dengan partikel を (dibaca `o`). Kalau kamu sudah familier dengan istilah *object* dalam tata bahasa (yaitu benda yang dikenai suatu tindakan/pekerjaan), maka ini adalah cara paling gampang untuk mengingatnya: anggap saja `o` adalah singkatan dari `object`.
+Sekarang, saya akan memperkenalkan satu jenis gerbong baru, yaitu gerbong を. Gerbong ini berisi kata benda yang ditempelkan dengan partikel を (dibaca `o`). Kalau kamu sudah familiar dengan istilah *object* dalam tata bahasa (yaitu benda yang dikenai suatu tindakan/pekerjaan), maka ini adalah cara paling gampang untuk mengingatnya: anggap saja `o` adalah singkatan dari `object`.
 
 Wujud visual gerbong "を" bisa kamu lihat pada gambar di bawah. Perhatikan bahwa warnanya putih. Warnanya dibedakan menjadi putih karena gerbong ini *bukan* bagian dari kereta inti. **Kereta inti akan selalu, dan hanya, terdiri dari dua bagian: gerbong utama dan *engine*.** Jadi, saat kita melihat ada gerbong putih masuk ke dalam rangkaian, kita langsung tahu bahwa tugas gerbong itu murni hanya untuk memberikan informasi tambahan seputar si *engine* atau si gerbong utama.
 
@@ -76,7 +76,7 @@ Mari kita bedah kalimat ini: `わたしがケーキを食べる` (I eat cake / S
 
 ![](../media/image146.webp)
 
-Kalimat intinya di sini sebenarnya hanyalah `I eat` (わたしが 食べる). Itu adalah dua gerbong hitam penyusun kereta inti. Lalu, masuklah gerbong putih `ケーキを` untuk memberikan detail lebih lanjut seputar si *engine* (tindakan). Kalimat intinya bilang 'Saya makan', dan `ケーキを` (kue) melengkapinya dengan memberi tahu *apa* objek yang saya makan.
+Di sini kalimat inti yang sebenarnya hanyalah `I eat` (わたしが 食べる). Itu adalah dua gerbong hitam penyusun kereta inti. Lalu, masuklah gerbong putih `ケーキを` untuk memberikan detail lebih lanjut seputar si *engine* (tindakan). Kalimat intinya bilang 'Saya makan', dan `ケーキを` (kue) melengkapinya dengan memberi tahu *apa* objek yang saya makan.
 
 Nah, bagian paling menariknya adalah, dalam percakapan sehari-hari bahasa Jepang, kalimat ini justru lebih sering diucapkan menjadi: `ケーキをたべる`. Dengan ilmu yang baru kamu pelajari di atas, kamu pasti sudah tahu apa yang sedang terjadi di sini, kan? Yap, ini adalah kasus di mana gerbong A (gerbong utama/subjek) berubah wujud menjadi gerbong tak terlihat.
 
@@ -87,5 +87,5 @@ Nah, bagian paling menariknya adalah, dalam percakapan sehari-hari bahasa Jepang
 Karena *setting default* dari `zero` (gerbong tak terlihat) adalah `わたし` (saya), kalimat ini otomatis berarti `I eat cake`. Namun, kalau konteks percakapan di momen tersebut ternyata sedang membicarakan orang lain, maka `zero` tersebut akan mewakili orang lain sebagai si pemakan kue.
 
 ::: info
-Sebagai pengingat logis: seperti yang bisa kamu lihat secara visual pada gambar-gambar gerbong di atas, setiap partikel itu menempel kuat pada kata SEBELUMNYA (kata yang ada di depannya), bukan kata sesudahnya.
+Sebagai pengingat logis: seperti yang bisa kamu lihat secara visual pada gambar-gambar gerbong di atas, setiap partikel itu menempel kuat pada kata SEBELUMNYA (kata yang ada di belakangnya), bukan kata sesudahnya.
 :::
