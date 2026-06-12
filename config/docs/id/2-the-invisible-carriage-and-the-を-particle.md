@@ -1,83 +1,91 @@
-# **2. Gerbong Tak Terlihat dan Partikel &quot;を&quot;**
+# **2. Gerbong Tak Terlihat dan Partikel "を"**
 
-[**Pelajaran 2: Rahasia Utama. Belajar Bahasa Jepang dengan Mudah - Mengungkap <code>code</code>. Belajar Bahasa Jepang dari Nol**](https://www.youtube.com/watch?v=P3n8n0u3LHA&amp;list;=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&amp;index;=2&amp;ab;_channel=OrganicJapanesewithCureDolly)
+[**Pelajaran 2: Rahasia Utama. Belajar Bahasa Jepang dengan Mudah - Mengungkap `code`. Belajar Bahasa Jepang dari Nol**](https://www.youtube.com/watch?v=P3n8n0u3LHA&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=2&ab_channel=OrganicJapanesewithCureDolly)
 
 ## Gerbong Tak Terlihat
 
-Pada pelajaran sebelumnya, kita belajar bahwa setiap kalimat dalam bahasa Jepang memiliki inti yang sama: gerbong utama dan engine, yang juga dikenal sebagai A dan B, atau hal yang sedang kita bicarakan dan hal yang kita katakan tentangnya. Dan saya telah menjelaskan bahwa kita bisa memiliki lebih banyak gerbong-gerbong seiring kalimat menjadi lebih kompleks, namun mereka tetap selalu memiliki inti yang sama.
+Pada pelajaran sebelumnya, kita sudah belajar bahwa setiap kalimat dalam bahasa Jepang memiliki inti logika yang sama: gerbong utama dan *engine* (atau biasa disebut A dan B). Singkatnya, subjek yang sedang kita bicarakan (A) dan apa yang kita katakan tentang subjek tersebut (B). Saya juga sudah menjelaskan bahwa kita bisa menambahkan lebih banyak gerbong seiring dengan makin kompleksnya sebuah kalimat, tetapi intinya akan selalu sama.
 
-Sekarang kita akan melihat beberapa gerbong-gerbong tambahan tersebut. Sebelumnya, saya menyebutkan bahwa meskipun setiap kalimat memiliki dua elemen inti yang sama, Anda tidak selalu dapat melihat keduanya. Kalian selalu bisa melihat engine-nya, tetapi terkadang kalian tidak bisa melihat gerbong utamanya. Mengapa tidak? **Ketika kalian tidak bisa melihat gerbong utama, itu berarti gerbong tersebut telah digantikan oleh gerbong tak terlihat.**
+Sekarang, kita akan melihat beberapa gerbong tambahan tersebut. Sebelumnya, saya sempat menyinggung bahwa meskipun setiap kalimat selalu punya dua elemen inti, kamu tidak akan selalu melihat keduanya secara langsung. Kamu pasti selalu bisa melihat *engine*-nya, tapi terkadang gerbong utamanya tidak terlihat. 
 
-Jadi, apa itu gerbong tak terlihat? Dalam bahasa Inggris, padanan terdekatnya adalah <code>it</code>.
+Kenapa bisa begitu? **Ketika kamu tidak bisa melihat gerbong utamanya, itu berarti posisi gerbong tersebut sedang diisi oleh gerbong tak terlihat (*invisible carriage*).**
+
+Lalu, apa sebenarnya gerbong tak terlihat ini? Dalam tata bahasa Inggris, padanan terdekatnya adalah penggunaan kata ganti `it`.
 
 ![](../media/image75.webp)
 
-Mari kita mulai dengan melihat apa yang <code>it</code> artinya dalam bahasa Inggris. Mari kita lihat contoh ini:
+Mari kita mulai dengan memahami bagaimana fungsi `it` dalam bahasa Inggris lewat contoh berikut:
 
-&gt; Bola itu menggelinding menuruni bukit.
-&gt;
-&gt; Ketika bola itu sampai di bawah, bola itu menabrak batu tajam.
-&gt;
-&gt; Bola itu bocor dan semua udaranya keluar.
+> Bola itu menggelinding menuruni bukit.
+> 
+> Ketika bola itu sampai di bawah, bola itu menabrak batu tajam.
+> 
+> Bola itu bocor dan semua udaranya keluar.
 
-Sekarang, apakah ada orang yang akan mengatakan hal ini? Tentu saja tidak, karena begitu kita telah menetapkan apa yang sedang kita bicarakan, kita menggantinya dengan <code>it</code>. Sebaliknya, kita mengatakan,
+Apakah ada orang yang berbicara mengulang-ulang subjek "bola itu" seperti di atas? Tentu saja tidak. Begitu kita sudah menetapkan konteks apa yang sedang dibicarakan, kalimat selanjutnya akan kita ganti menggunakan kata ganti:
 
-&gt; Bola itu menggelinding menuruni bukit.
-&gt;
-&gt; Ketika sampai di bawah, bola itu menabrak batu tajam.
-&gt;
-&gt; Bola itu bocor dan semua udaranya keluar.
+> Bola itu menggelinding menuruni bukit.
+> 
+> Ketika sampai di bawah, **ia** (it) menabrak batu tajam.
+> 
+> **Ia** (it) bocor dan semua udaranya keluar.
 
-<code>It</code> tidak berarti apa-apa karena bisa berarti apa saja. Jika saya mengatakan <code>it</code>, saya mungkin sedang membicarakan bunga atau langit. Saya mungkin sedang membicarakan pohon, jari saya, Menara Eiffel, atau galaksi Andromeda. <code>It</code> sendiri tidak berarti apa-apa: **Anda tahu apa <code>it</code> itu dari konteks.**
+Kata `it` sebenarnya tidak memiliki makna spesifik karena ia bisa mewakili apa saja. Saat saya bilang `it`, saya mungkin sedang membicarakan bunga, langit, pohon, jari saya, Menara Eiffel, atau bahkan galaksi Andromeda. `It` tidak punya makna bawaan: **kamu hanya bisa tahu apa arti `it` itu dari konteks pembicaraannya.**
 
-Sekarang, mari kita asumsikan seorang anak kecil mencoba mengatakan ini dan berkata,
+Sekarang, bayangkan ada seorang anak kecil (yang belum lancar tata bahasa) bercerita seperti ini:
 
-&gt; Bola berguling menuruni bukit,
-&gt;
-&gt; sampai di bawah, menabrak batu tajam,
-&gt;
-&gt; bocor, semua udaranya keluar.
+> Bola berguling menuruni bukit,
+> 
+> sampai di bawah, nabrak batu tajam,
+> 
+> bocor, semua udaranya keluar.
 
-Nah, apakah itu sulit dipahami? Tidak, sama sekali tidak sulit, bukan? Karena sebenarnya kita tidak perlu menggunakan <code>it</code> setiap kali, berulang-ulang, untuk memahami apa yang dikatakan. Meskipun tata bahasa Inggris menuntut kita melakukannya, tetapi tidak ada kebutuhan komunikatif yang sebenarnya untuk menyertakan <code>it</code> setiap kali.
+Apakah ceritanya sulit dipahami? Sama sekali tidak, kan? Secara logis, kita sebenarnya tidak perlu repot-repot menyisipkan kata `it` berulang-ulang hanya untuk bisa saling paham. Walaupun tata bahasa formal Inggris *mewajibkan* penggunaannya, tapi secara fungsi komunikasi murni, kehadiran kata `it` itu tidak terlalu dibutuhkan.
 
-Bahasa Jepang tidak memiliki <code>it</code>. *(Saya kira yang dimaksud adalah dalam arti pengganti seperti di atas)*
+Nah, bahasa Jepang beroperasi persis seperti itu: bahasa ini tidak memiliki kata `it` (kata ganti benda kosongan).
 
-Jadi, jika seorang anak kecil, atau bahkan orang dewasa, turun ke dapur pada malam hari dan seseorang melihatnya, dia mungkin akan berkata, <code>Got really hungry. Came for something to eat.</code> Sekali lagi, tidak ada yang membingungkan atau sulit tentang ini. Yang dia maksud adalah, <code>I got really hungry. I came down for something to eat.</code>
+Contoh lain: bayangkan ada orang yang pergi ke dapur tengah malam, lalu kepergok oleh orang lain. Orang itu mungkin hanya akan bilang, `Got really hungry. Came for something to eat.` (Lagi lapar banget. Ke sini mau cari makan).
 
-**Dalam bahasa Inggris ini bukan kalimat yang benar, tetapi dalam bahasa Jepang ini benar. Semua kata ganti kecil itu, seperti <code>it</code>, <code>she</code>, <code>he</code>, <code>I</code>, <code>they</code>, dalam bahasa Jepang dapat digantikan oleh gerbong tak terlihat, subjek tak terlihat. Namun, hal penting yang perlu diingat adalah bahwa subjek tersebut tetap ada.**
+Sama sekali tidak membingungkan, kan? Padahal maksud struktur kalimat utuhnya adalah, `I got really hungry. I came down for something to eat.`
 
-Jadi, mari kita lihat bagaimana hal ini bekerja dalam bahasa Jepang. Saya mungkin akan berkata, <code>ドリーだ</code>, dan itu berarti <code>I am Dolly</code>. Awalnya ini terlihat seolah-olah hanya memiliki engine dan tidak ada gerbong utama, tetapi sebenarnya gerbong utama hanyalah gerbong tak terlihat. Kalimat lengkapnya sebenarnya adalah, <code>(**zeroが**)ドリーだ</code>.
+**Dalam tata bahasa formal bahasa Inggris, menghilangkan subjek seperti itu dianggap salah. Tapi di dalam bahasa Jepang, ini adalah struktur yang 100% benar. Semua kata ganti kecil seperti `it`, `she`, `he`, `I`, dan `they` dalam bahasa Jepang bisa digantikan secara utuh oleh gerbong tak terlihat. Namun, fakta terpenting yang wajib kamu ingat adalah: secara struktural, subjek tersebut tetap ada di sana.**
+
+Mari kita lihat penerapannya di dalam bahasa Jepang. Saya mungkin berkata, `ドリーだ`, yang berarti `I am Dolly`. Sekilas, kalimat ini terlihat seolah hanya punya *engine* tanpa ada gerbong utama sama sekali. Padahal, gerbong utamanya tetap ada, hanya saja posisinya sedang diisi oleh gerbong tak terlihat. Kalau ditulis secara struktural utuh, kalimat aslinya berbunyi: `(**zeroが**)ドリーだ`.
 
 ![](../media/image975.webp)
 
-Kita bisa mengatakan bahwa <code>I</code> adalah nilai default dari subjek tak terlihat, gerbong tak terlihat. Namun, konteks dapat mendefinisikannya sebagai apa saja. Misalnya, jika kita mendengar suara gemerisik di hutan dan melihat ke arahnya, dan saya berkata, <code>ウサギだ!</code>, itu berarti <code>(**zeroが**)ウサギだ!</code> <code>It is a rabbit!</code> Itu, benda yang baru saja kita lihat, yang berdesir di antara pepohonan, itu adalah seekor kelinci.
+Bisa dibilang bahwa `I` (Saya) adalah *setting default* dari subjek tak terlihat (Zero が) ini. Tapi, konteks di lapangan bisa mengubah maknanya menjadi apa saja. 
+
+Misalnya, kita sedang berada di hutan, lalu tiba-tiba terdengar suara gemerisik di semak-semak. Saat menoleh, saya spontan berteriak, `ウサギだ!`. Di situasi ini, kalimat struktural lengkapnya adalah `(**zeroが**)ウサギだ!` alias `It is a rabbit!`. Kata `it` (*zero が*) tersebut merujuk langsung pada konteks fisik benda yang baru saja kita lihat muncul dari semak-semak, yaitu seekor kelinci.
 
 ![](../media/image617.webp)
 
-Jika saya berkata, <code>土曜日だ</code> (土曜日 / どようび berarti Sabtu), saya mengatakan <code>(It) is Saturday</code>. Apa <code>it</code>? Hari ini adalah. Semua kalimat ini adalah kalimat bahasa Jepang yang lengkap, dengan subjek yang ditandai dengan が - / gerbong utama, dan engine.
+Contoh lain, jika saya berkata, `土曜日だ` (土曜日 / どようび berarti Sabtu), saya pada dasarnya sedang mengatakan `(It) is Saturday`. Apa arti `it` di kalimat ini? Tentu saja konteksnya adalah "Hari ini". Semua contoh di atas adalah kalimat bahasa Jepang yang utuh dan sempurna, lengkap dengan kehadiran gerbong utama (subjek bertanda が) dan sebuah *engine*.
 
 ![](../media/image490.webp)
 
 ## Partikel を
 
-Saya akan memperkenalkan satu jenis gerbong lagi, yaitu gerbong を. Ini berarti kata benda yang ditandai dengan partikel を, diucapkan <code>o</code>. Dan jika Anda mengenal istilah tata bahasa Inggris <code>object</code>, yang berarti objek yang kita lakukan sesuatu padanya, ini adalah cara yang baik untuk mengingat bahwa <code>o</code> berarti <code>object</code>.
+Sekarang, saya akan memperkenalkan satu jenis gerbong baru, yaitu gerbong を. Gerbong ini berisi kata benda yang ditempelkan dengan partikel を (dibaca `o`). Kalau kamu sudah familier dengan istilah *object* dalam tata bahasa (yaitu benda yang dikenai suatu tindakan/pekerjaan), maka ini adalah cara paling gampang untuk mengingatnya: anggap saja `o` adalah singkatan dari `object`.
 
-Jadi gerbong &quot;を&quot; terlihat seperti ini, dan seperti yang Anda lihat, warnanya putih. Warnanya putih karena bukan bagian dari kereta inti. **Kereta inti selalu terdiri dari hanya dua bagian, yaitu engine dan gerbong utama.** Ketika kita melihat gerbong berwarna putih, kita tahu bahwa gerbong tersebut memberi tahu kita informasi tambahan tentang engine atau gerbong utama.
+Wujud visual gerbong "を" bisa kamu lihat pada gambar di bawah. Perhatikan bahwa warnanya putih. Warnanya dibedakan menjadi putih karena gerbong ini *bukan* bagian dari kereta inti. **Kereta inti akan selalu, dan hanya, terdiri dari dua bagian: gerbong utama dan *engine*.** Jadi, saat kita melihat ada gerbong putih masuk ke dalam rangkaian, kita langsung tahu bahwa tugas gerbong itu murni hanya untuk memberikan informasi tambahan seputar si *engine* atau si gerbong utama.
 
 ![](../media/image77.webp)
 
-Jadi, mari kita ambil kalimat berikut: <code>わたしがケーキを食べる</code>. Ini berarti <code>I eat cake</code>.
+Mari kita bedah kalimat ini: `わたしがケーキを食べる` (I eat cake / Saya makan kue).
 
 ![](../media/image146.webp)
 
-Sekarang, kalimat inti di sini adalah <code>I eat</code>. Itu adalah dua gerbong hitam. Gerbong putih, <code>ケーキを</code>, memberi tahu kita lebih banyak tentang engine. Kalimat intinya adalah <code>I eat</code> dan <code>ケーキを</code> memberitahu kita apa yang saya makan.
+Kalimat intinya di sini sebenarnya hanyalah `I eat` (わたしが 食べる). Itu adalah dua gerbong hitam penyusun kereta inti. Lalu, masuklah gerbong putih `ケーキを` untuk memberikan detail lebih lanjut seputar si *engine* (tindakan). Kalimat intinya bilang 'Saya makan', dan `ケーキを` (kue) melengkapinya dengan memberi tahu *apa* objek yang saya makan.
 
-Sekarang, hal yang menarik di sini adalah bahwa kita sering melihat hal ini dikatakan seperti ini: <code>ケーキをたべる</code>. Dan Anda sudah tahu apa yang terjadi ketika hal ini terjadi. Ini adalah kasus lain di mana kita memiliki mobil A yang tak terlihat.
+Nah, bagian paling menariknya adalah, dalam percakapan sehari-hari bahasa Jepang, kalimat ini justru lebih sering diucapkan menjadi: `ケーキをたべる`. Dengan ilmu yang baru kamu pelajari di atas, kamu pasti sudah tahu apa yang sedang terjadi di sini, kan? Yap, ini adalah kasus di mana gerbong A (gerbong utama/subjek) berubah wujud menjadi gerbong tak terlihat.
 
 ![](../media/image280.webp)
 
-**Kita tidak bisa memiliki kalimat tanpa subjek (が). Kita tidak bisa memiliki tindakan yang dilakukan tanpa pelaku.** Jika kita mengatakan <code>ケーキをたべる</code>, yang sebenarnya kita katakan adalah <code>(zeroが)ケーキをたべる</code>. Dan nilai default untuk <code>zero</code>, untuk gerbong tak terlihat, adalah <code>わたし</code>. Jadi biasanya ini akan menjadi <code>I eat cake</code>, meskipun jika Anda sedang membicarakan orang lain pada saat itu, hal itu mungkin berarti orang tersebut yang memakan kue.
+**Ingat aturan emasnya: Kita tidak bisa membuat kalimat bahasa Jepang tanpa subjek (が). Sama halnya seperti kita tidak bisa membicarakan sebuah tindakan tanpa ada si pelaku tindakan.** Jadi, saat seseorang bilang `ケーキをたべる`, yang sebenarnya secara struktural ia katakan adalah `(zeroが)ケーキをたべる`. 
+
+Karena *setting default* dari `zero` (gerbong tak terlihat) adalah `わたし` (saya), kalimat ini otomatis berarti `I eat cake`. Namun, kalau konteks percakapan di momen tersebut ternyata sedang membicarakan orang lain, maka `zero` tersebut akan mewakili orang lain sebagai si pemakan kue.
 
 ::: info
-Sebagai catatan - seperti yang terlihat dari gambar-gambar, setiap partikel melekat pada/menetapkan dirinya pada kata SEBELUMnya, bukan sesudahnya.
+Sebagai pengingat logis: seperti yang bisa kamu lihat secara visual pada gambar-gambar gerbong di atas, setiap partikel itu menempel kuat pada kata SEBELUMNYA (kata yang ada di depannya), bukan kata sesudahnya.
 :::
