@@ -1,169 +1,171 @@
 # **6. Kata Sifat**
 
-[**Pelajaran 6: Bahasa Jepang <code>Adjectives</code> - rahasia sebenarnya yang membuatnya mudah. Yang tidak pernah diajarkan di sekolah.**](https://www.youtube.com/watch?v=iyVZlaEqU24&amp;list;=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&amp;index;=6)
+[**Pelajaran 6: Bahasa Jepang `Adjectives` - rahasia sebenarnya yang membuatnya mudah. Yang tidak pernah diajarkan di sekolah.**](https://www.youtube.com/watch?v=iyVZlaEqU24&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=6)
 
 こんにちは。
 
-Hari ini kita akan membahas kata sifat. Nah, kata sifat dalam bahasa Jepang tidak sama dengan kata sifat dalam bahasa Inggris. Seperti yang kita ketahui, kalimat dalam bahasa Jepang terbagi menjadi tiga jenis dasar, tergantung pada jenis &quot;engine&quot; yang dimilikinya.
+Hari ini kita akan membahas tentang kata sifat (*adjectives*). Nah, konsep kata sifat dalam bahasa Jepang itu tidak sama persis dengan bahasa Inggris. Seperti yang sudah kita pelajari, kalimat bahasa Jepang terbagi menjadi tiga jenis dasar, tergantung pada jenis "engine" yang menggerakkannya.
 
 ![](../media/image874.webp)
 
-Kita memiliki kalimat dengan struktur &quot;う&quot; (kalimat kata kerja); &quot;だ&quot; (kalimat kata benda); dan &quot;い&quot;, yang disebut Kereta kalimat kata sifat. **Namun, kenyataannya adalah ketiga jenis struktur tersebut dapat digunakan seperti kata sifat.**
+Kita punya: kalimat dengan engine "う" (kalimat kata kerja); kalimat dengan engine "だ" (kalimat kata benda/kopula); dan Kereta kalimat "い" (kalimat kata sifat). 
+**Namun, rahasia besarnya adalah: ketiga jenis struktur tersebut pada dasarnya BISA disulap dan digunakan sebagai kata sifat.**
 
 ![](../media/image1059.webp)
 
-Jadi, mari kita mulai dengan yang paling jelas, yaitu yang disebut <code>adjective</code> dalam bahasa Inggris.
+Mari kita mulai dari kelompok yang paling jelas dulu, yaitu kelompok yang padanannya paling mirip dengan kata sifat di bahasa Inggris.
 
-## Kata sifat &quot;い&quot;
+## Kata sifat "い"
 
-Kalimat sederhana dengan &quot;い&quot; adalah <code>ペンがあかい</code>. Seperti yang Anda ketahui, <code>あかい</code> tidak berarti <code>red</code>, melainkan <code>is-red</code>.
+Contoh kalimat sederhana dengan engine "い" adalah: `ペンがあかい`. Seperti yang sudah kamu pahami dari bab sebelumnya, `あかい` (akai) itu tidak berdiri sendiri sebagai benda `merah`, melainkan sudah bermakna `is-red` (berwarna merah).
 
 ![](../media/image789.webp)
 
-Sekarang, kita bisa mengubah engine hitam ini menjadi putih dan menempatkannya di belakang pena. Sekarang kita memiliki <code>あかいペンが</code>.
+Sekarang, kita bisa mengubah warna engine hitam ini menjadi putih dan memindahkannya ke belakang kata pena. Sekarang kita memiliki: `あかいペンが`.
 
 ![](../media/image279.webp)
 
-<code>あかいペン</code> berarti <code>is-red pen</code> atau, seperti yang kita katakan dalam bahasa Inggris, <code>red pen</code>. Seperti yang Anda lihat, **ini bukan kalimat lengkap lagi karena engine putih tidak menarik kereta, melainkan hanya memberi tahu kita lebih banyak tentang apa pun yang berada di belakangnya.**
+`あかいペン` berarti `is-red pen` atau, kalau diterjemahkan ke bahasa Indonesia normal, `red pen` (pena merah). Seperti yang kamu lihat, **susunan ini bukanlah sebuah kalimat utuh lagi. Kenapa? Karena si engine putih tidak lagi bertugas menarik rangkaian kereta, melainkan murni hanya memberikan detail informasi tambahan tentang benda apa pun yang berada di belakangnya.**
 
-Jadi <code>あかい</code>, begitu menjadi engine putih, hanya memberi tahu kita lebih banyak tentang gerbong utama kalimat tersebut, yaitu <code>ペン</code>. Dan jika kita ingin menjadikannya kalimat lengkap, kita harus memiliki engine baru. Jadi, mari kita ambil <code>ちいさい</code>, yang berarti <code>is-small</code>.
+Jadi, begitu `あかい` berubah wujud menjadi engine putih, ia cuma berfungsi memberi tahu kita detail ciri-ciri dari gerbong utamanya, yaitu si `ペン` (pena). Kalau kita mau menjadikannya kalimat utuh, kita butuh sebuah engine baru. Mari kita pakai `ちいさい` (chiisai), yang berarti `is-small` (kecil).
 
-<code>あかいペンがちいさい</code> – <code>The red pen is small</code>. *(atau mungkin <code>is-red pen is-small</code>)*
+`あかいペンがちいさい` – `The red pen is small` (Pena merah itu kecil).
 
 ![](../media/image114.webp)
 
-Jadi itu cukup sederhana.
+Sangat simpel dan logis, kan?
 
-## Menggunakan kata kerja sebagai kata sifat
+## Menggunakan Kata Kerja sebagai Kata Sifat
 
-Sekarang mari kita lihat kata kerja. Nah, jika Anda khawatir tentang &quot;な-adjectives&quot;—seperti yang disebutkan—jangan khawatir. **Kata-kata itu adalah kata benda**, dan kita akan membahasnya sebentar lagi. **Setiap kata kerja (う-Engine), dalam bentuk apa pun, dapat digunakan seperti kata sifat.**
+Sekarang mari kita lihat bagaimana cara kerja kata kerja. Kalau selama ini kamu dibikin pusing oleh istilah "*Na-adjectives*" yang ada di buku teks—tenang, abaikan dulu. **Mereka itu sejatinya adalah kata benda**, dan kita akan membedahnya sebentar lagi. 
+
+**Fakta paling krusial: Setiap kata kerja (Engine-う), dalam bentuk waktu (*tense*) apa pun, BISA digunakan layaknya sebuah kata sifat.**
 
 ![](../media/image475.webp)
 
-Jadi, kita bisa mengatakan, <code>しょうじょがうたった</code>. <code>歌った/うたった</code> berarti <code>sang</code>. Kata untuk &quot;bernyanyi&quot; adalah <code>うたう</code>, jadi bentuk &quot;た&quot;, seperti yang kita ketahui dari pelajaran terakhir, adalah <code>うたった</code>.
+Contoh, kita bisa membuat kalimat utuh: `しょうじょがうたった`. `歌った/うたった` (utatta) berarti `sang` (telah bernyanyi). Kata dasar untuk "bernyanyi" adalah `うたう` (utau), jadi bentuk lampau "た"-nya adalah `うたった`.
 
-<code>しょうじょがうたった</code> – <code>The girl sang</code>,
+Jadi, `しょうじょがうたった` – `The girl sang` (Gadis itu bernyanyi).
 
 ![](../media/image288.webp)
 
-dan jika kita mengubah engine tersebut menjadi bentuk pasif dan menempatkannya di belakang gadis itu, kita mendapatkan <code>うたったしょうじょ</code> – <code>the girl who sang</code>.
+Nah, jika kita mengubah engine tersebut menjadi engine putih (sebagai pemodifikasi) dan meletakkannya di depan si gadis, kita akan mendapatkan: `うたったしょうじょ` – `the girl who sang` (Gadis yang bernyanyi itu).
 
 ![](../media/image29.webp)
 
-Dan tentu saja, sekali lagi ini bukan kalimat. Tapi kita bisa memasukkannya ke dalam kalimat apa pun yang kita suka, seperti <code>うたったしょうじょがねている</code> – <code>the girl who sang is sleeping</code>.
+Tentu saja, sama seperti contoh pena tadi, susunan ini bukanlah sebuah kalimat utuh. Tapi hebatnya, kita bisa menyisipkannya ke dalam kalimat baru apa pun yang kita suka, contohnya: `うたったしょうじょがねている` – `the girl who sang is sleeping` (Gadis yang bernyanyi itu sedang tidur).
 
 ![](../media/image1140.webp)
 
-**Dan ini sangat penting karena banyak kalimat dalam bahasa Jepang disusun seperti ini. Kita bisa menggunakan kalimat lengkap yang berisi kata kerja sebagai kata sifat jika kita mau, dan hal ini sering terjadi.**
+**Konsep ini sangat amat penting, karena ada banyak sekali kalimat bahasa Jepang yang dirakit dengan cara seperti ini. Kita bisa mencopot satu kalimat utuh (yang mengandung kata kerja) lalu menggunakannya sebagai sebuah kata sifat raksasa kapan pun kita mau, dan hal ini sangat lazim dilakukan.**
 
-Misalnya, <code>いぬがじしょをたべた</code> – <code>the dog ate the dictionary</code>.
+Contoh lain: `いぬがじしょをたべた` – `the dog ate the dictionary` (Anjing itu memakan kamus).
 
 ![](../media/image703.webp)
 
-Kita bisa mengubahnya menjadi <code>じしょをたべたいぬが</code> – <code>the dog who ate the dictionary</code>.
+Kita bisa menyulapnya menjadi: `じしょをたべたいぬが` – `the dog who ate the dictionary` (Anjing yang memakan kamus itu).
 
 ![](../media/image970.webp)
 
-Atau kita bisa mengatakan, <code>いぬがたべたじしょ</code> – <code>the dictionary that was eaten by the dog</code>.
+Atau kita bisa memutarnya menjadi: `いぬがたべたじしょ` – `the dictionary that was eaten by the dog` (Kamus yang dimakan oleh anjing itu).
 
 ![](../media/image887.webp)
 
-::: info
-Dalam bahasa Jepang, ini jelas bukan kalimat pasif. Hanya saja agak sulit untuk menerjemahkannya ke dalam bahasa Inggris seperti dalam bahasa Jepang. Seperti yang dapat dilihat, bagian dalam bahasa Jepang jauh lebih sederhana.
-:::
+> **Catatan Tambahan:**
+> Dalam struktur bahasa Jepang murni, ini sama sekali bukan kalimat pasif. Hanya saja, saat kita menerjemahkannya ke dalam bahasa Inggris/Indonesia, kalimatnya agak sulit dibaca kalau tidak dipasifkan. Seperti yang bisa kamu lihat, logika struktur Jepangnya jauh lebih sederhana dan langsung ketimbang terjemahannya.
 
-Dan kemudian ini dapat dikembangkan menjadi kalimat lengkap, <code>じしょをたべたいぬがやんちゃだ</code>. <code>やんちゃ</code> adalah kata benda yang berarti <code>naughty</code> atau <code>bad</code>, jadi, <code>the dog who ate the dictionary is bad</code>.
+Lalu, bongkahan "kata sifat raksasa" ini bisa dikembangkan lagi menjadi sebuah kalimat utuh: `じしょをたべたいぬがやんちゃだ`. Kata `やんちゃ` (yancha) adalah kata benda yang berarti `naughty` (nakal). Jadi kalimat sempurnanya: `the dog who ate the dictionary is bad` (Anjing yang memakan kamus itu nakal).
 
 ![](../media/image91.webp)
 
-## Menggunakan kata benda-kata sifat sebagai kata sifat
+## Menggunakan Kata Benda sebagai Kata Sifat
 
-Ini membawa kita ke &quot;engine kata benda&quot;. Jika kita hanya mengatakan <code>いぬがやんちゃだ</code>, kita memiliki kalimat kata benda sederhana. Namun, kita juga dapat mengubah engine ini menjadi engine putih dan menempatkannya di belakang anjing. Namun, ada satu perubahan yang harus kita lakukan.
+Ini membawa kita ke pembahasan tentang "engine kata benda". Jika kita hanya mengatakan `いぬがやんちゃだ`, ini adalah kalimat kata benda yang sangat sederhana (Anjing = nakal). Namun, kita juga bisa mengubah engine kopula ini menjadi engine putih dan meletakkannya di depan si anjing. Syaratnya, ada satu perubahan mutlak yang harus kita lakukan.
 
-**Ketika kita mengubah <code>だ</code> atau <code>です</code> menjadi engine putih, saat kita menghubungkannya dengan apa pun, bentuknya berubah dari <code>だ</code> menjadi <code>な</code>.**
+**Ketika kita mengubah kopula `だ` atau `です` menjadi engine putih (untuk dihubungkan dengan benda di belakangnya), wujudnya BERUBAH dari `だ` menjadi `な` (na).**
 
 ![](../media/image761.webp)
 
-Jadi kita mengatakan <code>いぬがやんちゃだ</code>, tetapi kita mengatakan <code>やんちゃないぬ</code>, yang sama artinya dengan <code>やんちゃだいぬ</code> – <code>is-bad dog / the dog that is bad / the bad dog</code>.
+Jadi, kalimat asalnya `いぬがやんちゃだ`, tetapi saat dibalik posisinya menjadi `やんちゃないぬ`. Makna logisnya persis sama dengan `やんちゃだいぬ` – `is-bad dog / the dog that is bad / the bad dog` (Anjing yang nakal).
 
-Jadi kita bisa mengatakan <code>やんちゃないぬがねている</code> – <code>the bad dog is sleeping</code>.
+Lalu kita bisa merakitnya menjadi kalimat utuh: `やんちゃないぬがねている` – `the bad dog is sleeping` (Anjing nakal itu sedang tidur).
 
 ![](../media/image907.webp)
 
-**Sekarang, hal penting yang perlu diperhatikan di sini adalah kamu tidak bisa melakukan ini dengan setiap kata benda. Hanya ada beberapa kata benda yang sering digunakan sebagai kata sifat, yang bisa kamu gunakan seperti yang kita tunjukkan di sini.**
+**Sekarang, hal terpenting yang perlu kamu garis bawahi di sini: kamu TIDAK BISA melakukan trik "na" ini ke sembarang kata benda. Hanya ada kelas/golongan kata benda tertentu yang memang khusus dan sering difungsikan sebagai kata sifat, yang bisa kamu olah dengan cara ini.**
 
-Inilah yang disebut buku teks sebagai <code>な-adjectives</code>, dan ini adalah istilah yang sedikit membingungkan, karena seperti yang kita lihat, mereka sebenarnya adalah kata benda, **tetapi mereka merupakan kelas tertentu dari kata benda.**
+Golongan inilah yang sering dilabeli oleh buku-buku teks dengan istilah `な-adjectives` (Kata Sifat-Na). Istilah ini lumayan menyesatkan, karena seperti yang baru saja kita buktikan, mereka sejatinya adalah sejenis kata benda. **Hanya saja, mereka merupakan sub-kelas tertentu dari kelompok kata benda.**
 
-::: info
-Perhatikan bahwa <code>a certain class of noun</code>, mereka BUKAN kata benda sendiri yang sebenarnya. Hanya subkelas. Mereka tidak dapat digunakan sendiri seperti kata benda sendiri (misalnya sebagai subjek). Ada nama-nama berbeda untuk mereka karena alasan itu - Kata Benda Adjektival, Kata Sifat Nな, Kata Sifat, Kata Sifat Nominal, dll… 
-
-Hanya saja, mereka umumnya menyerupai bentuk yang mirip dengan kata benda sendiri dan menggunakan kata penghubung seperti mereka, sehingga dapat dianggap sebagai (dan kemungkinan besar memang) suatu kelas kata benda, hanya saja bukan sebagai kata benda sendiri.
-:::
+> **Info Penting:**
+> Perhatikan frasa `sub-kelas tertentu dari kata benda`. Mereka ini BUKANLAH kata benda mandiri. Kamu tidak bisa menggunakan mereka sendirian sebagai sebuah subjek. Karena sifat ganda inilah para ahli tata bahasa memberikan nama yang berbeda-beda buat mereka di berbagai buku: Kata Benda Adjektival, Kata Sifat-Na, Kata Sifat Nominal, dll.
+> Intinya, wujud fisik dan cara pakai mereka (yang butuh kopula/kata penghubung) itu mirip banget sama kata benda biasa, jadi mereka masuk dalam "rumpun" kata benda, meskipun peran spesifiknya murni sebagai pemberi sifat.
 
 ---
 
-**Apakah kita dapat menggunakan kata benda lain sebagai kata sifat? Ya, kita bisa, tetapi kita menggunakannya dengan cara yang sedikit berbeda dan mereka bukan &quot;engine&quot;.**
+**Lalu pertanyaannya: apakah kita bisa menggunakan kata benda jenis lain (kata benda murni di luar kelas Na) sebagai kata sifat? Jawabannya: YA, BISA! Tetapi cara pemakaiannya sedikit berbeda dan mereka tidak menggunakan sistem "engine".**
 
 ![](../media/image306.webp)
 
-## Kereta &quot;の&quot;
+## Kereta "の"
 
-Untuk menjelaskan ini, kita harus memperkenalkan jenis kereta baru untuk kereta api kita. Dan ini adalah kereta &quot;の&quot;. **Partikel の \[no\] adalah partikel yang sangat sederhana karena berfungsi persis seperti apostrof-s \[&#x27;s\] dalam bahasa Inggris.**
+Untuk menjelaskan hal ini, kita harus memasukkan satu jenis kereta baru ke dalam rangkaian kita. Namanya Kereta "の" (no). **Partikel の adalah partikel yang luar biasa simpel, karena fungsinya persis seperti tanda apostrof-s ('s) penunjuk kepemilikan di dalam bahasa Inggris.**
 
 ![](../media/image1098.webp)
 
-Jadi, <code>さくらのドレス</code> berarti <code>Sakura&#x27;s dress</code>. <code>わたしのはな/鼻</code> berarti <code>my nose</code>. 
-::: info
-Atau seperti yang ditunjukkan, secara harfiah <code>Me&#x27;s nose</code>.
-:::
-Untungnya, kita tidak perlu khawatir tentang hal-hal seperti <code>my</code> dan <code>your</code> dan <code>her</code> dan <code>his</code> dalam bahasa Jepang; **kami selalu hanya menggunakan <code>の</code>.**
+Jadi, `さくらのドレス` berarti `Sakura's dress` (Gaun milik Sakura). `わたしのはな/鼻` berarti `my nose` (Hidungku). 
+
+> **Catatan Logika:**
+> Atau seperti logika visual yang ditunjukkan pada gambar, secara harfiah artinya adalah `Me's nose`.
+
+Untungnya, kita tidak perlu repot-repot menghafalkan berbagai bentuk perubahan kata ganti kepemilikan seperti `my`, `your`, `her`, dan `his` dalam bahasa Jepang. **Kita pukul rata, selalu cukup menggunakan `の`.**
 
 ---
 
-Sekarang, karena <code>の</code> adalah partikel kepemilikan, partikel ini dapat digunakan dengan cara lain yang sedikit berbeda. Di awal video-video lama saya, saya selalu mengatakan, <code>カワジャパのキュアドリです</code> – <code>(I am) KawaJapa&#x27;s Cure Dolly</code>. (\*です = だ)
+Nah, karena `の` adalah partikel kepemilikan, fungsi ini bisa diperluas jangkauannya. Pada bagian pembuka video-video lama saya, saya selalu mengucapkan: `カワジャパのキュアドリです` – `(I am) KawaJapa's Cure Dolly` (*Cure Dolly miliknya KawaJapa*).
 
-**Dengan kata lain, KawaJapa adalah grup, komunitas, atau situs web tempat saya bergabung.**
+**Dengan kata lain, penggunaan partikel "の" ini menunjukkan bahwa KawaJapa adalah grup, komunitas, atau wadah tempat saya bernaung.**
 
-Dan kita bisa menggunakan ini secara lebih luas untuk mendefinisikan grup atau kelas tempat sesuatu berada. Jadi, <code>あかい</code> berarti <code>red</code> karena kita dapat mengubah kata benda <code>あか</code> menjadi bentuk kata sifat <code>あかい</code>. **Tapi kita tidak bisa melakukannya dengan semua warna.**
+Logika kepemilikan kelompok ini bisa kita pakai secara lebih luas untuk mendefinisikan "kelas/kategori" dari suatu benda. 
+Mari kita ambil contoh kata warna. `あかい` berarti `red` (merah) karena kita punya fasilitas struktural untuk mengubah kata benda `あか` menjadi kata sifat murni berakhiran `あかい`. **Sayangnya, kita tidak bisa melakukan hal instan itu untuk semua warna.**
 
-Misalnya, <code>ピンクいろ</code>. <code>いろ/色</code> berarti <code>color</code>, dan kita mengatakan <code>ピンクいろ</code>, artinya <code>pink</code>. **Namun, kata tersebut tidak memiliki bentuk -い. Dan kata tersebut juga tidak termasuk dalam kategori kata benda adjektival, atau kata sifat -な, sebagaimana disebut dalam bahasa Inggris.**
+Ambil contoh `ピンクいろ` (pinku iro / warna pink). `いろ/色` berarti `color`. Jadi kalau kita bilang `ピンクいろ`, itu murni merupakan sebuah kata benda. **Kata tersebut tidak punya versi akhiran "-い". Dan kata tersebut juga tidak terdaftar ke dalam kelompok kata benda adjektival (atau "kata sifat-Na").**
 
-Jadi, yang kita lakukan adalah menggunakan <code>の</code>. <code>ピンクいろのドレス</code> – <code>pink dress</code>. Dan ini berarti <code>**dress belonging to the class of pink things**</code>.
+Jadi, solusi untuk menjadikannya kata sifat adalah dengan menggunakan `の`. 
+`ピンクいろのドレス` – `pink dress`. Arti struktural logisnya adalah: `dress belonging to the class of pink things` (**Gaun yang termasuk ke dalam kategori hal-hal berwarna pink**).
 
 ![](../media/image286.webp)
 
-::: info
-Dolly menggunakan Hiragana di sini untuk <code>Pink</code>. Biasanya ditulis dalam Katakana, sebagai kata serapan.
-:::
+> **Catatan Tulisan:**
+> Dolly menggunakan huruf Hiragana di videonya untuk menuliskan kata `Pink`. Di kehidupan nyata, kata-kata serapan asing seperti ini normalnya selalu ditulis menggunakan huruf Katakana (ピンク).
 
-Jika kita ingin mengatakan <code>Oscar the Rabbit</code>, kita mengatakan <code>ウサギのオスカル</code>, yang secara harfiah berarti <code>rabbit&#x27;s Oscar</code>, dan artinya adalah <code>**Oscar who belongs to the class **rabbit**** </code>.
+Contoh lainnya, jika kita ingin menyebut karakter `Oscar the Rabbit` (Oscar si Kelinci), kita akan mengatakannya: `ウサギのオスカル`. Secara harfiah frasa ini berarti `rabbit's Oscar`, yang logika aslinya adalah: `Oscar who belongs to the class "rabbit"` (**Oscar yang termasuk ke dalam golongan/kelas "kelinci"**).
 
 ![](../media/image672.webp)
 
-<code>ゼルダのでんせつ</code> berarti <code>the legend of Zelda</code>; <code>でんせつのせんし</code> berarti <code>legendary warrior / **warrior who belongs to the class of legendary things**</code>.
+`ゼルダのでんせつ` berarti `the legend of Zelda`. `でんせつのせんし` berarti `legendary warrior`, yang logika aslinya adalah: **Ksatria yang termasuk ke dalam kategori hal-hal legendaris**.
 
 ![](../media/image400.webp)
 
-Jadi, kita memiliki empat cara untuk membentuk kata sifat: **tiga engine ditambah mobil &quot;の&quot;.**
+Sebagai kesimpulan, kita memiliki total empat jurus untuk merakit kata sifat: **menggunakan tiga engine, ditambah dengan satu gerbong "の".**
 
-Dan dengan ini, kita bisa membuat berbagai macam kalimat dan kalimat-kalimat tersebut bisa menjadi sangat kompleks, terutama dengan kata sifat verbal di mana kita bisa menggunakan kalimat kompleks utuh sebagai kata sifat.
+Hanya dengan berbekal keempat jurus ini, kita bisa menciptakan berbagai macam kalimat mulai dari yang sederhana hingga yang sangat kompleks—terutama jika dipadukan dengan trik "kata sifat verbal" di mana kita bisa membungkus satu kejadian panjang menjadi satu kata sifat besar pembidik benda.
 
-Dan saya akan membuat beberapa [**lembar kerja**](https://learnjapaneseonline.info/2022/03/28/worksheets/) yang akan membantu kita terbiasa dengan beberapa kalimat yang lebih kompleks tersebut, dan saya akan menempatkannya di bagian informasi di bawah [**video ini**](https://www.youtube.com/watch?v=iyVZlaEqU24&amp;list;=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&amp;index;=12).
+Saya akan membuat beberapa [**lembar kerja**](https://learnjapaneseonline.info/2022/03/28/worksheets/) yang bisa membantumu terbiasa dengan struktur kalimat kompleks tersebut. Tautannya sudah saya cantumkan di bagian deskripsi di bawah [**video ini**](https://www.youtube.com/watch?v=iyVZlaEqU24&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=12).
 
-Sekarang, mungkin Anda berpikir, <code>Since some nouns are used as adjectives with **な** and some with **の**, do I have to start learning lists of which ones go with **の** and which ones go with **な**?</code>
+Sampai di titik ini, kamu mungkin mulai panik dan berpikir: `Karena ada golongan kata benda yang harus pakai "な" dan ada yang harus pakai "の", apakah itu artinya saya harus mulai mencari tabel dan menghafalkan daftar panjang mana benda yang pakai "の" dan mana yang "な"?`
 
 ![](../media/image313.webp)
 
-Dan jawaban saya untuk itu adalah, **saya tidak melihat alasan yang baik untuk melakukannya kecuali jika Anda harus mempelajarinya untuk ujian.**
+Jawaban saya sangat tegas: **Saya sama sekali tidak melihat ada alasan logis untuk melakukan itu, KECUALI kalau kamu terpaksa harus mempelajarinya demi lulus ujian sekolah.**
 
-Mengapa tidak? Nah, lihatlah secara logis. Jika Anda mendengar seseorang menggunakannya dengan <code>の</code> atau <code>な</code>, Anda akan tahu apa yang mereka katakan. Jika Anda menggunakannya sendiri dan salah, tidak ada yang akan kesulitan memahami apa yang Anda katakan, dan itu adalah kesalahan kecil yang umum dilakukan oleh orang asing, dan jujur saja, itu adalah hal terakhir yang perlu Anda khawatirkan pada tahap awal. Jika Anda sedang menulis, tentu saja Anda bisa dengan mudah mencarinya.
+Kenapa tidak perlu dihafal? Coba pikirkan pakai logika alamiah. Kalau kamu mendengar seseorang ngobrol menggunakan `の` atau `な`, otakmu pasti otomatis paham apa maksud mereka. Begitu juga sebaliknya, kalau kamu lagi ngomong lalu *kepleset* salah pasang akhiran, tidak ada orang Jepang yang akan kesulitan menangkap inti ucapanmu. Itu adalah kesalahan teknis super kecil yang sangat lumrah dilakukan bule (orang asing). Jujur saja, masalah sepele itu adalah hal paling terakhir yang harus kamu pusingkan di tahap awal belajar. Kalau kamu mau menulis sesuatu secara resmi, kamu kan bisa mencarinya di kamus dengan mudah.
 
 ---
 
-**Seiring Anda semakin sering menggunakan bahasa Jepang, mendengarkan bahasa Jepang, dan membaca bahasa Jepang, Anda akan mengetahui mana yang <code>の</code> dan mana yang <code>な</code>.** Dan jika Anda tidak akan sering menggunakan bahasa Jepang, nah, mengapa Anda perlu mengetahuinya?
+**Seiring dengan makin seringnya kamu menggunakan bahasa Jepang, mendengarkan, dan membaca teks bahasa Jepang, otakmu akan membangun instingnya sendiri untuk menebak secara akurat mana yang pakai `の` dan mana yang pakai `な`.** 
+Dan sebaliknya, kalau kamu memang tidak berencana untuk sering berinteraksi dengan bahasa Jepang, buat apa juga kamu repot-repot membuang waktu menghafal daftarnya?
 
-Bagi saya, bahasa Jepang bukanlah permainan mempelajari informasi abstrak tanpa alasan tertentu. Ini adalah bahasa yang sebagian besar dapat kita pelajari secara alami, dan memahami struktur aslinya sangat membantu kita dalam melakukannya.
+Bagi saya, belajar bahasa Jepang itu bukanlah semacam *game* konyol untuk menghafal setumpuk informasi abstrak tanpa tujuan. Ini adalah bahasa yang mayoritas polanya bisa kita serap secara natural. Dan memahami struktur aslinya sejak awal akan sangat membantu proses penyerapan alami tersebut.
 
-::: info
-Jika ini terasa terlalu berat, saya selalu menyarankan untuk memeriksa komentar di bawah [video](https://www.youtube.com/watch?v=iyVZlaEqU24&amp;list;=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&amp;index;=12). Dan tentu saja, membaca ulang dan memahaminya sedikit demi sedikit. Kamu pasti bisa! ＼(⌒▽⌒)
-:::
+> **Pesan Semangat:**
+> Kalau materi bab ini terasa terlalu berat dan bikin ngebul, saya selalu menyarankan untuk mampir membaca komentar-komentar diskusi di bawah [video](https://www.youtube.com/watch?v=iyVZlaEqU24&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=12). Dan tentu saja, istirahatlah, baca ulang, dan resapi logikanya sedikit demi sedikit. Kamu pasti bisa! ＼(⌒▽⌒)
