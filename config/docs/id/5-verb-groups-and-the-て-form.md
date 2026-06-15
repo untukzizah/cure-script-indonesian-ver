@@ -1,130 +1,162 @@
-# **5. Kelompok Kata Kerja dan Bentuk-te
+# **5. Kelompok Kata Kerja dan Bentuk-te**
 
-[**Pelajaran 5: Kelompok kata kerja dalam bahasa Jepang dan Bentuk-te. Kelompok kata kerja 1, 2, dan 3 dijelaskan dengan mudah. Bahasa Jepang Organik**](https://www.youtube.com/watch?v=GzEVLMDC8nw&amp;list;=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&amp;index;=5)
+[**Pelajaran 5: Kelompok kata kerja dalam bahasa Jepang dan Bentuk-te. Kelompok kata kerja 1, 2, dan 3 dijelaskan dengan mudah. Bahasa Jepang Organik**](https://www.youtube.com/watch?v=GzEVLMDC8nw&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=5)
 
 こんにちは。
 
-Hari ini kita akan membahas kelompok kata kerja dalam bahasa Jepang. Kata kerja dalam bahasa Jepang terbagi menjadi tiga kelompok, dan hal ini tidak terlalu penting kecuali ketika kita akan mengubah bentuk kata kerjanya. Namun, karena kita sering melakukannya, penting untuk memahami ketiga kelompok tersebut.
+Hari ini kita akan membahas tentang kelompok kata kerja dalam bahasa Jepang. Kata kerja dalam bahasa Jepang terbagi menjadi tiga kelompok utama. Sebenarnya, pembagian kelompok ini tidak terlalu penting untuk dihafalkan *kecuali* saat kita ingin mengubah bentuk kata kerjanya. Namun, karena ke depannya kita akan sangat sering melakukan perubahan bentuk kata kerja, maka sangat krusial bagi kita untuk memahami ketiga kelompok ini sejak awal.
 
 ## Kata Kerja Ichidan
 
-Kelompok pertama kata kerja dalam bahasa Jepang disebut kata kerja ichidan atau <code>one-level</code> kata kerja. Beberapa orang menyebutnya <code>る-verbs</code>, yang merupakan nama yang sangat konyol. Jika Anda ingin menyebutnya seperti itu, mungkin sebaiknya kita menyebutnya <code>いる/える verbs</code>. Kata kerja ini adalah jenis kata kerja yang paling sederhana dan paling dasar.
+Kelompok pertama dari kata kerja dalam bahasa Jepang disebut sebagai kata kerja *ichidan* atau kata kerja satu tingkat (`one-level verbs`). Beberapa sumber atau buku teks menyebutnya sebagai `る-verbs` (kata kerja -ru). Jujur saja, itu adalah penamaan yang sangat konyol. Jika ingin menggunakan istilah semacam itu, mungkin lebih tepat jika kita menyebutnya sebagai `いる/える verbs`. 
+
+Kata kerja Ichidan ini adalah jenis kata kerja yang polanya paling sederhana dan paling dasar.
 
 ![](../media/image537.webp)
 
-Ketika kita ingin melakukan perubahan apa pun, kita selalu melakukannya dengan cara yang sama. **Yang kita lakukan hanyalah menghilangkan akhiran -る dan menambahkan apa pun yang ingin kita tambahkan.** Kata kerja Ichidan hanya dapat berakhir dengan -いる atau -える, artinya, dengan salah satu kana dari baris い atau salah satu kana dari baris え ditambah -る.
+Setiap kali kita ingin mengubah bentuk kata kerjanya (ke bentuk apa pun), polanya akan selalu sama. **Yang perlu kita lakukan hanyalah mencopot akhiran -る di belakangnya, lalu menempelkan elemen baru apa pun yang ingin kita tambahkan.** 
+
+Kata kerja Ichidan itu sangat spesifik: ia HANYA BISA memiliki akhiran dengan bunyi -いる (iru) atau -える (eru). Artinya, huruf terakhir sebelum る pasti merupakan salah satu *kana* (huruf) dari baris い (i) atau baris え (e).
 
 ![](../media/image910.webp)
 
 ## Kata kerja Godan
 
-Kelompok kata kerja kedua adalah yang paling besar dan **setiap akhiran yang bisa dimiliki kata kerja, kata kerja dalam kelompok ini bisa memilikinya.**
+Kelompok kedua ini adalah kelompok kata kerja yang anggotanya paling masif. **Semua jenis huruf akhiran yang mungkin dimiliki oleh sebuah kata kerja dalam bahasa Jepang, bisa kamu temukan di dalam kelompok ini.**
 
 ![](../media/image300.webp)
 
-Kata kerja selalu berakhir dengan bunyi う, tetapi tidak semua う -kana dapat menjadi akhiran kata kerja, namun banyak di antaranya yang bisa dan semuanya dapat membentuk kata kerja godan. Kata kerja ini disebut kata kerja godan, atau <code>five-level</code> kata kerja, karena alasan yang akan kita lihat sebentar lagi, dan seperti yang saya katakan **mereka dapat berakhir dengan bunyi apa pun seperti う, termasuk -いる atau -える.** Tidak seperti kata kerja ichidan, **mereka juga dapat berakhir dengan -おる, -ある, atau -うる.**
+Aturan dasar: semua kata kerja bentuk kamus pasti berakhiran dengan huruf berbunyi "う" (u). Tidak semua huruf berbunyi "う" bisa menjadi akhiran kata kerja, tetapi sebagian besar dari mereka bisa, dan semuanya itu membentuk keluarga kata kerja Godan. 
 
-Jadi, satu-satunya saat kita menghadapi ambiguitas adalah ketika kita memiliki kata kerja yang berakhiran -いる, atau -える. Sebagian besar kata kerja tersebut adalah kata kerja ichidan, tetapi ada sebagian kecil yang merupakan kata kerja godan yang berakhiran いる / える. Tidak sesulit yang Anda bayangkan untuk membedakannya, dan saya telah membuat [**video**](https://www.youtube.com/watch?v=VDmaSJ4s6Qo) tentang hal itu, meskipun isinya sedikit lebih maju daripada pelajaran ini.
+Kata kerja jenis ini disebut kata kerja *godan* atau kata kerja lima tingkat (`five-level verbs`). Alasannya akan segera kita bahas di bawah. Seperti yang saya katakan, **mereka bisa berakhiran dengan bunyi "う" apa pun, dan terkadang hal itu termasuk bunyi -いる atau -える.** Berbeda secara eksklusif dengan kelompok Ichidan tadi, kelompok Godan **juga memiliki anggota yang berakhiran -おる (oru), -ある (aru), atau -うる (uru).**
 
-## Kata Kerja Tidak Beraturan
+Nah, satu-satunya momen di mana kita mungkin merasa kebingungan atau mengalami ambiguitas adalah ketika kita menjumpai sebuah kata kerja yang berakhiran -いる atau -える. Memang, mayoritas dari mereka adalah kelompok Ichidan. Tetapi, ada sebagian kecil dari mereka yang ternyata adalah kelompok Godan yang secara kebetulan berakhiran -いる atau -える. 
 
-Kelompok kata kerja ketiga adalah kata kerja tidak beraturan, dan kabar baiknya adalah hanya ada dua jenis.
+Membedakan keduanya tidak sesulit yang kamu bayangkan. Saya sudah membuat satu [**video khusus**](https://www.youtube.com/watch?v=VDmaSJ4s6Qo) yang membahas cara membedakannya, meskipun materinya mungkin sedikit lebih *advanced* untuk tahap kita sekarang.
+
+## Kata Kerja Tidak Beraturan (*Irregular*)
+
+Kelompok ketiga dan yang terakhir adalah kata kerja tidak beraturan. Kabar baiknya: di bahasa Jepang, anggotanya cuma ada DUA!
 
 ![](../media/image565.webp)
 
-Anda tahu halaman-halaman penuh kata kerja tidak beraturan di buku teks Spanyol atau Prancis Anda? Nah, bahasa Jepang hanya memiliki dua. Ada beberapa kata kerja lain yang tidak beraturan dalam hal kecil tertentu, tetapi sangat sedikit. **Kata kerja tidak beraturan tersebut adalah &quot;くる&quot; (datang) dan &quot;する&quot; (melakukan).**
+Kamu ingat betapa tebalnya halaman yang berisi daftar panjang kata kerja *irregular* di buku teks bahasa Spanyol, Prancis, atau bahasa Inggris? Bahasa Jepang sungguh berbaik hati karena hanya memiliki dua buah kata kerja tak beraturan. (Memang ada beberapa kata kerja lain yang sifatnya sedikit *irregular* dalam kasus-kasus sangat kecil, tapi jumlahnya pun sangat minim).
 
-## Bentuk -て
+**Dua kata kerja *irregular* utama tersebut adalah: くる (datang) dan する (melakukan).**
 
-Jadi, sekarang setelah kita mengetahui ketiga kelompok tersebut, kita akan melihat bagaimana cara mengubahnya menjadi bentuk -て dan -た. Seperti yang saya jelaskan minggu lalu<sup>[[4]](./4-japanese-verb-tenses.md)</sup>, kita membutuhkan kedua bentuk tersebut untuk membuat bentuk sekarang dan lampau dalam bahasa Jepang. Selain itu, bentuk-bentuk ini juga memiliki berbagai kegunaan lain, yang akan kita pelajari seiring berjalannya kursus ini.
+## Pembentukan Bentuk -て (*Te-form*)
 
-Dan seperti yang saya tunjukkan minggu lalu, kata kerja ichidan selalu sangat mudah. **Anda tidak perlu melakukan apa pun selain menghilangkan akhiran -る dan menambahkan akhiran yang diinginkan, dalam hal ini -て atau -た.**
+Nah, sekarang setelah kita mengenal ketiga kelompok tersebut, kita akan membedah bagaimana cara mengubahnya menjadi bentuk `-て` (te) dan `-た` (ta). Seperti yang sudah saya jelaskan di pelajaran sebelumnya<sup>[[4]](./4-japanese-verb-tenses.md)</sup>, kita sangat membutuhkan kedua bentuk ini untuk bisa merakit kalimat masa kini berkelanjutan (*present continuous*) dan kalimat masa lalu (*past tense*). Terlebih lagi, bentuk `-て` ini juga akan memiliki segudang kegunaan vital lainnya seiring progres kita belajar.
 
-Adapun kata kerja godan, mereka terbagi menjadi lima kelompok, seperti yang Anda harapkan (五段 / ごだん, kata kerja lima tingkat), dan saya pernah membuat video tentang ini beberapa waktu lalu. Jadi, yang akan saya lakukan adalah memutar video tersebut sekarang, karena penjelasannya cukup jelas.
+Sesuai dengan janji saya minggu lalu: kelompok kata kerja Ichidan selalu paling gampang. **Kamu tidak perlu pusing memikirkan apa pun. Cukup buang akhiran -る nya, lalu tempelkan akhiran yang kamu butuhkan (dalam hal ini, huruf て atau た).**
 
-Baiklah, putar videonya.
+Lalu bagaimana dengan kelompok Godan? Sesuai dengan namanya (五段 / ごだん, alias lima tingkat), mereka terbagi lagi menjadi lima sub-kelompok berdasarkan pola akhirannya. Saya sudah pernah membuat video terpisah mengenai hal ini beberapa waktu lalu. Jadi untuk bagian ini, saya akan menyisipkan klip dari video lawas tersebut karena penjelasannya sudah sangat gamblang.
 
-Kata kerja godan memiliki lima jenis akhiran yang mungkin – itulah mengapa disebut kata kerja godan: kata kerja lima tingkat.
+*(Klip video diputar)*
+
+Kelompok Godan memiliki lima jenis variasi akhiran yang mungkin terjadi—itulah alasan mengapa mereka dijuluki kata kerja lima tingkat (*five-level verbs*).
 
 ![](../media/image897.webp)
 
-Dan meskipun hal itu tampak sedikit sulit, sebenarnya tidak. Kita bisa menggabungkan dua tingkatan tersebut, karena keduanya sangat mirip sehingga kita hanya perlu mempelajarinya sekali. Dan saya akan membahas kelompok-kelompok utamanya.
+Sekilas, kelima variasi ini mungkin terlihat mengintimidasi. Padahal sebenarnya tidak sama sekali. Kita bisa langsung menyederhanakan dua tingkat di antaranya dan menggabungkannya menjadi satu, karena polanya sangat identik sehingga kamu cuma perlu menghafalnya satu kali. Mari kita bedah kelompok-kelompok utama ini.
 
-### Kelompok Godan Pertama
+### Kelompok Godan Pertama (UTSURU)
 
-Kelompok pertama adalah apa yang saya sebut kata kerja UTSURU/うつる. Itu adalah kata kerja yang berakhiran -う, -つ, dan -る. Kata &quot;うつる&quot; dalam bahasa Jepang – jika Anda belum mengetahuinya, sekarang adalah waktu yang tepat untuk mempelajarinya – うつる berarti berpindah dari satu hal ke hal lain, dan itulah tepatnya yang kita lakukan di sini – memindahkan kata kerja kita dari satu jenis ke jenis lainnya.
+Kelompok pertama ini saya beri nama: kata kerja **UTSURU (うつる)**. Kenapa? Karena anggotanya adalah kata kerja yang berakhiran dengan huruf **-う (u), -つ (tsu), dan -る (ru)**. 
 
-Jadi, kata kerja yang berakhiran -う, -つ, dan -る semuanya berubah dengan cara yang sama menjadi bentukて. **Kita menghilangkan -う, -つ, atau -る, dan menggantinya dengan -っ kecil ditambah て (atau た dalam bentukた).**
+Fakta menarik: Kosakata "うつる" itu sendiri di dalam bahasa Jepang berarti 'berpindah dari satu hal ke hal lain'. Ini adalah momen yang tepat untuk menghafalnya, karena makna kata tersebut mewakili persis apa yang sedang kita lakukan sekarang—memindahkan bentuk kata kerja dari satu wujud ke wujud lainnya!
 
-Jadi わらう - tertawa, menjadi わらって (Waratte);  
-もつ - memegang, menjadi もって (Motte);  
-dan とる - mengambil, menjadi とって (Totte).
+Semua kata kerja yang berakhiran -う, -つ, dan -る memiliki nasib yang sama saat berubah menjadi bentuk `-て`. **Caranya: kita penggal huruf -う, -つ, atau -る tersebut, lalu menggantikannya dengan sebuah huruf `っ` (tsu) kecil yang diikuti dengan `て` (atau `た` jika untuk bentuk lampau).**
 
-Sekarang, Anda akan melihat bahwa うつる memiliki つ di tengahnya.
+Contohnya:
+- わら**う** (tertawa) menjadi わら**って** (Waratte).
+- も**つ** (memegang) menjadi も**って** (Motte).
+- と**る** (mengambil) menjadi と**って** (Totte).
+
+Sekarang, coba kamu perhatikan baik-baik. Kata うつる secara harfiah memiliki huruf つ di tengah-tengahnya, bukan?
 
 ![](../media/image994.webp)
 
-Dan bentuk て dari kata kerja うつる dibentuk dengan menggunakan っ kecil ditambah て. **Ini adalah satu-satunya kelompok yang memiliki つ di dalamnya, dan satu-satunya kelompok yang memiliki つ pada akhiran bentuk て.**  
+Dan bentuk `て` dari kelompok kata kerja UTSURU ini juga dibentuk dengan menyematkan huruf `っ` (tsu) kecil. **Ini adalah satu-satunya kelompok yang memiliki komponen berbunyi 'tsu' di dalamnya, sekaligus merupakan satu-satunya kelompok yang menghasilkan 'tsu' kecil pada akhiran bentuk て-nya.**
 
-Jadi sangat mudah untuk diingat.
+Jadi, ini harusnya sangat mudah untuk dihafal.
 
 ::: tip
-Anda dapat mengetik huruf kecil っ dengan mengetik t sebelum T-kana った (tta), atau dengan tombol X + tsu. Hal ini juga berlaku untuk <code>あ, い, う, え, お</code> kana - ぁ (X + a), ぃ (X + i)... Perhatikan juga づ (diketik - Du) dan ぢ (Di) - bentuk kana tidak teratur ず dan じ. Jika Anda perlu mengetiknya, hal itu bisa terjadi. Dan ん adalah <code>nn</code>.
+Untuk mengetik huruf `っ` (tsu) kecil di *keyboard*, kamu cukup mengetik dua huruf konsonan ganda, seperti `tta` (untuk った) atau `tte` (untuk って). Atau, kamu juga bisa memakai cara manual dengan mengetik `x` diikuti `tsu` (xtsu).
+Trik awalan huruf `x` ini juga berlaku kalau kamu ingin membuat huruf vokal kecil `あ, い, う, え, お` menjadi ぁ (`xa`), ぃ (`xi`), dst.
+Penting: Untuk mengetik づ gunakan `du`, dan untuk ぢ gunakan `di`. (Ini berbeda dengan kana netral ず `zu` dan じ `ji`). Oh ya, untuk mengetik huruf tunggal ん, cukup tekan `nn`.
 :::
 
-### Kelompok Godan Kedua
+### Kelompok Godan Kedua (NEW BOOM)
 
-Kelompok kedua adalah yang saya sebut sebagai kelompok NEW BOOM. Dalam bahasa Jepang, ketika sesuatu benar-benar sedang naik daun, ketika menjadi populer, kita menyebutnya ブーム (BUUMU). Itu kata dalam bahasa Inggris, bukan? Buumu, sebuah New Buumu!
+Kelompok yang kedua ini saya sebut sebagai kelompok **NEW BOOM**. Di bahasa Jepang, kalau ada tren baru yang lagi *booming* atau populer banget, mereka menyerap kata bahasa Inggris itu menjadi ブーム (BUUMU). Sebuah New Buumu!
 
-Jadi, kelompok ini saya sebut sebagai kelompok New Boom karena tidak ada kata dalam bahasa Jepang yang bisa dibuat dari ぬ, ぶ, dan む yang saya ketahui, dan yang ingin saya tunjukkan kepada Anda tentang kelompok kata kerja ini adalah bahwa **semuanya berakhir dengan apa yang saya sebut sebagai bunyi yang tumpul – ぬ, ぶ, む.**
+Kenapa saya kasih nama New Boom? Karena saya tidak menemukan ada kosakata asli bahasa Jepang yang tersusun dari gabungan huruf **ぬ (nu), ぶ (bu), dan む (mu)**. Dan hal utama yang ingin saya tekankan mengenai anggota kelompok ini adalah: **mereka semua berakhiran dengan apa yang saya sebut sebagai "bunyi tumpul" (*blunt sounds*) — yaitu ぬ, ぶ, dan む.**
 
 ![](../media/image35.webp)
 
-Ini bukan bunyi tajam seperti す, つ, く, dan bukan pula bunyi netral seperti る atau う. Ini adalah bunyi tumpul – ぬ, ぶ, む (Nu, Bu, Mu). Dan ini penting karena akhirannya juga merupakan bunyi tumpul. **Akhiran bentuk &quot;て&quot; adalah -んで, sedangkan bentuk &quot;た&quot; adalah -んだ.**
+Ini bukanlah bunyi "tajam" seperti す, つ, く. Ini juga bukan bunyi "netral" seperti る atau う. Ini adalah bunyi yang tumpul (Nu, Bu, Mu). Identifikasi ini penting, karena suara perubahan akhirnya nanti juga akan menjadi "tumpul". **Untuk kelompok ini, akhiran bentuk `-て`-nya akan berubah menjadi `-んで` (nde), sedangkan bentuk `-た`-nya menjadi `-んだ` (nda).**
 
-Jadi, &quot;しぬ&quot;, **kata kerja dengan akhiran -ぬ**, menjadi &quot;しんで&quot; / &quot;しんだ&quot;;  
-&quot;のむ&quot; - minum, menjadi &quot;のんで&quot; / &quot;のんだ&quot;; &quot;あそぶ&quot; - bermain, menjadi &quot;あそんで&quot; / &quot;あそんだ&quot;.
+Contohnya:
+- し**ぬ** (kata kerja berakhiran -ぬ) menjadi し**んで** (shinde) / し**んだ** (shinda).
+- の**む** (minum) menjadi の**んで** (nonde) / の**んだ** (nonda).
+- あそ**ぶ** (bermain) menjadi あそ**んで** (asonde) / あそ**んだ** (asonda).
 
-Itulah kelompok New Boom, kata kerja dengan akhiran datar. Dan karena hanya sejumlah terbatas kana yang dapat digunakan sebagai akhiran kata kerja, kelompok ini mencakup semua bunyi datar **kecuali ぐ (Gu).** Kita akan membahasnya sekarang.
+Itulah dia si kelompok New Boom, kumpulan kata kerja dengan akhiran bersuara datar/tumpul. Karena jumlah kombinasi huruf kana untuk akhiran kata kerja itu sangat terbatas, maka aturan kelompok New Boom ini secara otomatis mencakup SEMUA sisa bunyi tumpul yang ada... **kecuali ぐ (Gu).** 
 
-### Kelompok Godan Ketiga &amp; Keempat
+Huruf 'gu' punya nasib sendiri, dan kita akan membahasnya sekarang.
 
-Saya telah memberitahu Anda bahwa dua kelompok dapat digabungkan - yaitu kelompok &quot;く&quot; dan &quot;ぐ&quot;. **Untuk membentuk bentuk &quot;て&quot; dari kata kerja yang berakhiran &quot;く&quot;, kita memotong akhiran &quot;く&quot; dan menambahkan &quot;いて&quot;, atau &quot;いた&quot; dalam bentuk &quot;た&quot;.**
+### Kelompok Godan Ketiga & Keempat (KU & GU)
 
-Jadi &quot;あるく&quot; - berjalan, menjadi &quot;あるいて&quot; / &quot;あるいた&quot;.
+Tadi di awal saya sempat berjanji bahwa ada dua kelompok yang bisa kita gabungkan menjadi satu. Inilah mereka: kelompok berakhiran **"く" (ku)** dan **"ぐ" (gu)**. 
 
-Sekarang, jika kita menambahkan &quot;〃&quot; (ten-ten) pada く, untuk mengubahnya menjadi ぐ, prosesnya sama persis, kecuali ada juga &quot;ten-ten&quot; pada akhiran て.
+**Untuk mengubah kata kerja berakhiran "く", kita cukup memotong "く"-nya dan menambahkan "いて" (ite). Jika untuk bentuk lampau, tambahkan "いた" (ita).**
+
+Contoh: 
+- ある**く** (berjalan) menjadi ある**いて** (aruite) / ある**いた** (aruita).
+
+Lalu bagaimana dengan "ぐ"? Seperti yang kamu tahu, "ぐ" hanyalah huruf "く" yang diberi tambahan *ten-ten* (tanda kutip `〃` di atas huruf). Karena asalnya sama, maka **proses perubahannya pun sama persis. Bedanya, hasil akhirnya (*ite / ita*) juga harus ikut dipasangkan *ten-ten* (menjadi *ide / ida*).**
 
 ![](../media/image459.webp)
 
-Jadi あるく menjadi あるいて, tetapi およぐ - untuk berenang, menjadi およいで.
+Contoh:
+- ある**く** menjadi ある**いて** (aruite).
+- およ**ぐ** (berenang) menjadi およ**いで** (oyoide).
 
-Namun, seperti yang Anda lihat, keduanya hampir identik. Hanya saja jika ada akhiran -ten-ten pada kata kerja aslinya, maka ada juga akhiran -ten-ten pada bentuk て. あるく, あるいて; およぐ, およいで.
+Kamu bisa melihat kan kalau keduanya secara logika nyaris identik? Aturannya simpel: Jika kata kerja aslinya membawa *ten-ten*, maka hasil akhirnya di bentuk `-て` juga harus mewarisi *ten-ten* tersebut. あるく -> あるいて; およぐ -> およいで.
 
-### Kelompok Godan Kelima
+### Kelompok Godan Kelima (SU)
 
-Dan sekarang tinggal satu lagi, yaitu す. **Dan kata kerja yang berakhiran -す, hilangkan -す dan tambahkan -して.** Seperti yang akan Anda perhatikan, jika Anda telah mengikuti pelajaran terakhir kami *(Tidak yakin yang mana, tapi akan dibahas),* kami hanya melakukan hal biasa yaitu memindahkan kana す ke ekuivalen baris い-nya, し.
+Tinggal satu kelompok terakhir yang belum kita bahas, yaitu kelompok berakhiran **す (su)**. 
+
+**Untuk kata kerja berakhiran -す, hilangkan -す nya, dan tambahkan -して (shite).**
+Kalau kamu rajin menyimak di pelajaran sebelumnya, kamu pasti menyadari satu hal. Logika perubahan ini sebenarnya sama persis dengan aturan dasar kita: kita cuma menggeser huruf 'su' tersebut menjadi padanan hurufnya di baris `い` (i), yaitu 'shi' (し).
 
 ![](../media/image491.webp)
 
-Jadi, &quot;はなす&quot; (berbicara) menjadi &quot;はなして&quot;; kata bantu &quot;ます&quot;, yang mengubah kata kerja menjadi kata kerja formal *(sopan)*, dalam bentuk lampau menjadi &quot;ました&quot;.
+Contoh:
+- はな**す** (berbicara) menjadi はな**して** (hanashite).
+- Kata bantu **ます** (masu) — yang berfungsi membuat sebuah kata kerja menjadi formal/sopan — dalam bentuk lampaunya otomatis berubah menjadi **ました** (mashita).
 
 ::: info
-Setiap kali Dolly menggunakan istilah <code>formal</code> untuk &quot;です&quot; atau &quot;ます&quot;, seharusnya diganti dengan &quot;POLITE&quot;, karena ada perbedaan antara kedua istilah tersebut dalam bahasa Jepang. Saya tidak yakin mengapa dia tidak menyinggung hal ini, tetapi sangat penting untuk membedakannya; jika Anda memeriksa definisinya, kamus menandainya sebagai &quot;polite&quot;. **Keduanya merupakan bagian dari bahasa sopan (丁寧語). Jadi, lebih tepat jika kita menyebutnya sebagai bentuk sopan.**
+Setiap kali Dolly menggunakan istilah `formal` untuk merujuk pada pemakaian "です" atau "ます", istilah itu sebenarnya lebih pas diganti dengan kata `POLITE` (Sopan/Halus). Ada perbedaan fungsi antara kedua istilah linguistik tersebut dalam bahasa Jepang. Entah kenapa Dolly tidak menyinggung pembedaan ini, padahal ini cukup krusial. Jika kamu mengecek kamus, kata-kata ini selalu ditandai dengan label "polite". **Keduanya adalah elemen dari bahasa sopan (丁寧語 / Teineigo). Jadi, akan jauh lebih akurat jika kita mulai menyebutnya sebagai "bentuk sopan".**
 :::
 
-Jadi, sekarang kita sudah memiliki semua kata kerja godan. Bukankah saya terlihat muda di video lama itu?
+*(Klip video lawas selesai)*
+
+Nah, sampai di sini kita sudah berhasil membedah seluruh keluarga kata kerja Godan! Oh ya, bukankah saya terlihat jauh lebih muda di klip video lawas itu?
 
 ![](../media/image94.webp)
 
-### Pengecualian 
+### Pengecualian (Irregular)
 
-Sekarang, kita hanya akan melihat pengecualiannya. **Ada tiga saja: dua kata kerja tidak beraturan kita dan satu kata kerja kecil lainnya.**
+Sebagai penutup, kita akan melihat kasus-kasus pengecualiannya. Tenang saja, **kasus pengecualian ini jumlahnya cuma TIGA: dua berasal dari daftar kata kerja tidak beraturan (*irregular*) yang kita bahas di awal tadi, dan satu lagi adalah sebuah kata kerja kecil.**
 
-Dan ini sangat sederhana. &quot;くる&quot; (datang) menjadi &quot;きて&quot;; &quot;する&quot; (melakukan) menjadi &quot;して&quot;.
-
-Dan いく – kata kerja いく (pergi) – karena berakhiran -く, Anda mungkin mengira akan menjadi いいて, tetapi tidak, melainkan menjadi **いって**.
+Perubahannya juga sangat simpel dan langsung dihafal saja:
+1. **くる** (datang) menjadi **きて** (kite).
+2. **する** (melakukan) menjadi **して** (shite).
+3. **いく** (pergi) — karena kata ini berakhiran -く, menurut rumus Ku & Gu tadi kamu mungkin berekspektasi perubahannya menjadi *いいて* (iite). Tapi ternyata tidak, ia sedikit membelot dari aturan dan berubah menjadi **いって** (itte).
 
 ![](../media/image1057.webp)
 
-Dan itulah satu-satunya pengecualian. Jadi, jika Anda menonton video / *pelajaran ini* beberapa kali, saya yakin Anda akan dengan mudah memahami cara membuat bentuk - て dan - た dalam semua kasus.
+Dan selesai! Itulah satu-satunya pengecualian yang harus kamu ingat. Jadi, jika kamu memutar ulang dan mencerna pelajaran ini beberapa kali, saya berani jamin kamu akan dengan mudah merakit bentuk `-て` dan `-た` dalam situasi apa pun!
