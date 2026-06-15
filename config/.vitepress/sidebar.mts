@@ -478,7 +478,7 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
           "link": "/3-the-は-particle"
         },
         {
-          "text": "4. Waktu (Tense) Kata Kerja Bahasa Jepang",
+          "text": "4. (Tenses) Perubahan Kata Kerja Bedasarkan Waktu Dalam Bahasa Jepang",
           "link": "/4-japanese-verb-tenses"
         },
         {
