@@ -1,163 +1,202 @@
-# **8. Partikel &quot;に&quot; dan &quot;へ&quot;**
+# **8. Partikel "に" dan "へ"**
 
-[**Pelajaran 8: Lokasi, tujuan, dan transformasi — kunci pemahaman partikel &quot;ni&quot; dan &quot;he&quot;**](https://www.youtube.com/watch?v=uqlQYrE2oFM&amp;list;=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&amp;index;=9)
-
-## Partikel &quot;に&quot;
+[**Pelajaran 8: Lokasi, tujuan, dan transformasi — kunci pemahaman partikel "ni" dan "he"**](https://www.youtube.com/watch?v=uqlQYrE2oFM&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=9)
 
 こんにちは。
 
-Hari ini kita akan membahas partikel <code>に</code>, dan dengan demikian kita akan meningkatkan kemampuan kita. Apa yang saya maksud dengan itu? Dalam tujuh pelajaran sebelumnya, kita telah mempelajari cukup banyak struktur dasar bahasa Jepang. Kita sekarang bisa mengatakan banyak hal jika memiliki kosakata yang cukup. Namun, semua yang bisa kita katakan sangat, sangat konkret.
+Hari ini kita akan membahas partikel `に` (ni). Mempelajari partikel ini berarti kita secara resmi menaikkan level kemampuan bahasa Jepang kita. 
 
-Kita bisa berbicara tentang melakukan sesuatu dan menjadi sesuatu, yang tentu saja merupakan inti dari setiap kalimat. Namun, kita juga perlu memiliki beberapa konsep yang lebih canggih. Hal-hal seperti tujuan, niat, dan transformasi. Jadi hari ini kita akan melihat penggunaan partikel &quot;に&quot;, beberapa di antaranya masih sangat konkret dan beberapa di antaranya mulai membawa kita ke area yang lebih kompleks.
+Apa maksud saya? Selama tujuh pelajaran sebelumnya, kita telah mempelajari cukup banyak fondasi struktur dasar bahasa Jepang. Berbekal ilmu itu, kita sebenarnya sudah bisa membicarakan banyak hal (asalkan punya perbendaharaan kosakata yang cukup). Namun, semua hal yang bisa kita bicarakan sejauh ini sifatnya sangat, sangat konkret dan *saklek*.
+
+Kita sudah bisa membicarakan tentang *melakukan* sesuatu dan *menjadi* sesuatu—yang tentu saja merupakan tulang punggung dari setiap kalimat. Namun di dunia nyata, kita juga butuh merakit konsep kalimat yang sedikit lebih canggih. Konsep seperti menyatakan tujuan, niat, atau transformasi (perubahan wujud). Jadi hari ini, kita akan membedah berbagai penggunaan partikel "に". Beberapa fungsinya sangat konkret, sementara beberapa sisanya akan mulai membawa kita menyelam ke area yang lebih abstrak dan kompleks.
 
 ![](../media/image854.webp)
 
-Nah, kita sudah membahas partikel &quot;に&quot;, bukan? Dan **kita tahu bahwa dalam kalimat logis, partikel ini menandai sasaran akhir dari suatu tindakan.** Jadi <code>(zeroが)さくらにボールをなげた</code> berarti <code>I threw the ball at Sakura</code>.
+Kamu pasti ingat, kita sebenarnya pernah menyinggung partikel "に" sebelumnya, kan? **Dan kita sudah tahu bahwa di dalam sebuah struktur kalimat logis, partikel "に" bertugas menandai 'sasaran akhir' atau 'tujuan' dari suatu tindakan.** 
+
+Contohnya: `(zeroが)さくらにボールをなげた` berarti `I threw the ball at Sakura` (Saya melempar bola ke arah Sakura).
 
 ![](../media/image197.webp)
 
-Bola ditandai dengan を karena itulah benda yang sebenarnya saya lempar. Saya ditandai dengan が terlepas dari apakah Anda bisa melihat saya atau tidak, karena saya adalah orang yang melakukan tindakan melempar. **Namun, Sakura ditandai dengan に karena dia adalah sasaran dari tindakan tersebut, dalam hal ini secara harfiah.**
+Bola ditandai dengan gerbong `を` (o) karena bola adalah objek benda fisik yang saya lempar. Saya sebagai pelaku ditandai dengan gerbong `が` (ga), terlepas dari apakah kamu bisa melihat tulisan pelakunya atau tidak (*zero-ga*), karena sayalah yang melakukan tindakan melempar itu. 
 
-Sekarang, **partikel &quot;に&quot; hampir selalu menandai sasaran dalam bentuk apa pun. Jadi, jika kita pergi ke suatu tempat, mengirim sesuatu ke suatu tempat, atau meletakkan sesuatu di suatu tempat, kita menggunakan に untuk itu <code>somewhere</code>. Jadi, jika A pergi ke B, maka B ditandai dengan に. B adalah tujuan, sasaran dari perjalanan tersebut.**
+**Lalu, Sakura ditandai dengan `に` karena dia adalah 'sasaran/target' dari tindakan melemparan tersebut. Dalam konteks ini, ia menjadi target secara harfiah (fisik).**
 
-Jadi, jika saya pergi ke taman, saya mengatakan <code>(zeroが)こうえんにいく</code>.
+Sekarang, kembangkan logikanya: **partikel "に" nyaris selalu berfungsi menandai sebuah sasaran, dalam wujud apa pun.** Jadi, jika kita pergi ke suatu tempat, mengirim barang ke suatu tempat, atau meletakkan sesuatu di suatu tempat, kita selalu menggunakan "に" untuk menandai tempat tersebut. **Jika A pergi ke B, maka B ditandai dengan に. B adalah target/sasaran dari perjalanan tersebut.**
+
+Jadi, jika saya mau bilang saya pergi ke taman, saya merakitnya: `(zeroが)こうえんにいく`. (Kōen = taman).
 
 ![](../media/image550.webp)
 
-Jika saya pergi ke toko, saya mengatakan <code>(zeroが)おみせにいく</code>.
+Jika saya pergi ke toko, saya merakitnya: `(zeroが)おみせにいく`.
 
 ![](../media/image237.webp)
 
-**Jadi, tujuan atau sasaran pergerakan yang sebenarnya dan fisik ditandai dengan に. Namun, kita juga bisa menandai jenis sasaran yang lebih halus.**
+**Kesimpulannya: tujuan atau sasaran pergerakan fisik yang nyata akan selalu ditandai dengan に. Namun, keajaiban partikel ini adalah, ia juga bisa menandai jenis sasaran yang lebih halus (abstrak).**
 
-Jadi, kita bisa mengatakan <code>(zeroが)おみせにたまごを**かいに**いく</code>. Ini berarti <code>I go to the shops **to buy** eggs</code>.
+Mari kita lihat kalimat ini: `(zeroが)おみせにたまごを**かいに**いく`. 
+Ini berarti `I go to the shops **to buy** eggs` (Saya pergi ke toko **untuk membeli** telur).
 
 ![](../media/image651.webp)
 
-<code>おみせ</code> adalah <code>shop/s</code> – <code>shop</code> adalah <code>みせ</code> dan kita menambahkan gelar kehormatan <code>お</code> karena kami menghormati orang-orang yang membantu kami memiliki semua hal indah yang beruntung kami miliki. <code>たまご</code> adalah telur – Anda mungkin, jika sudah cukup tua, ingat たまごっち /Tamagotchi, makhluk kecil berbentuk telur yang Anda rawat.
+Mari kita bedah kosakatanya. `おみせ` adalah toko. Kata dasarnya adalah `みせ`, lalu kita menambahkan awalan sopan `お` untuk menghormati orang-orang yang bekerja keras membantu kita mendapatkan barang kebutuhan sehari-hari. `たまご` adalah telur. (Kamu mungkin ingat mainan anak 90-an *Tamagotchi*—makhluk digital kecil berbentuk telur yang harus kamu rawat).
 
-**Dan <code>かい</code> adalah batang い -I-stem <code>かう</code> – untuk membeli.** Akar kata い adalah akar kata yang sangat istimewa dan dapat melakukan banyak hal, **dan juga bisa berdiri sendiri.**
+**Lalu, perhatikan kata `かい` (kai). Ini sebenarnya adalah wujud akar kata *I-stem* dari kata kerja `かう` (kau) yang berarti membeli.** 
+Ingat pelajaran sebelumnya? Akar kata *I-stem* ini adalah akar yang sangat istimewa. Ia bisa ditempeli macam-macam kata bantu, **TETAPI ia juga bisa berdiri sendiri.**
 
 ![](../media/image179.webp)
 
-<code>かいにいく</code> berarti <code>[go] in order to buy, for the purpose of buying</code>.
+Saat berdiri sendiri, `かいにいく` berarti `[go] in order to buy, for the purpose of buying` (Pergi *untuk tujuan* membeli).
 
 ---
 
-Sekarang, Anda mungkin berkata, <code>I thought that logical particles like に and が and を can only mark nouns</code> – dan itu benar sekali. Karena **salah satu hal yang dapat dilakukan oleh akar kata い dari sebuah kata kerja ketika berdiri sendiri adalah mengubah kata kerja tersebut menjadi kata benda yang setara.**
+Sampai di sini, kamu mungkin akan protes, `"Tunggu dulu, bukankah aturan emasnya bilang kalau partikel logis seperti に, が, dan を HANYA BISA ditempelkan pada Kata Benda?"` 
+
+Kamu 100% benar! **Karena itulah salah satu kehebatan lain dari akar kata *I-stem*. Ketika sebuah akar kata *I-stem* dibiarkan berdiri sendiri tanpa embel-embel apa pun di belakangnya, fungsinya OTOMATIS BERUBAH dan menyulap kata kerja tersebut menjadi sebuah 'kata benda yang setara'.**
 
 ::: info
-Lihat Pelajaran 7.5, A-stem &quot;い&quot;, mengubah kata kerja
+Ingat kembali Pelajaran 7.5 mengenai A-stem "い" dan kemampuannya mengubah kata kerja menjadi kata benda.
 :::
 
-(A-stem ini juga bisa melakukan hal lain, tapi saya bisa membahasnya lain waktu.)
+*(I-stem ini juga bisa melakukan sihir lain, tapi kita bahas kapan-kapan saja.)*
 
 ![](../media/image728.webp)
 
-Jadi **<code>かい</code>, tindakan membeli, adalah kata benda.** Sama seperti dalam bahasa Inggris jika kita mengatakan <code>I like swimming</code>, <code>swimming</code> adalah kata benda, berenang adalah hal yang saya sukai, dan jika kita mengatakan <code>I go to the shop for the purpose of buying eggs</code>, maka itu <code>buying</code> juga merupakan kata benda, itulah yang kita tuju. Dan <code>かい</code> itu sama saja.
+Jadi, wujud **`かい` di sini sejatinya adalah kata benda yang berarti 'tindakan membeli'.** Sama logikanya seperti dalam bahasa Inggris. Saat kita bilang `I like swimming` (Saya suka berenang), kata `swimming` di situ statusnya adalah kata benda, yaitu kegiatan yang saya sukai. 
+Jadi kalau kita bilang `I go to the shop for the purpose of buying eggs` (Saya pergi ke toko dengan tujuan membeli telur), maka kata `buying` (kegiatan membeli) di situ juga berfungsi sebagai kata benda. Nah, `かい` bekerja dengan logika yang persis sama!
 
 ---
 
-**Jadi <code>かい</code> adalah hal yang akan kita lakukan dan itu adalah kata benda serta ditandai dengan に.** Jadi, Anda lihat bahwa dalam kalimat ini kita memiliki dua sasaran:
+**Jadi, karena `かい` (tindakan membeli) adalah sebuah kata benda yang merupakan 'tujuan' dari kepergian kita, maka wajar dong ia ditandai dengan に.** 
+
+Lewat demonstrasi ini, kamu bisa melihat bahwa dalam satu kalimat utuh, kita ternyata bisa memiliki dua buah target/sasaran sekaligus:
 
 ![](../media/image234.webp)
 
-toko-toko – <code>おみせ</code> – adalah target fisik sebenarnya dari perjalanan kita, tempatnya, **dan membeli telur adalah alasan kita pergi, jadi itulah target emosional, target volisional, jenis target yang lebih halus** daripada tempat fisik yang akan kita tuju, tetapi tetaplah sebuah target. **Dan dimungkinkan untuk memiliki dua target dalam kalimat yang sama, keduanya ditandai dengan に.** Dan itulah tepatnya yang kita lakukan di sini.
+1. Toko (`おみせ`) – adalah target *fisik* perjalanan kita (tempatnya).
+2. Membeli telur (`たまごをかい`) – adalah alasan/niat kita pergi. Ini adalah **target emosional, target niat, target abstrak** yang wujudnya lebih halus dari sekadar tempat fisik, tetapi statusnya tetaplah sebuah "target".
 
-**Jadi に memberi kita target suatu tindakan dalam arti yang paling harfiah dan juga target volisional, tujuan sebenarnya dari tindakan kita.**
+**Dan di dalam bahasa Jepang, SANGAT MUNGKIN untuk memiliki dua target sekaligus dalam kalimat yang sama, dan keduanya sah-sah saja ditandai dengan に.** Itulah tepatnya keajaiban struktur yang sedang kita rangkai di atas.
 
-Sekarang, untuk kembali ke hal-hal yang lebih konkret, **kata &quot;に&quot; yang menandai sasaran lokasi sebenarnya ke mana kita pergi, ke mana kita meletakkan sesuatu, juga dapat menandai tempat di mana seseorang atau sesuatu BERADA.**
+**Kesimpulannya: Partikel に menandai "target/sasaran" dari suatu tindakan. Entah itu target dalam wujud harfiah (lokasi fisik), maupun target niat (tujuan abstrak dari tindakan kita).**
 
-Jadi saya bisa mengatakan, <code>おみせにいく</code> – <code>I am going to the shops / I will go to the shops</code> – dan kita bisa mengatakan, <code>おみせにいる</code> – <code>I am at the shops</code>.
+Sekarang, mari kita kembali ke fungsi yang lebih konkret. **Partikel に yang tugasnya menandai lokasi "ke mana kita pergi/ke mana kita meletakkan sesuatu", bisa diperluas lagi fungsinya untuk menandai lokasi "di mana seseorang atau sesuatu BERADA/EKSIS".**
+
+Contoh: Kita bisa bilang `おみせにいく` – `I am going to the shops / I will go to the shops` (Saya pergi ke toko). 
+Dan kita juga bisa bilang `おみせにいる` – `I am at the shops` (Saya *berada* di toko).
 
 ![](../media/image1111.webp)
 
-<code>こうえんにいく</code> – <code>I&#x27;ll go to the park</code>; <code>こうえんにいる</code> -<code>I&#x27;m at the park</code>.
+`こうえんにいく` – `I'll go to the park` (Saya akan pergi ke taman).
+`こうえんにいる` - `I'm at the park` (Saya *berada* di taman).
 
 ![](../media/image692.webp)
 
-Sekarang kamu lihat, **ini juga merupakan target, karena agar suatu benda berada di suatu tempat, ia pasti pernah sampai di sana pada suatu saat. Jadi <code>に</code> dapat menandai tidak hanya target masa depan, tempat yang akan saya tuju, tetapi juga dapat menandai target masa lalu, tempat yang pernah saya kunjungi dan di mana saya masih berada.**
+Coba pahami logikanya. **Keberadaan juga merupakan sebuah "target". Kenapa? Karena agar suatu makhluk bisa berada di suatu tempat sekarang, ia pasti sudah pernah mencapai target tersebut di masa lalu.** Jadi `に` tidak hanya eksklusif untuk menandai target di masa depan (tempat yang akan saya tuju), tetapi juga sangat bisa menandai target masa lalu (tempat yang sudah saya capai dan saya masih berada di sana).
 
 ---
 
-Dan **kita juga menggunakan ini untuk benda mati**: <code>ほんはテーブルのうえにある</code> – <code>The book is on the table</code>. <code>うえ</code> adalah kata benda, dan dalam hal ini berarti <code>on</code> meja. <code>うえ</code> dapat berarti <code>up</code> atau <code>over</code>, dalam hal ini artinya <code>on</code>, dan **selalu merupakan kata benda**, jadi dalam hal ini <code>on of the table</code> adalah tempat di mana buku itu berada:
+**Fungsi penunjuk lokasi berada ini juga berlaku untuk benda mati**: 
+`ほんはテーブルのうえにある` – `The book is on the table` (Buku itu ada di atas meja). 
+
+`うえ` (ue) adalah kata benda murni yang berarti `atas`. Jadi, `うえ` di sini merujuk pada area di bagian atas meja. **(Ingat, kosakata penunjuk posisi itu selalu berupa kata benda).** Jadi dalam kalimat ini, kalimat `on of the table` (di bagian atas meja) adalah sebuah tempat di mana buku tersebut menetap:
 
 ![](../media/image493.webp)
 
-**tujuan masa lalu buku tersebut, ke mana buku itu pergi dan di mana buku itu kini berada**. **Jadi, に juga dapat menandai tempat di mana suatu benda berada, yaitu tujuan masa lalunya.**
+Meja itu adalah **tujuan masa lalu dari si buku—yaitu ke mana buku itu sebelumnya diletakkan, sehingga di sanalah ia berada sekarang**. 
+**Sekali lagi: に berfungsi kuat untuk menandai tempat/lokasi di mana suatu benda atau makhluk menetap/berada.**
 
-### に menandai tujuan dari suatu transformasi
+### に Menandai Target Transformasi (Perubahan Wujud)
 
-Dan aspek terakhir dari <code>に</code> yang ingin saya bahas adalah bahwa **に juga dapat menandai tujuan dari suatu transformasi.**
+Aspek terakhir dan yang tak kalah penting dari partikel `に`: **ia juga bertugas menandai 'sasaran/hasil akhir' dari sebuah transformasi (perubahan).**
 
 ![](../media/image782.webp)
 
-Sama seperti jika A pergi ke B, に menandai B, tempat tujuannya, **jika A berubah menjadi B, menjadi B, maka に juga menandai B**, hal yang menjadi tujuannya, hal yang diubahnya.
+Logikanya konsisten. Sama seperti ketika A pergi ke B, に akan menempel pada B sebagai tempat tujuannya. **Maka ketika A berubah *menjadi* B, に juga akan menempel pada B, yaitu sebagai wujud sasaran transformasi akhirnya.**
 
-Jadi jika saya mengatakan, <code>さくらはかえるになった</code>... <code>かえる</code> adalah <code>frog</code> dan <code>なる</code> adalah kerabat dekat dari <code>ある</code>: <code>ある</code> berarti <code>be</code>; <code>なる</code> berarti <code>become</code>.
+Contohnya: `さくらはかえるになった`. 
+`かえる` (kaeru) berarti `katak`. 
+`なる` (naru) adalah kata kerja kerabat dekat dari `ある` (aru). Kalau `ある` bermakna `to be` (ada), maka `なる` bermakna `become` (menjadi).
 
 ![](../media/image11.webp)
 
-Jadi, <code>さくらはかえるになった</code> – <code>Sakura became a frog / Sakura turned into a frog</code>, **dan に menandakan hal yang menjadi dirinya, hal yang berubah menjadi dirinya.**
+Jadi kalimat `さくらはかえるになった` bermakna: `Sakura became a frog / Sakura turned into a frog` (Sakura berubah menjadi seekor katak). **Dan partikel に menempel pada katak, karena katak adalah target/hasil akhir perubahannya.**
 
-Sekarang, mungkin kamu berpikir, <code>Mmm, how often do people turn into frogs these days?</code> – dan saya akui hal ini memang jarang terjadi. Namun, **ini adalah hal yang sangat penting untuk dipelajari karena ada berbagai hal sehari-hari yang berubah menjadi hal lain, dan juga kita menggunakan bentuk ungkapan ini jauh lebih sering dalam bahasa Jepang daripada dalam bahasa Inggris.**
+Kamu mungkin berpikir sambil tertawa, `"Bro, emangnya seberapa sering sih ada orang zaman sekarang tiba-tiba berubah jadi katak?"` 
+Memang contohnya sedikit konyol. Tetapi, **memahami struktur transformasi ini adalah harga mati. Karena di dunia nyata, ada banyak sekali hal sehari-hari yang mengalami transisi perubahan menjadi hal lain. Dan kita JAUH lebih sering menggunakan struktur kalimat ini di bahasa Jepang ketimbang padanannya di bahasa Inggris atau Indonesia.**
 
 ---
 
-Misalnya, <code>ことし(zeroが)十八さいになる</code>: <code>ことし</code> adalah <code>this year</code>, <code>十八さい/じゅうはっさい</code> adalah <code>18 years of age</code>. Jadi kita mengatakan, <code>This year (I) become 18</code>. *Atau seperti yang ditunjukkan: <code>This year (I) 18 years old-to become</code>.*
+Misalnya untuk merayakan ulang tahun: `ことし(zeroが)十八さいになる`.
+`ことし` (kotoshi) adalah tahun ini, `十八さい / じゅうはっさい` (jūhassai) adalah umur 18 tahun. 
+Jadi kita merakitnya menjadi: `This year (I) become 18` (Tahun ini saya menjadi umur 18 tahun). 
+
+> *Atau kalau mau dibedah logikanya: `This year (I) 18 years old-to become`.*
 
 ![](../media/image1157.webp)
 
-Sekarang dalam bahasa Inggris kita akan mengatakannya sedikit berbeda: kita mungkin akan mengatakan, <code>I turn 18</code> atau <code>I&#x27;ll be 18</code>, tetapi dalam bahasa Jepang kita mengatakan <code>I will become 18 years of age</code>.
+Dalam bahasa Inggris atau Indonesia, kita mungkin menyingkatnya dengan `I turn 18` atau `Saya akan ulang tahun ke-18`, tetapi logika asli bahasa Jepang secara harfiah akan selalu mengatakan `Saya akan berubah *menjadi* 18 tahun`.
 
-Dan jika hari akan mendung, kita mungkin akan mengatakan <code>あとで(zeroが)くもりになる</code> (<code>くもり</code> adalah <code>cloudy</code>; <code>くも</code> adalah awan, <code>くもり</code> adalah keadaan mendung, dan keduanya adalah kata benda).
+Contoh cuaca. Jika langit perlahan mendung, kita akan bilang: `あとで(zeroが)くもりになる`. 
+(`くも` adalah awan, `くもり` adalah cuaca yang berawan/mendung. Keduanya adalah kata benda).
 
 ![](../media/image821.webp)
 
-Kita mengatakan, <code>くもりになる</code> yang berarti <code>become cloudy</code>. *Atau seperti yang diberikan: <code>Cloudy-to become</code>.* Dalam bahasa Inggris kita bisa mengatakan itu. Kita mungkin lebih cenderung mengatakan <code>get cloudy</code> atau sesuatu, tetapi dalam bahasa Jepang kita sering menggunakan <code>become</code> – <code>になる</code> – bentuk ucapan ini sering kali. Jadi ini adalah hal penting untuk dipelajari.
+Kita bilang `くもりになる` yang bermakna `become cloudy`. 
 
-### Penggunaan &quot;に&quot; pada kata sifat (alias menggunakannya sebagai kata keterangan)
+> *Atau kalau dibedah logikanya: `Cloudy-to become`.* 
 
-**Dan saya harus menambahkan di sini bahwa dalam kasus kata sifat, cara kerjanya sedikit berbeda.** Jadi jika kita ingin mengatakan <code>Sakura is beautiful</code>, kita mengatakan <code>さくらがうつくしい</code> (<code>うつくしい</code> berarti <code>is-beautiful</code>), tetapi jika kita ingin mengatakan <code>Sakura became beautiful</code>, **kita tidak bisa menggunakan に karena <code>うつくしい</code> bukan kata benda.** Itu bukan gerbong, **itu engine**, bukan?
+Kita tidak punya padanan literal yang natural untuk kalimat ini. Di bahasa Indonesia kita biasanya cuma bilang `Nanti bakal mendung`, tapi orang Jepang akan selalu merakit strukturnya dengan menceritakan perubahan wujud: **cuacanya *menjadi* (`になる`) mendung**. Karena hal ini sering terjadi, wajar kalau kamu harus menghafal struktur sakti ini.
+
+### Transformasi "Menjadi" pada Kata Sifat
+
+**Satu hal yang harus digarisbawahi: Untuk kasus kata sifat, aturan perubahannya SEDIKIT berbeda.** 
+
+Jika kita ingin mengatakan `Sakura is beautiful`, kita merakitnya: `さくらがうつくしい` (`うつくしい / utsukushii` adalah kata sifat murni yang berarti `is-beautiful`).
+Namun, kalau kita ingin mengatakan `Sakura became beautiful` (Sakura berubah menjadi cantik), **kita TIDAK BISA menempelkan partikel に ke sana. Kenapa? Karena `うつくしい` bukanlah kata benda. Ia tidak punya gerbong. Ia adalah *engine*.**
 
 ::: info
-うつくしい adalah kata sifat/ い -engine.
+Ingat, うつくしい adalah kata sifat (Atau diistilahkan sebagai *Engine-い*).
 :::
 
-Jadi apa yang harus kita lakukan?
+Lalu apa solusinya?
 
-Yang kita lakukan adalah apa yang kita bahas minggu lalu: **kita mengubah kata sifat itu menjadi akarnya.** Jadi **kita menghilangkan akhiran &quot;い&quot; (-i) dan menambahkan &quot;く&quot; (-ku).**
+Kita cukup menggunakan trik yang sudah kita bahas minggu lalu: **kita memodifikasi wujud akhiran kata sifat itu.** Caranya sangat sederhana: **kita potong akhiran "い" (-i) di belakangnya, lalu menggantinya dengan "く" (-ku).**
 
 ::: info
-Akarnya adalah &quot;うつくし&quot;, lalu tambahkan &quot;く&quot;.
+Jadi, potong "い" menjadi "うつくし", lalu tempelkan "く" sehingga menjadi "うつくしく".
 :::
 
 ![](../media/image560.webp)  
 
 ::: info
-くe mengubah うつくしい menjadi kata keterangan/kata benda keterangan. Lebih lanjut tentang hal ini di Pelajaran 41.
+Secara teknis linguistik, penggantian menjadi "く" ini secara otomatis menyulap kata sifat `うつくしい` menjadi sebuah 'kata keterangan/adverb'. Materi mendalam soal kata keterangan ini akan Dolly bahas di Pelajaran 41.
 
 ![](../media/image254.webp)
 :::
 
-Dan itu saja yang perlu kita lakukan. Begitulah cara menggunakannya: <code>さくらがうつくしくなった</code> – <code>Sakura became beautiful</code>.
+Dan selesai! Itu saja yang perlu kita ubah. Jadi rakitannya menjadi: `さくらがうつくしくなった` – `Sakura became beautiful` (Sakura menjadi cantik).
 
-<code>なった</code> adalah bentuk lampau dari <code>なる</code> karena <code>なる</code> adalah kata kerja godan (harus kata kerja godan karena tidak berakhiran -いる atau -える, melainkan berakhiran -ある).
+Kenapa pakai `なった`? Karena `なった` adalah wujud masa lalu dari `なる` (menjadi). `なる` tunduk pada hukum konjugasi kata kerja kelompok Godan (karena huruf sebelum る-nya bukanlah dari baris -i atau -e, melainkan -a).
 
-Jadi sekarang kita tahu beberapa cara mengekspresikan konsep yang lebih halus seperti niat, tujuan, transformasi – dan kita telah naik level.
+Sampai di titik ini, kamu telah menguasai berbagai instrumen untuk mengekspresikan konsep kalimat yang jauh lebih halus dan kompleks: seperti niat, target abstrak, dan perubahan wujud/transformasi. Selamat, kemampuan Jepanganmu sudah resmi naik level!
 
-## Partikel &quot;へ&quot;
+## Partikel "へ" (He)
 
-Sebelum kita selesai, saya akan memberikan satu partikel lagi yang belum kita lihat sebelumnya, yaitu &quot;へ&quot;. Dan ini sangat, sangat sederhana. Partikel <code>へ</code> – seperti yang Anda lihat, ini adalah kana &quot;へ&quot; (he), tetapi ketika kita menggunakannya sebagai partikel, kita hanya mengucapkannya sebagai &quot;え&quot;. Dan ini adalah partikel yang sangat sederhana. Ini adalah partikel yang hanya memiliki satu fungsi. Dan partikel ini menggantikan satu, dan hanya satu, dari fungsi <code>に</code>.
+Sebelum kita tutup sesi ini, saya akan memberikan satu bonus partikel lagi yang belum pernah kita sentuh sebelumnya, yaitu partikel "へ". Saya janji, ini sangat amat mudah. 
 
-Jadi, ketika kita mengatakan ke mana kita akan pergi - <code>A is going to B</code> – kita menandai B dengan に. **Kita juga bisa menandainya dengan へ.**
+Secara tulisan, partikel `へ` ini meminjam wujud huruf kana "へ" (he). Namun aturan khususnya adalah: **ketika huruf ini berfungsi sebagai partikel penunjuk, kita HARUS melafalkannya sebagai "え" (e).** 
+
+Ini adalah partikel yang super gampang dihafal karena ia HANYA punya satu tugas saja di dunia ini. Dan tugasnya itu meminjam salah satu fungsi spesifik milik si pisau lipat Swiss `に`.
+
+Fungsinya adalah ini: ketika kita ingin menyatakan "ke mana kita akan pergi" (`A is going to B`) – maka secara logika B harus ditandai dengan に. **Nah, sebagai variasi gaya bahasa, kita BISA mengganti posisi に tersebut dan menandai B menggunakan へ.**
 
 ![](../media/image1082.webp)
 
-**Dan itulah satu-satunya fungsi yang dilakukan へ.** Seperti yang saya katakan, ini adalah partikel yang hanya punya satu fungsi. **Ia bahkan tidak bisa menandai tempat di mana sesuatu telah pergi dan masih berada di sana. Ia hanya menandai tempat yang akan dituju oleh sesuatu.**
+**Dan itulah satu-satunya tugas yang bisa dikerjakan oleh へ.** Seperti yang saya bilang tadi, ini adalah partikel miskin yang cuma punya satu fungsi mutlak. **Ia bahkan terlalu lemah untuk bisa menandai tempat di mana suatu makhluk menetap (berada). Ia murni hanya bisa menandai sebuah 'arah tempat' yang akan dituju oleh sesuatu di masa depan.**
 
 ::: info
-sebuah arah, lebih lanjut tentang itu di 8b.
+Intinya, partikel ini murni menitikberatkan pada 'arah' (*direction*). Penjelasan beda tipisnya dengan *ni* akan dibahas lebih detail di Pelajaran 8b.
 :::
 
-<code>へ</code> sangat sederhana dan bagus untuk memiliki partikel lain, gerbong tambahan, yang ditambahkan ke dalam arsenal Anda, bukan?
+Karena fungsinya yang sesederhana itu, `へ` sangat bagus untuk dihafalkan sebagai cadangan "gerbong tambahan" di dalam gudang persenjataan tata bahasamu, bukan?
