@@ -1,319 +1,299 @@
 # **7.5. Konjugasi**
 
-[**Konjugasi bahasa Jepang jadi mudah! Kunci super sederhana untuk semua konjugasi.**](https://www.youtube.com/watch?v=FhyrskGBKHE&amp;list;=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&amp;index;=8)
+[**Pelajaran 8: Konjugasi bahasa Jepang jadi mudah! Kunci super sederhana untuk semua konjugasi.**](https://www.youtube.com/watch?v=FhyrskGBKHE&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=8)
 
-Hari ini kita akan membahas konjugasi bahasa Jepang.
+Hari ini kita akan membahas tentang konjugasi bahasa Jepang.
 
-Konjugasi yang mana?, mungkin Anda bertanya. Nah, semuanya. Kecuali bentuk &quot;た&quot; dan &quot;て&quot;, yang akan kita bahas di video lain<sup>[[81]](./81-global-principle-of-all-japanese-word-forms.md)</sup>.
+Kamu mungkin bertanya, "Konjugasi yang mana?" Jawabannya: Semuanya. Kecuali bentuk "た" (ta) dan "て" (te), yang akan kita bahas di pelajaran terpisah nanti<sup>[[81]](./81-global-principle-of-all-japanese-word-forms.md)</sup>.
 
-Mengapa kita membahas semuanya sekaligus? Karena kita bisa. Karena konjugasi bahasa Jepang semuanya bekerja dengan cara yang sama. Sangat sederhana, sangat logis, dan sangat konsisten, serta sangat mudah dipahami.
+Kenapa kita membahas semuanya sekaligus? Karena kita bisa. Karena seluruh sistem konjugasi bahasa Jepang pada dasarnya bekerja dengan satu cara yang persis sama. Sangat sederhana, sangat logis, sangat konsisten, dan sangat gampang dipahami.
 
-Namun, ketika kita melihat buku teks, kita mendapat kesan bahwa ada banyak aturan dan bentuk berbeda yang harus dipelajari untuk setiap konjugasi tertentu. Mengapa demikian? Mengapa buku teks membuatnya tampak begitu rumit padahal sebenarnya sangat sederhana?
+Namun, kalau kita melihat ke buku-buku teks, kita seolah-olah dicekoki ilusi bahwa ada puluhan aturan acak dan bentuk berbeda yang harus dihafal mati untuk setiap konjugasi. Mengapa bisa begitu? Mengapa buku teks membuatnya tampak begitu rumit padahal aslinya sangat sederhana?
 
-Ada dua alasan. Yang pertama adalah mereka bersikeras pada **konsep Eropa** tentang konjugasi. Sebenarnya, apa yang kita lakukan sama sekali bukan konjugasi.
-
-::: info
-*Jika Anda benar-benar menyukai membaca, ada [**diskusi menarik**](https://www.youtube.com/watch?v=cvV6d-RETs8&amp;lc;=UgzXdC7vyB-XKN543tt4AaABAg) tentang hal ini di bawah Pelajaran 13, jadi terserah Anda bagaimana menyebutnya; menyebutnya konjugasi boleh saja, terutama karena istilah itu sering digunakan, jadi setidaknya kenali dulu konsepnya.*
-:::
-
-::: detail Hanya salah satu catatan terminologi saya yang berbelit-belit dan beberapa hal lain yang berbelit-belit… (klik panah untuk memperluas)
-Secara linguistik, bisa dibilang memang ada sesuatu seperti konjugasi dalam bahasa Jepang, tetapi tampaknya sangat berbeda dengan bahasa-bahasa Eropa, yang mungkin menjadi alasan mengapa Dolly menghindarinya, agar kita tidak menafsirkannya seperti itu dan menjadi bingung. Mengenai mengapa sebagian besar sumber menyebutnya konjugasi.
-
-Sekali lagi, jangan anggap ini sebagai pernyataan definitif, ini hanya untuk menghindari asosiasi yang muncul dari kata tersebut <code>conjugation</code> dalam konteks bahasa-bahasa Eropa, karena memang ada bentuk konjugasi dalam bahasa Jepang, sama seperti Kata Benda Adjektival pada dasarnya adalah kata benda, TETAPI bukan kata benda sendiri (meskipun itu hanyalah 1 model dari banyak model lainnya).  
-Ini hanya untuk menunjukkan bahwa ada banyak cara memandang sesuatu dan tidak selalu hitam-putih; ini adalah model, dan karena Anda tidak bisa menjelaskan segalanya sekaligus, Anda menyederhanakan beberapa hal.
-
----
-
-Namun, perlu diingat bahwa Dolly terkadang terlalu negatif terhadap buku teks (meskipun beberapa kritiknya valid, buku teks memiliki tujuan yang berbeda dan selama sumber apa pun membantu Anda memulai imersi yang masif, itu sudah baik) dan terkadang menggambarkan dirinya sebagai <code>the best way</code> untuk mempelajari tata bahasa atau judul-judul clickbait pada beberapa videonya, saya tidak setuju dengan pola pikir/penyajiannya tersebut dan akan menerimanya dengan bijaksana. Karena Dolly menggunakan penjelasan sederhana agar mudah dipahami, beberapa hal yang dia katakan disederhanakan dan disesuaikan dengan modelnya, dan terkadang dia setidaknya sedikit tidak akurat/salah, setidaknya dari beberapa contoh yang saya dengar dibahas di internet dan di beberapa Discord oleh orang-orang yang tampaknya memiliki pemahaman yang lebih dalam tentang bahasa Jepang, meskipun saya tidak akan menarik kesimpulan apa pun karena saya sama sekali bukan ahli dalam hal apa pun yang berkaitan dengan Jepang atau mampu mencapai kesimpulan semacam itu sendiri.
-
-Jika Anda ingin tahu alasannya, silakan lihat [**diskusi Discord MoeWay ini**](https://discord.com/channels/617136488840429598/1170582570161950752). **Jadi, jangan anggap Dolly sebagai kebenaran mutlak, tapi hanya sebagai cara berguna untuk menguasai dasar-dasar bahasa Jepang yang mendorong Anda ke dalam imersi = hal yang benar-benar penting.**  
-
----
-
-Penjelasan saya hanyalah tebakan dan pemahaman pribadi saya, tetapi jelas tidak sepenuhnya akurat karena saya bukan ahli bahasa atau semacamnya (setidaknya belum dan tidak dalam waktu yang lama lol), jadi jelas apa yang saya katakan juga kemungkinan besar tidak sepenuhnya benar dan mungkin salah/tidak lengkap/disederhanakan (itulah mengapa saya ingin diberi tahu jika ada yang salah dari apa yang saya katakan, jika Anda menyadarinya).
-
-Namun, jika klaim tersebut benar dan Dolly memang salah setidaknya dalam beberapa kasus atau sebagian, itu tetap tidak masalah karena Dolly ada di sini hanya untuk memperkenalkan dasar-dasar paling dasar, dan di situ hal itu tidak terlalu penting karena hal tersebut dapat <code>fixed</code> melalui imersi. Dolly hanya berfungsi untuk mendorong Anda agar terbenam dalam bahasa tersebut daripada menunjukkan bahasa Jepang yang lengkap; bahasa Jepang yang lengkap tidak bisa dipelajari, tidak ada bahasa yang bisa… bahasa hanya bisa diperoleh melalui konsumsi dan penggunaan yang masif terhadap bahasa asli yang alami.  
-
----
-
-Dalam linguistik dan tata bahasa, hal-hal tidaklah sederhana, sehingga jika Anda ingin menjelaskannya secara sederhana, Anda harus mengorbankan sebagian akurasi demi penyederhanaan. Ingatlah bahwa hal-hal menjadi lebih kompleks seiring Anda menyelami lebih dalam, dan saya sarankan untuk menganggap Dolly hanya sebagai dasar, bukan penilaian 100% akurat tentang bahasa Jepang, karena hal itu mungkin bahkan tidak mungkin kecuali Anda menggunakan sumber linguistik tingkat lanjut 100% asli Jepang, dan bahkan di sana pun ada perbedaan pendapat tentang beberapa hal, jadi semuanya tergantung pada model / fokus.
-:::
-
-## Pengantar Konjugasi
+Ada dua alasan utama. Alasan pertama adalah karena mereka memaksakan **konsep tata bahasa Eropa** (konjugasi) ke dalam bahasa Jepang. Padahal sebenarnya, apa yang kita lakukan ini sama sekali bukanlah konjugasi dalam artian Eropa.
 
 ::: info
-Inilah yang dikatakan Dolly dalam bukunya <code>Unlocking Japanese</code> tentang Konjugasi, jadi ingatlah hal ini:
+*Jika kamu suka membaca hal teknis, ada [**diskusi menarik**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgzXdC7vyB-XKN543tt4AaABAg) tentang perdebatan linguistik ini di kolom komentar Pelajaran 13. Pada akhirnya terserah kamu mau menyebutnya apa; menyebutnya konjugasi juga tidak apa-apa karena istilah itu sudah telanjur umum digunakan, asalkan kamu paham bagaimana konsep aslinya bekerja.*
+:::
+
+::: detail Ini cuma sekadar catatan pribadi saya soal terminologi yang agak berbelit-belit... (klik panah untuk memperluas)
+Secara ilmu linguistik murni, bisa dibilang memang ada "sesuatu" yang mirip konjugasi dalam bahasa Jepang. Tapi mekanismenya sangat berbeda dengan bahasa-bahasa Eropa. Inilah alasan mengapa Dolly sangat menghindari penggunaan istilah tersebut—agar kita tidak terjebak mengasosiasikannya dengan aturan Barat dan malah jadi kebingungan.
+
+Sekali lagi, jangan anggap teori ini sebagai kebenaran mutlak. Dolly melakukan ini untuk menjauhkan kita dari asosiasi usang kata `conjugation`. Sama halnya dengan konsep "Kata Benda Adjektival" (Na-adjectives) yang sejatinya adalah kata benda, TETAPI bukan kata benda mandiri seutuhnya.
+Intinya: ada banyak sudut pandang dalam linguistik, dan tidak semuanya hitam-putih. Ini hanyalah salah satu "model" pendekatan, dan karena kita tidak bisa menjelaskan ilmu tata bahasa yang rumit sekaligus, wajar jika ada beberapa hal yang disederhanakan.
+
+---
+
+Namun, perlu diingat juga bahwa Dolly kadang-kadang bisa bersikap terlalu sinis terhadap buku teks. (Meskipun banyak kritiknya yang valid, buku teks tetap punya tujuan pengajaran yang berbeda. Selama sebuah sumber bisa membantumu mulai melakukan imersi/terjun langsung ke dalam bahasa Jepang, sumber itu sudah tergolong bagus). 
+Terkadang Dolly memosisikan teorinya sebagai `satu-satunya cara terbaik` atau memakai judul *clickbait* di videonya. Saya pribadi tidak selalu setuju dengan pola pikir eksklusif seperti itu, jadi ambillah yang baik-baik saja. Karena Dolly menggunakan bahasa yang sangat awam agar materinya mudah dicerna, ada beberapa detail teknis yang sengaja ia "pangkas". Jadi menurut diskusi beberapa ahli bahasa di internet (seperti di komunitas MoeWay), penjelasan Dolly kadang sedikit kurang akurat secara ilmu linguistik tingkat lanjut.
+
+Jika kamu penasaran dengan perdebatan tersebut, silakan intip [**diskusi Discord MoeWay ini**](https://discord.com/channels/617136488840429598/1170582570161950752). **Kesimpulannya: jangan jadikan Dolly sebagai satu-satunya kitab suci kebenaran mutlak. Jadikanlah ia sebagai "alat bantu" yang sangat ampuh untuk menguasai fondasi dasar bahasa Jepang, yang tugasnya mendorongmu untuk segera melakukan imersi (= kunci paling penting dalam belajar bahasa).**  
+
+---
+
+Penjelasan di atas hanyalah opini dan pemahaman pribadi saya. Saya juga bukan ahli bahasa/linguistik, jadi ada kemungkinan saya juga salah atau penjelasan saya kurang lengkap. (Itulah kenapa saya sangat terbuka kalau ada yang mau mengoreksi tulisan saya).
+
+Tapi pada akhirnya, meskipun Dolly memang terbukti menyederhanakan beberapa hal, itu SAMA SEKALI BUKAN MASALAH. Peran Dolly di sini murni untuk mengenalkan kerangka dasar paling fundamental. Kerangka itu nantinya akan secara otomatis "diperbaiki dan disempurnakan" oleh otakmu sendiri saat kamu mulai rajin melakukan imersi (membaca/menonton konten asli). Bahasa itu tidak bisa "dipelajari" 100% dari buku; bahasa hanya bisa "diperoleh" melalui konsumsi dan praktik langsung di lapangan.
+
+Dalam linguistik, segala sesuatu itu sangatlah kompleks. Jadi kalau kamu mau menjelaskannya ke pemula, kamu wajib mengorbankan sedikit akurasi demi penyederhanaan logika. Pahami bahwa aturan akan terlihat semakin bercabang seiring kamu menyelam lebih dalam. Jadi anggaplah model Cure Dolly ini sebagai batu loncatan yang luar biasa efektif, bukan sebagai makalah doktoral linguistik.
+:::
+
+## Pengantar "Konjugasi"
+
+::: info
+Inilah kutipan langsung yang ditulis Dolly dalam bukunya `Unlocking Japanese` mengenai Konjugasi. Camkan baik-baik:
 
 ![](../media/image408.webp)
 :::
 
-**Yang kita lakukan sepanjang waktu adalah menambahkan kata kerja bantu sederhana – atau kata sifat bantu atau kata benda bantu – ke akar kata kerja.**
+**Yang sebenarnya kita lakukan sepanjang waktu hanyalah menambahkan kata kerja bantu sederhana—atau kata sifat bantu, atau kata benda bantu—ke dalam sebuah "akar kata tempel" (*sticky stem*).**
 
-Dan begitu kita memahami cara kerjanya, hal ini menjadi sangat, sangat sederhana dan mudah dipahami.
+Begitu kita memahami cara kerjanya, seluruh sistem ini berubah menjadi sangat, sangat sederhana dan masuk akal.
 
-Masalah lainnya adalah mereka menghabiskan banyak waktu menjelaskan perubahan yang terjadi dalam sistem bunyi Romawi – alfabet. Namun, hal itu justru menimbulkan banyak kebingungan dan kesulitan.
+Alasan kedua kenapa buku teks bikin pusing adalah: mereka menghabiskan terlalu banyak waktu mencoba menjelaskan perubahan huruf menggunakan sistem alfabet Romawi (Romaji). Pemaksaan inilah yang melahirkan banyak aturan acak dan kebingungan.
 
-**Begitu kita melihatnya dalam konteks di mana sistem itu sebenarnya ada, yaitu sistem bunyi \*Jepang\*, semuanya menjadi sangat logis.**
+**Tetapi begitu kita melihatnya menggunakan habitat aslinya—yaitu sistem huruf *Jepang* (Kana)—semuanya langsung terlihat sangat logis.**
 
-Saya akan mengatakan ini 100% konsisten, logis, dan sederhana – kecuali ada satu pengecualian dalam sistem ini, dan ada dua kata kerja tidak beraturan, jadi mungkin lebih baik kita katakan 99,9% logis, konsisten, dan mudah dipahami.
+Saya berani jamin sistem ini 100% konsisten, logis, dan gampang. (Yah, berhubung cuma ada satu pengecualian kecil dan dua kata kerja tidak beraturan, mari kita ralat sedikit: sistem ini 99,9% logis, konsisten, dan masuk akal).
 
-Baiklah. Jadi, mari saya berikan bagan utama ini, yang akan menunjukkan kepada Anda bagaimana semua ini bekerja.
+Mari kita langsung buktikan. Saya akan menunjukkan tabel sakti yang akan menyingkap bagaimana seluruh sistem ini bekerja.
 
-チャートをください!
+チャートをください! (Tolong tampilkan bagannya!)
 
-Jadi, inilah bagan kana Jepang yang sudah familiar, dengan semua bunyi dalam bahasa Jepang.
+Jadi, inilah bagan huruf Kana yang sudah familier buatmu, mencakup semua bunyi dasar dalam bahasa Jepang.
 
 ![](../media/image321.webp)
 
-Saya telah memutarnya ke samping, karena alasan yang akan segera jelas. Semua kata kerja Jepang berakhir dengan salah satu kana di baris tengah – terlihat seperti kolom karena saya telah memutarnya ke samping. Itu adalah baris &quot;う&quot; – う, く, す, つ, ぬ, dll.
+Saya sengaja memutarnya ke samping. Alasannya akan segera kamu pahami. Semua kata kerja bentuk kamus dalam bahasa Jepang selalu berakhiran dengan salah satu huruf di baris tengah—yang sekarang terlihat seperti kolom karena posisinya sudah saya putar. Itu adalah baris "う" (u) – う, く, す, つ, ぬ, dll.
 
-Namun, tidak ada kata kerja yang berakhiran ゆ, jadi kita bisa menghapus dua kolom ini dan menyederhanakan tabel.
+Namun, berhubung tidak ada satu pun kata kerja di Jepang yang berakhiran huruf ゆ (yu), kita bisa mencoret dua kolom tersebut untuk menyederhanakan tabelnya.
 
 ![](../media/image263.webp)
 
-Sebenarnya, hanya ada satu kata kerja yang berakhiran ぬ – yaitu しぬ, yang berarti mati – jadi kita bisa menghapusnya juga dan membuatnya terlihat lebih sederhana, tetapi saya tetap menyertakannya demi kelengkapan.
+Lalu, sejatinya hanya ada *satu* kata kerja di seluruh dunia bahasa Jepang yang berakhiran huruf ぬ (nu)—yaitu しぬ (mati)—jadi secara teknis kita bisa mencoretnya juga biar tabelnya makin simpel. Tapi demi kelengkapan materi, saya akan membiarkannya tetap ada.
 
-Jadi, **setiap kata kerja berakhir dengan salah satu kana dalam kotak merah.** Mari kita lihat contoh untuk setiap akhiran yang mungkin:  
-かう, membeli; きく, mendengar; はなす, berbicara; もつ, memegang; しぬ, mati; とぶ, terbang; のむ, minum; とる, mengambil.
+Intinya: **setiap kata kerja dasar bahasa Jepang PASTI berakhir dengan salah satu huruf Kana di dalam kotak merah tersebut.** Mari kita ambil contoh kosakata untuk masing-masing akhiran:  
+- かう (membeli)
+- きく (mendengar)
+- はなす (berbicara)
+- もつ (memegang)
+- しぬ (mati)
+- とぶ (terbang)
+- のむ (minum)
+- とる (mengambil)
 
-Sekarang, seperti yang Anda lihat, ada empat akhiran lain yang mungkin dimiliki oleh kata kerja, dan sebenarnya setiap akhiran tersebut digunakan.
+Sekarang, seperti yang kamu lihat, masih ada empat baris huruf lain di sekitar kotak merah tersebut. Dan kenyataannya, keempat baris itu semuanya aktif digunakan.
 
 ![](../media/image778.webp)
 
-**Dan ketika kita menggunakan salah satu akhiran lain tersebut, kata kerja tersebut berhenti menjadi kata kerja dan menjadi apa yang saya sebut &#x27;sticky stem&#x27;, yaitu, sebuah akar kata yang kita tambahkan sesuatu di belakangnya.**
+**Setiap kali kita menggeser huruf akhirannya masuk ke salah satu dari keempat baris tersebut, kata itu berhenti menjadi kata kerja utuh, dan berubah wujud menjadi apa yang saya sebut *'sticky stem'* (akar kata tempel). Yaitu sebuah fondasi dasar yang siap ditempeli elemen-elemen baru di belakangnya.**
 
-## Akar kata &#x27;い&#x27;
+## Akar Kata baris "い" (*I-stem*)
 
-Jadi, inilah A-stem &#x27;い&#x27;.
+Pertama, mari kita lihat *I-stem* (Akar kata baris 'い').
 
 ![](../media/image670.webp)
 
 ::: info
-Jika Anda bertanya-tanya mengapa &#x27;そう&#x27; ada di sana, namun tidak disebutkan di sini. Hal itu akan dibahas di Pelajaran 24. ![](../media/image481.webp)
+Kalau kamu bingung kenapa kolom 'そう' masih dibiarkan ada tapi tidak dibahas di sini, tenang saja. Fungsi 'そう' akan kita kupas tuntas nanti di Pelajaran 24. 
+![](../media/image481.webp)
 :::
 
-Dengan akar kata yang melekat (い), kita mengubah kana baris (う) menjadi kana baris yang sesuai (い). Jadi, かう menjadi かい, きく menjadi きき, はなす menjadi はなし, dan seterusnya.
+Untuk membuat akar kata tempel baris い, kita cukup menarik huruf dari baris "う" turun ke padanannya di baris "い". Jadi, かう menjadi かい, きく menjadi きき, はなす menjadi はなし, dan seterusnya.
 
-Apa yang harus kita lakukan dengan akar kata tetap baris **い**?
+Lalu, apa yang bisa kita tempelkan pada *I-stem* ini?
 
-### Kata kerja bantu ます
+### Kata Kerja Bantu "ます" (Masu)
 
-Nah, hal yang pasti sudah kalian lihat semua adalah kita dapat menambahkan kata kerja bantu ます ke akar kata tetap baris い.
+Hal paling lazim yang pasti sering kamu temui adalah: kita menempelkan kata kerja bantu `ます` ke akar kata tempel baris い.
 
 ![](../media/image664.webp)
 
-**&quot;ます&quot; bukanlah konjugasi. Itu adalah kata kerja. Itu adalah kata kerja bantu dan melekat pada akar kata &quot;い&quot;**. **Hal itu tidak mengubah arti kata kerja tersebut, tetapi menjadikannya formal.** *(sopan)*
+**Ingat, "ます" bukanlah sebuah konjugasi ajaib. Itu adalah sebuah kata kerja utuh. Tepatnya, kata kerja bantu yang tugasnya menempel pada akar kata "い".** **Menempelkan ます tidak mengubah makna asli kata kerjanya, ia hanya membuat nadanya menjadi formal/sopan.**
 
-Jadi, &quot;かう&quot; adalah versi reguler dan informal, yang berarti &quot;membeli&quot;; &quot;かいます&quot; adalah versi formal. &quot;きく&quot; adalah versi informal, yang berarti &quot;mendengar&quot;; &quot;ききます&quot; adalah versi formal.
+Jadi, "かう" adalah wujud biasa (informal) yang berarti "membeli"; sedangkan "かいます" adalah wujud sopannya. "きく" adalah wujud informal yang berarti "mendengar"; sedangkan "ききます" adalah wujud sopannya.
 
-### Kata sifat bantu &quot;たい&quot;
+### Kata Sifat Bantu "たい" (Tai)
 
-Apa lagi yang bisa kita lakukan dengan akar kata &quot;い&quot;?
+Apa lagi yang bisa kita tempelkan pada akar kata "い"?
 
-Nah, kita bisa menambahkan kata sifat bantu たい. **たい adalah kata sifat bantu yang berarti ingin.**
+Kita bisa menempelkan kata sifat bantu `たい`. **たい adalah kata sifat bantu yang artinya "ingin" (*want to*).**
 
-Jadi, かいたい berarti ingin membeli; ききたい, ingin mendengar; はなしたい, ingin berbicara, dan seterusnya.
+Jadi, かいたい berarti ingin membeli; ききたい berarti ingin mendengar; はなしたい berarti ingin berbicara, dan seterusnya.
 
 ::: info
-Sedangkan dalam bahasa Inggris biasanya diterjemahkan sebagai kata kerja, dalam bahasa Jepang kata ini merupakan kata sifat.
+Meskipun dalam terjemahan bahasa Inggris atau Indonesia kata "ingin" ini sering dianggap sebagai kata kerja (*verb*), dalam sistem bahasa Jepang, `たい` mutlak beroperasi sebagai **kata sifat**.
 :::
 
-### Mengubah kata kerja menjadi kata benda
+### Mengubah Kata Kerja Menjadi Kata Benda
 
-**Kami juga menggunakan akar kata &quot;い&quot; untuk menggabungkan kata benda guna mengubah kata kerja menjadi kata benda baru.**
+**Kita juga bisa memanfaatkan akar kata "い" ini lalu menggabungkannya dengan kata benda lain, untuk menciptakan sebuah kata benda hibrida yang baru.**
 
-Jadi, &quot;かいもの&quot;, yaitu &quot;benda beli&quot;: artinya berbelanja. &quot;のみもの&quot;, &quot;benda minum&quot;, artinya minuman. &quot;はなしかた&quot; (かた berarti bentuk atau wujud)... &quot;はなしかた&quot; berarti cara berbicara, gaya berbicara.
+Contohnya: 
+- `かいもの` (dari kata *kau* + *mono* / benda). "Benda beli" -> maknanya berubah menjadi **berbelanja**. 
+- `のみもの` (dari kata *nomu* + *mono*). "Benda minum" -> maknanya menjadi **minuman**. 
+- `はなしかた` (かた berarti cara/wujud). -> maknanya menjadi **cara berbicara** atau **gaya bicara**.
 
-Jadi sekarang kita tahu cara menempelkan semua ini kecuali yang disebut <code>る-verbs</code>, yaitu kata kerja ichidan, dan ini sangat sangat sederhana, karena yang perlu Anda lakukan dengan kata-kata ini, selalu, hanyalah **memotong akhiran &quot;る&quot; dan Anda akan mendapatkan \*semua\* akar kata yang mungkin dari kata kerja ichidan.**
+Nah, sampai di sini kita sudah tahu cara mengolah kata kerja kelompok Godan. Lalu bagaimana dengan kelompok Ichidan (yang suka disebut buku teks sebagai `る-verbs`)?
+Ini sangat amat mudah. Yang perlu kamu lakukan untuk golongan ini hanyalah: **potong dan buang akhiran "る"-nya, dan kamu akan secara otomatis mendapatkan *semua* jenis akar kata yang kamu butuhkan dalam satu wujud.**
 
-Jadi, &quot;たべる&quot; menjadi &quot;たべ&quot;; &quot;たべます&quot; adalah bentuk formal dari kata kerja tersebut;  
-&quot;たべたい&quot;, ingin makan; &quot;たべもの&quot;, makanan.
+Jadi, "たべる" dipotong menjadi "たべ". 
+- Tempel *masu*: "たべます" (bentuk sopannya).
+- Tempel *tai*: "たべたい" (ingin makan).
+- Tempel *mono*: "たべもの" (makanan).
 
 ::: info
-Ada juga kata benda 買い (ini adalah kata benda), yang berarti berbelanja, membeli, produk, dll.  
-Jadi artinya mirip, saya tidak tahu apa hubungannya dengan 買い物 atau sejenisnya, tapi sekadar agar Anda tahu ada beberapa kasus seperti itu. Ini juga menunjukkan bahwa tidak setiap kata yang berakhiran &quot;い&quot; otomatis menjadi kata sifat, meskipun sebagian besar memang demikian... mungkin &quot;い&quot; juga pernah menjadi kata benda Kanji di masa lalu dan sekarang tidak lagi menggunakan bentuk Kanji-nya???, siapa yang tahu…
+Sebagai catatan, ada juga kosakata `買い` (kai), yang bisa berdiri sendiri sebagai kata benda yang berarti 'pembelian' atau 'produk'. 
+Jadi maknanya sangat mirip dengan 買い物 (kaimono). Saya kurang tahu sejarah linguistik pastinya, tapi penting buatmu untuk sadar bahwa ada beberapa kasus seperti ini. Ini membuktikan bahwa tidak semua kata yang dimodifikasi ke baris "い" otomatis cuma berfungsi sebagai kata sifat bantu. Mungkin saja di zaman dulu "い" juga merupakan turunan dari suatu kata benda Kanji. Intinya, bahasa itu terus berevolusi.
 
 ![](../media/image473.webp)
 :::
 
+## Akar Kata baris "あ" (*A-stem*)
 
-
-## Akar kata &quot;あ&quot;
-
-Sekarang kita sampai pada A-stem &quot;あ&quot;, dan ini memiliki satu pengecualian.
+Sekarang kita bergeser ke *A-stem* (Akar kata baris 'あ'). Nah, di sinilah satu-satunya letak "kecacatan" atau pengecualian dalam sistem ini.
 
 ![](../media/image269.webp)
 
-Dan Anda akan berkata, <code>Ah, languages! Full of exceptions!</code>
+Kamu mungkin mulai mengeluh, `"Tuh kan, ujung-ujungnya banyak pengecualian!"`
 
-**Ini adalah satu-satunya pengecualian di seluruh sistem**, dan ini adalah pengecualian yang sangat alami yang dapat Anda pahami dengan baik.
+Tunggu dulu. **Ini benar-benar satu-satunya pengecualian di SELURUH sistem yang kita pelajari hari ini.** Dan pengecualiannya pun sangat natural serta gampang dihafal.
 
-Kata kerja dengan akhiran う tidak berubah menjadi <code>かあ</code>, **melainkan <code>かわ</code>**, yang jauh lebih mudah diucapkan dan dipahami dalam percakapan, bukan?
+Satu-satunya aturan yang melenceng adalah: Kata kerja yang berakhiran huruf "う", akarnya TIDAK bergeser naik menjadi `かあ` (kaa), **melainkan bergeser jauh menjadi `かわ` (kawa).** Alasannya murni karena `kawa` jauh lebih enak diucapkan dan didengar dalam tempo percakapan cepat ketimbang `kaa`.
 
-Jadi かう tidak menjadi <code>かあない</code>, **melainkan menjadi かわない.**
+Jadi, かう tidak berubah menjadi `かあない`, **melainkan menjadi `かわない`.**
 
 ::: info
-Di kolom komentar di bawah video, ada [**komentar**](https://www.youtube.com/watch?v=FhyrskGBKHE&amp;lc;=UgzzF0FxyJJZX7z94Yp4AaABAg) yang menarik dari seseorang <code>pycage</code> tentang pengecualian ini yang sebenarnya bukanlah pengecualian jika kita melihat sejarah bahasa Jepang. Anda bisa membacanya jika tertarik (o^▽^o) Namun, penjelasannya cukup mendalam.
+Di kolom komentar YouTube, ada seorang *user* bernama `pycage` yang memberikan [**penjelasan sejarah linguistik**](https://www.youtube.com/watch?v=FhyrskGBKHE&lc=UgzzF0FxyJJZX7z94Yp4AaABAg) tentang kenapa pengecualian 'wa' ini bisa terjadi, dan membuktikan bahwa ini aslinya bukanlah pengecualian. Kalau kamu tipe *nerd* bahasa, silakan baca komentarnya (o^▽^o). Tapi peringatan, bahasannya lumayan berat!
 :::
 
-Lalu, untuk apa kita menggunakan akar kata dengan akhiranあ
+Lalu, buat apa kita memakai akar kata tempel "あ" ini?
 
-?
+### Kata Sifat Bantu "ない" (Nai)
 
-### Kata sifat bantuない
-
-Saya sudah menyebutkannya<sup>[[7]](./7-negative-forms-and-adjectives-in-past-tense.md)</sup>
-
-– kemungkinan penggunaan yang paling umum adalah untuk melekatkan kata sifat bantuない
-
-ke akar kata yang melekat dari sebuah kata kerja.
+Saya sudah membocorkan hal ini di pelajaran sebelumnya<sup>[[7]](./7-negative-forms-and-adjectives-in-past-tense.md)</sup>—fungsi paling umum dari *A-stem* adalah sebagai tempat menempelnya kata sifat bantu `ない` (bentuk negatif).
 
 ![](../media/image386.webp)
 
-**Akhiran ini melekat pada akar kata yang tetap (あ
+**Akhiran ini wajib menempel pada akar kata baris "あ"**, jadi:
+- "かう" (membeli) menjadi "かわない" (tidak membeli);  
+- "きく" (mendengar) menjadi "きかない" (tidak mendengar);  
+- "はなす" (berbicara) menjadi "はなさない" (tidak berbicara), dan seterusnya. Sangat simpel.
 
-)**, jadi &quot;かう
+### Bentuk Kausatif (*Causative Form*)
 
-&quot; (beli) menjadi &quot;かわない
+Kita juga menggunakan akar kata "あ" untuk merakit bentuk Kausatif dan bentuk Pasif dari kata kerja. Dua bentuk (*conjugation*) inilah yang biasanya sering bikin murid pemula stres dan rontok rambutnya di sekolah.
 
-&quot;, bukan &quot;buy&quot;;  
-&quot;きく
+Saya sudah menyiapkan video khusus *(di pelajaran selanjutnya)* yang akan membuktikan kepadamu betapa sederhananya kedua bentuk ini, bagaimana logika kerjanya, dan betapa gampangnya dipakai kalau kamu paham asal-usulnya. 
 
-&quot; (dengar) menjadi &quot;きかない
+Untuk hari ini, kita murni hanya mengintip wujud strukturnya saja.
 
-&quot;, bukan &quot;hear&quot;;  
-&quot;はなす
-
-&quot; (bicara) menjadi &quot;はなさない
-
-&quot;, bukan &quot;speak&quot;, dan seterusnya. Sangat sederhana.
-
-### Bentuk causatif
-
-Kita juga menggunakan akar kata -あ
-
--sticky untuk bentuk causatif dan yang disebut <code>passive</code> bentuk kata kerja *(bentuk pasif)*, dan hal ini <code>conjugations</code> seringkali membuat para pemula cukup kesulitan.
-
-Dan saya telah membuat video *(pelajaran selanjutnya)* yang menunjukkan betapa sederhananya bentuk-bentuk ini sebenarnya, bagaimana cara kerjanya, apa artinya, dan betapa sederhananya jika Anda memahaminya sebagaimana adanya.
-
-Hari ini kita hanya akan melihat strukturnya.
-
-Jadi, bentuk causative dari sebuah kata kerja, yang berarti **membiarkan seseorang melakukan sesuatu atau membuat seseorang melakukan sesuatu**, dibentuk **dengan menambahkan kata kerja bantu せる / させる ke akar kata yang menempel pada baris あ**.
+Bentuk kausatif (*Causative*) adalah bentuk yang bermakna **membiarkan seseorang melakukan sesuatu, atau menyuruh/membuat seseorang melakukan sesuatu**. Bentuk ini dirakit **dengan cara menempelkan kata kerja bantu `せる` (seru) atau `させる` (saseru) ke akar kata baris "あ"**.
 
 ![](../media/image161.webp)
 
-Sekarang, saya mengatakan せる / させる – apa artinya itu?
+Tunggu dulu, kenapa saya bilang `せる` / `させる`? Apa bedanya?
 
-**Nah, artinya sebenarnya ada dua bentuk dari kata kerja bantu ini.**
+**Artinya murni sama, cuma ini adalah dua wujud adaptasi dari kata kerja bantu tersebut.**
+- `せる` dipakai untuk ditempelkan pada semua akar kata baris "あ" yang baru kita pelajari (yaitu kelompok Godan).
+- `させる` dipakai khusus untuk ditempelkan pada kelompok kata kerja Ichidan (si *ru-verbs*). 
 
-せる melekat pada semua akar kata yang kita bahas – semua yang berubah.  
-
-::: info
-Dolly di sini mengacu pada kata kerja godan.
-:::
-
-Dan させる melekat pada kata kerja ichidan – yang disebut <code>る-verb</code> – akar kata yang berubah.
-
-Jika ada sedikit variasi pada kata kerja bantu, kita selalu menemukan bahwa versi yang lebih panjang melekat pada kata kerja ichidan, karena kata kerja tersebut umumnya lebih pendek.
+Aturan emas yang akan selalu kamu temui: Jika ada dua versi kata kerja bantu seperti ini, versi yang *lebih panjang* (`saseru`) akan selalu menjadi jatah kelompok Ichidan. Kenapa? Karena akar kata Ichidan itu sifatnya pendek-pendek (akibat huruf *ru*-nya dibuang habis).
 
 ---
 
-Pada kata kerja ichidan, kita menghilangkan seluruh suku kata terakhir; sedangkan pada kata kerja godan, yang memiliki akar kata yang berubah, kita tidak menghilangkan suku kata terakhir, melainkan mengubahnya menjadi bunyi yang berbeda.
-
-Jadi, &quot;せる&quot; / &quot;させる&quot; membentuk bentuk causative dari sebuah kata kerja.
-
-かう menjadi かわせる, mengizinkan untuk membeli, membuat membeli;  
-はなす menjadi はなさせる, mengizinkan untuk berbicara, membuat berbicara;
+Contoh penerapannya:
+- かう menjadi かわせる (mengizinkan membeli / menyuruh membeli).
+- はなす menjadi はなさせる (mengizinkan berbicara / menyuruh berbicara).
 
 ::: info
-はなすadalah kata kerja godan yang berakhiran す, jadi berubah menjadi あ -batang + せる, yang terlihat sama dengan bentuk causative ichidan dari させる. Dolly menjelaskan hal-hal seperti ini di pelajaran selanjutnya.
+Penting: はなす adalah kelompok Godan. Jadi ia bergeser ke baris 'あ' menjadi `はなさ`, lalu ditambah `せる`. Wujud akhirnya memang jadi `はなさせる`, seolah-olah terlihat mirip dengan rumus *saseru* milik Ichidan. Dolly akan membahas trik ini lebih dalam di pelajaran selanjutnya.
 :::
 
-のむ, menjadi のませる, membiarkan minum, membuat minum;
-
-dan たべる menjadi たべさせる, membiarkan makan, membuat makan.  
+- のむ menjadi のませる (mengizinkan minum / membuat minum).
+- たべる menjadi たべさせる (mengizinkan makan / menyuruh makan).  
 
 ::: info
-たべるadalah kata kerja ichidan, jadi cukup menghapus る dan menambahkan させる untuk membentuk bentuk causative.
+たべる adalah kelompok Ichidan. Jadi sesuai rumusnya, potong 'る', lalu tempelkan bentuk panjangnya: `させる`.
 :::
 
-### Bentuk reseptif / pasif
+### Bentuk Reseptif / Pasif
 
-Yang disebut bentuk pasif – yang sebenarnya bukan pasif *(ini bisa diperdebatkan, tapi mari kita fokus pada Dolly sekarang)*, dan kami memiliki video yang membantu Anda memahami apa yang sebenarnya dilakukannya dan betapa sederhananya hal itu – yang disebut pasif, **bentuk reseptif**, dibentuk dengan **kata kerja bantu れる / られる**.
+Bentuk berikutnya adalah yang buku teks sebut sebagai bentuk "Pasif"—yang sejatinya tidak 100% pasif. Saya lebih suka menyebutnya **bentuk Reseptif** (menerima tindakan), dan kita juga akan punya satu video khusus untuk membongkar betapa briliannya struktur ini.
 
-Jadi, &quot;かう&quot; menjadi &quot;かわれる&quot;, yang berarti &quot;dibeli&quot;, &quot;dibeli&quot;, &quot;dibeli&quot; – **&quot;dibeli&quot; lebih baik karena itu lebih dekat dengan apa yang sebenarnya dimaksud dalam bahasa Jepang**, dan Anda akan memahaminya saat menonton video<sup>[[13]](./13-passive-conjugation-receptive-helper-verb.md)</sup>; &quot;
+Bentuk reseptif/pasif ini dirakit dengan cara menempelkan **kata kerja bantu `れる` (reru) atau `られる` (rareru)** ke dalam akar kata baris "あ".
 
-きく&quot; menjadi きかれる, didengar; のむ menjadi のまれる, diminum – **Saya tidak bermaksud mabuk, saya maksudkan cara cangkir kopi itu diminum;** たべる menjadi たべられる, dimakan.
+- "かう" menjadi "かわれる" (dibeli / kena beli / *get bought*). **Menerjemahkannya dengan '*get bought*' jauh lebih akurat dengan *feel* aslinya di bahasa Jepang**, kamu akan memahaminya di video khusus nanti<sup>[[13]](./13-passive-conjugation-receptive-helper-verb.md)</sup>.
+- "きく" menjadi "きかれる" (didengar).
+- "のむ" menjadi "のまれる" (diminum). **Bukan berarti saya mabuk (*drunk*), tapi ini bermaksud menceritakan nasib secangkir kopi yang telah diminum.**
+- "たべる" menjadi "たべられる" (dimakan).
 
 ---
 
-Jadi seperti yang Anda lihat, sebenarnya – selain satu pengecualian itu, tidak ada banyak sekali cara berbeda untuk menggabungkan kata-kata ini. Hal ini karena disajikan sebagai *(<code>West-based</code>)* dan karena dijelaskan seolah-olah ditulis dalam huruf Romawi, maka timbul kebingungan.
+Jadi, bisa kamu lihat sendiri kan faktanya? Selain satu pengecualian huruf *wa* tadi, sama sekali tidak ada hafalan ajaib atau puluhan aturan konjugasi membingungkan untuk merakit kata-kata ini. Semua kesan "sulit" itu muncul murni karena kurikulum memaksakan kacamata Barat dan memaksa murid membacanya lewat ejaan abjad Romawi.
 
-Kita bisa melihat bahwa sebenarnya ini sangat, sangat teratur.
+Kalau dilihat dari kacamata aslinya, sistem ini benar-benar sangat teratur.
+Kita cuma memutar gigi hurufnya ke baris "あ", lalu menempelkan kata sifat `ない`, kata kerja bantu `れる / られる`, atau kata kerja bantu `せる / させる`. Sesederhana bongkar pasang lego!
 
-Kita hanya berpindah ke baris あ dan menambahkan kata sifat bantu ない, kata kerja bantu れる / られる, kata kerja bantu せる / させる, dan sesederhana itu.
+## Akar Kata baris "え" (*E-stem*)
 
-## Akar kata &quot;え&quot;
-
-Sekarang kita sampai pada A-stem &quot;え&quot;.
+Sekarang kita mampir ke *E-stem* (Akar kata baris 'え').
 
 ![](../media/image790.webp)
 
-Sama seperti yang lain, ini sangat konsisten. Anda hanya perlu mengganti kana baris う dengan kana baris え yang sesuai.
+Sama presis seperti saudara-saudaranya, polanya sangat konsisten. Kamu cukup menggeser huruf dari baris "う" ke padanannya di baris "え".
 
 Jadi かう menjadi かえ, きく menjadi きけ, はなす menjadi はなせ, dan seterusnya.
 
-### Bentuk Potensial
+### Bentuk Potensial (*Can Do*)
 
-**Kita menggunakan akar kata yang melekat pada baris え untuk membentuk bentuk potensial kata kerja**, yang berarti Anda <code>can do</code> kata kerja tersebut.
+**Kita memanfaatkan akar kata baris "え" ini untuk menciptakan bentuk Potensial**, yaitu wujud yang menyatakan bahwa kamu **bisa / mampu** melakukan tindakan tersebut.
 
-Kata kerja bantu, yang ditempelkan pada akar kata &quot;え&quot;, adalah &quot;る&quot; / &quot;られる&quot;.
+Kata kerja bantu yang tugasnya menempel pada akar "え" ini adalah `る` (ru) atau `られる` (rareru).
 
 ![](../media/image102.webp)
 
-**Dan ya, meskipun hanya berupa る, hanya satu karakter itu saja, itu adalah kata kerja bantu** – jika Anda mencarinya di kamus Jepang (bukan kamus Jepang-Inggris, tetapi kamus Jepang yang sesungguhnya), Anda akan menemukan る di sana sebagai 助動詞 /*じょどうし*, sebuah kata kerja bantu – dan ia memiliki dua bentuk ini, る dan られる.
+**Dan ya, meskipun wujud fisiknya cuma satu huruf "る" doang, statusnya secara tata bahasa adalah sebagai kata kerja bantu!** Kalau kamu membuka kamus monolingual Jepang asli (bukan kamus terjemahan Jepang-Inggris), kamu akan menemukan entri "る" di sana dengan label 助動詞 / じょどうし (Kata Kerja Bantu). Ia memiliki dua bentuk adaptasi: `る` untuk Godan, dan `られる` untuk Ichidan.
 
-**&quot;られる&quot; adalah, seperti yang mungkin sudah Anda perhatikan, sama dengan yang disebut bentuk pasif** *(bentuk reseptif)*, れる / られる, sehingga bentuk ichidan dari pasif dan potensial sama** – tetapi karena penggunaannya sangat berbeda, sangat jarang sekali Anda akan bingung membedakan keduanya, jadi ini bukan masalah yang serius.
+**"られる", seperti yang mungkin langsung kamu sadari, memiliki wujud yang sama persis dengan bentuk Pasif yang baru kita bahas.** Jadi khusus untuk kelompok Ichidan, wujud Pasif dan wujud Potensial-nya itu 100% kembar. **TETAPI, karena konteks penggunaannya di kehidupan nyata sangatlah berbeda (antara "dimakan" vs "bisa dimakan"), kamu nyaris tidak akan pernah kebingungan membedakannya dalam obrolan sehari-hari.**
 
 ---
 
-Jadi, kita memiliki かえる, bisa membeli; きける, bisa mendengar; はなせる, bisa berbicara, dan seterusnya;  
-ditambah たべられる, bisa makan. 
-::: info
-bisa seperti dalam <code>is possible / is able</code>, akan dibahas nanti di Pelajaran 10.
-:::
+Contoh penerapannya: 
+- かえる (bisa membeli)
+- きける (bisa mendengar)
+- はなせる (bisa berbicara), dan seterusnya.
+- たべられる (bisa makan).
 
-## Akar kata &quot;お&quot;
+## Akar Kata baris "お" (*O-stem*)
 
-Jadi, sekarang kita sampai pada akar kata yang terakhir, akar kata &quot;お&quot;, dan sama seperti yang lain, ini sangat konsisten.
+Akhirnya, kita sampai di terminal terakhir, yaitu akar kata baris "お". Sama seperti yang lainnya, ini juga sangat teratur.
 
 ![](../media/image311.webp)
 
-かうmenjadi かお; きく menjadi きこ; はなす menjadi はなそ.
+かう menjadi かお; きく menjadi きこ; はなす menjadi はなそ.
 
-### Bentuk volisional
+### Bentuk Volisional (*Let's Do It*)
 
-**Dan yang kita lakukan dengan akar kata ini adalah menambahkan う, dan, seperti yang Anda ketahui, う ketika ditambahkan ke お umumnya memperpanjang お.**
+**Yang kita tempelkan pada akar kata ini hanyalah sebuah huruf "う" (u). Dan seperti yang sudah kamu ketahui tentang pelafalan bahasa Jepang, huruf "う" yang jatuh setelah huruf "お" berfungsi untuk memanjangkan bunyi "お" tersebut.**
 
-Jadi かう tidak menjadi kao-u, **melainkan menjadi かおう /kaō**;  
+Jadi かう tidak dieja putus-putus menjadi *kao-u*, **melainkan dibaca panjang menjadi かおう (kaō).**  
 
-::: info
-Dolly mengacu pada pelafalan di sini, bukan mengucapkan o dan u secara terpisah, melainkan hanya o panjang.  
-:::
+- きく menjadi きこう (kikō)
+- はなす menjadi はなそう (hanasō).
 
-きくmenjadi きこう /kikō; はなす menjadi はなそう /hanasō.
+Bentuk Volisional ini punya lumayan banyak fungsi, tapi karena hari ini kita hanya fokus membedah wujud strukturnya, saya akan memberikan satu fungsi dasarnya saja (yaitu untuk ajakan).
 
-Bentuk volisional memiliki sejumlah kegunaan, dan saya hanya membahas struktur di sini, jadi saya akan menggunakan salah satu kegunaannya saja.
+- かおう (Mari kita beli)
+- きこう (Mari kita dengarkan)  
+- はなそう (Mari kita bicara).
 
-かうmenjadi かおう, mari kita beli; きく menjadi きこう, mari kita dengarkan, mari kita dengar;  
-はなす menjadi はなそう, mari kita bicara.
+**Untuk kelompok Ichidan, kita menempelkan `よう` (yō) di belakang akar katanya.** *(Dan tentu saja, selalu ingat untuk membuang る-nya).*
 
-**Dalam bentuk ichidan, kita menambahkan よう di akhir akar kata ichidan.** *(Dan tentu saja hapus る)*
+Jadi たべる menjadi たべよう (Mari kita makan).
 
-Jadi たべる menjadi たべよう, mari kita makan.
+**Salah satu rahasia unik dari bentuk volisional adalah: kamu juga bisa memasukkannya ke dalam mesin "ます" untuk menghasilkan kalimat ajakan berskala formal/sopan.**
 
-**Salah satu keunikan bentuk volisional adalah Anda juga dapat membuatnya dengan mengubah bentuk ます agar menggunakan bentuk volisional dalam mode formal** *(sopan)* **.**
+Ketika kamu melakukan ini, hasil akhirnya adalah wujud **"ましょう"** (mashō) sebagai ganti "ます". Dan karena kamu menggunakan keluarga "masu", secara hukum alam **kamu wajib memasangnya pada akar kata "い" (*I-stem*), sama persis seperti saat kamu memasang "ます" biasa.**
 
-Dan ketika Anda melakukan ini, Anda mengatakan &quot;ましょう&quot; alih-alih &quot;ます&quot;, dan ketika Anda melakukannya, secara alami **Anda menggunakan akar kata &quot;い&quot;, sama seperti yang Anda lakukan dengan bentuk reguler &quot;ます&quot;.**
-
-Jadi, &quot;い&quot; **き&quot;**ましょう, ayo pergi.
+Jadi, "い**き**ましょう" (Ayo pergi).
