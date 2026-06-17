@@ -1,138 +1,173 @@
 # **7. Bentuk Negatif dan Kata Sifat dalam Bentuk Lampau**
 
-[**Pelajaran 7: Rahasia kata kerja negatif dan kata sifat dalam bahasa Jepang <code>conjugations</code>**](https://www.youtube.com/watch?v=KIPhvGxp43c&amp;list;=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&amp;index;=7)
+[**Pelajaran 7: Rahasia kata kerja negatif dan kata sifat dalam bahasa Jepang `conjugations`**](https://www.youtube.com/watch?v=KIPhvGxp43c&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=7)
 
-Hari ini kita akan membahas bentuk negatif. Dan untuk itu, kita harus memperkenalkan salah satu rahasia mendasar bahasa Jepang yang hampir tidak pernah diajarkan di sekolah atau buku teks. Hal ini akan membuat seluruh bahasa Jepang menjadi jauh lebih mudah. Namun sebelum kita membahasnya, mari kita lihat dasar-dasar bentuk negatif dalam bahasa Jepang.
+Hari ini kita akan membahas tentang bentuk negatif. Dan untuk memahaminya, kita harus menyingkap salah satu rahasia paling fundamental dalam bahasa Jepang—sebuah rahasia yang hampir tidak pernah diajarkan di sekolah maupun di buku-buku teks. Memahami konsep ini akan membuat seluruh proses belajarmu menjadi jauh lebih mudah. Namun sebelum kita masuk ke sana, mari kita lihat dasar-dasar bentuk negatif dalam bahasa Jepang.
 
-## Kata sifat ない
+## Kata Sifat ない (Nai)
 
-**Dasar fundamental dari kalimat negatif adalah kata sifat <code>ない</code>.** Kata sifat ini berarti <code>non-exist / not-be</code>.
+**Dasar fundamental dari setiap kalimat negatif adalah keberadaan kata sifat `ない`.** Kata sifat ini berarti `non-exist` (tidak ada) atau `not-be` (bukan).
 
 ![](../media/image1007.webp)
 
-Kata untuk <code>exist</code> untuk benda apa pun, benda mati apa pun, langit, laut, alam semesta, sebutir beras, bunga, pohon, apa pun, adalah <code>ある</code>. Jadi, jika kita ingin mengatakan, <code>There is a pen / A pen exists</code>, kita mengatakan <code>ペンがある</code>. Tetapi jika kita ingin mengatakan tidak ada pulpen, kita mengatakan <code>ペンがない</code>.
+Kata yang menunjukkan keberadaan (`exist`) untuk benda mati—langit, laut, alam semesta, sebutir beras, bunga, pohon, apa pun itu—adalah `ある` (aru). Jadi, jika kita ingin mengatakan, `There is a pen / A pen exists` (Ada pulpen), kita menggunakan `ペンがある`. Tetapi jika kita ingin mengatakan pulpen itu tidak ada, kita menggunakan `ペンがない`.
 
 ![](../media/image573.webp)
 
-Sekarang, mengapa kita menggunakan kata kerja untuk &quot;ada&quot; dan kata sifat untuk &quot;tidak ada&quot;? Karena hal ini terjadi di seluruh bahasa Jepang. Setiap kali kita MELAKUKAN sesuatu, kita menggunakan kata kerja. Baik kita berjalan, bernyanyi, berlari, atau apa pun – itu adalah kata kerja. **Tetapi jika kita tidak melakukannya, maka kita menambahkan <code>ない</code> pada kata kerja tersebut dan itulah yang menjadi inti kalimat.** Jadi, ketika kita mengatakan bahwa kita **tidak** melakukan sesuatu, **kita tidak menggunakan kata kerja, melainkan kata sifat.**
+Sekarang, pertanyaannya: mengapa kita menggunakan kata kerja untuk "ada" (`ある`), tetapi malah menggunakan kata sifat untuk "tidak ada" (`ない`)? Karena logika ini berlaku di seluruh penjuru tata bahasa Jepang. Setiap kali kita MELAKUKAN sesuatu, sebuah tindakan sedang berlangsung, maka kita menggunakan kata kerja. Entah itu berjalan, bernyanyi, berlari, atau apa pun—itu semua adalah kata kerja. 
 
-Mengapa demikian? Karena bahasa Jepang sangat logis. Saat kita melakukan sesuatu, sebuah tindakan sedang berlangsung. Itu adalah kata kerja. Namun, saat kita tidak melakukannya, tidak ada tindakan yang berlangsung dan kita sedang menggambarkan keadaan tanpa tindakan. Jadi, itu adalah kata sifat. Baiklah. 
+**Tetapi jika kita TIDAK melakukannya, maka kita menempelkan `ない` pada kata kerja tersebut, dan `ない` itulah yang mengambil alih kemudi menjadi inti kalimat.** Jadi, ketika kita mengatakan bahwa kita **tidak** melakukan sesuatu, **secara tata bahasa kita sedang tidak menggunakan kata kerja, melainkan kata sifat.**
 
-Jadi, jika kita ingin mengatakan, <code>There is no pen</code>, kita mengatakan <code>ペンがない.</code> Tapi bagaimana jika kita ingin mengatakan, <code>This is not a pen</code>? Itu tidak persis sama, bukan? Jadi, bagaimana cara mengatakannya? 
+Kenapa bisa begitu? Karena bahasa Jepang itu sangatlah logis. Saat kita melakukan sesuatu, ada aksi yang terjadi, maka pakailah kata kerja. Namun, saat kita *tidak* melakukannya, tidak ada aksi apa pun yang sedang berlangsung. Kita murni hanya sedang menggambarkan suatu "keadaan" tanpa tindakan. Oleh karena itu, kita menggunakan kata sifat. 
 
-Jika kita ingin mengatakan <code>There is a pen</code>, seperti yang kita tahu, kita mengatakan <code>これは (</code>これ<code> – </code>ini<code>)... これはペンだ</code>. <code>As for this, pen = / As for this, it&#x27;s a pen.</code>
+Jadi, jika kita ingin mengatakan `There is no pen` (Tidak ada pulpen), kita bilang `ペンがない`. 
+Tapi bagaimana jika kita ingin mengatakan, `This is not a pen` (Ini BUKAN pulpen)? Itu konteks yang sedikit berbeda, bukan? Jadi, bagaimana cara merakitnya? 
+
+Jika kita ingin mengatakan `This is a pen`, seperti yang sudah kita pelajari, kita merakitnya menjadi: `これは (zeroが) ペンだ`. Makna logisnya: `As for this, pen = / As for this, it's a pen.`
 
 ![](../media/image230.webp)
 
 ::: info
-Dalam video tersebut, Dolly membuat kesalahan dan menampilkan mobil hitam が di ペンだ.  
-Saya memperbaikinya dengan keterampilan «sangat profesional» saya di Paint (•̀o•́)ง… bagaimanapun, berikut komentarnya.
+Dalam video aslinya, Dolly sedikit melakukan kesalahan visual dengan menampilkan gerbong hitam `が` menempel pada `ペンだ`.  
+Saya telah memperbaikinya dengan *skill* MS Paint tingkat dewa saya (•̀o•́)ง... intinya, ikuti logika gambar di bawah ini.
 
 ![](../media/image37.webp)
-
 :::
 
-Tapi kalau kita mau bilang, <code>This is not a pen</code>, kita katakan, <code>これは *(zeroが)* ペンではない</code>.
+Nah, jika kita mau bilang `This is not a pen`, kita mengubah kalimatnya menjadi: `これは *(zeroが)* ペンではない`.
 
 ![](../media/image213.webp)
 
-Jadi apa artinya itu? **Nah, <code>で</code> adalah bentuk &quot;て&quot; dari <code>だ</code> atau <code>です</code>.** Jadi kita masih memiliki <code>これはペンだ</code> dalam bentuk <code>これはペンで</code> dan kemudian kita menambahkan <code>ない</code>. Jadi yang kita katakan adalah, <code>As for this, as for being a pen, it isn&#x27;t / This is not a pen</code>. Baiklah.
+Apa makna struktural dari kalimat itu? **Partikel `で` sebenarnya adalah bentuk `-て` dari kopula `だ` (atau `です`).** Jadi kita masih menggunakan fondasi `これはペンだ`, tetapi kita menyulapnya menjadi bentuk-te `これはペンで`, lalu kita menempelkan `ない` di belakangnya. Sehingga makna logis yang sedang kita ucapkan adalah, `As for this, as for being a pen, it isn't / This is not a pen` (Adapun mengenai hal ini, sebagai sebuah pulpen, nyatanya bukan).
 
-## Bentuk negatif kata kerja
+## Bentuk Negatif Kata Kerja
 
-Sekarang mari kita lanjut ke bagian terbesar dari pertanyaan ini, yaitu kata kerja. Untuk mengubah kata kerja menjadi bentuk negatif, **kita harus menambahkan <code>ない</code>,** **dan kita melakukannya dengan menempelkannya pada A-stem &quot;あ&quot;.** 
+Sekarang mari kita masuk ke hidangan utamanya, yaitu kata kerja. Untuk mengubah sebuah kata kerja menjadi bentuk negatif, **kita wajib menempelkan `ない`, dan kita melakukannya dengan menempelkan kata tersebut pada akar kata baris "あ" (*A-stem*).**
 
 ![](../media/image488.webp)
 
-Apa artinya itu? Baiklah, mari kita lihat sistem akar kata. Sistem akar kata kerja Jepang adalah sistem transformasi kata kerja yang paling sederhana, paling logis, dan paling indah di dunia ini. Sistem ini hampir sepenuhnya teratur. Begitu Anda tahu caranya, Anda bisa membuat transformasi apa pun (kecuali bentuk &quot;て&quot; dan &quot;た&quot;, yang sudah Anda ketahui). 
+Apa maksudnya sistem "akar kata" (*stem*) ini? Dengarkan baik-baik. Sistem akar kata kerja bahasa Jepang adalah sistem transformasi (perubahan bentuk) kata kerja yang paling sederhana, paling logis, dan paling indah di dunia. Sistem ini nyaris 100% teratur. Begitu kamu menguasainya, kamu bisa membuat perubahan bentuk *apa pun* (kecuali bentuk `-て` dan `-た` yang memiliki aturannya sendiri, seperti yang sudah kamu pelajari). 
 
-Namun, sekolah dan buku pelajaran tidak memberitahu Anda hal ini. Alih-alih memberitahu Anda hal ini, mereka memaparkan masing-masing <code>conjugation</code>, sebagaimana mereka menyebutnya (dan sebenarnya itu bukanlah konjugasi)... mereka menyajikan masing-masing sebagai kasus terpisah dengan aturan terpisah yang tampak acak. Dan karena mereka tidak memberitahukan logika dasar dari seluruh sistem ini, serta karena mereka menggambarkan perubahan yang terjadi seolah-olah ditulis dalam alfabet Romawi padahal sebenarnya ditulis dalam kana, hal itu benar-benar terlihat seperti itu.
+Sayangnya, sekolah dan buku pelajaran tidak pernah mengajarkan rahasia ini kepadamu. Alih-alih membongkar akar logikanya, mereka memecah materi ini menjadi apa yang mereka sebut `conjugation` (konjugasi)... mereka menyajikan setiap perubahan sebagai kasus terpisah dengan aturan acak yang harus dihafal mati. Karena mereka tidak pernah menunjukkan pola aslinya, ditambah kebiasaan buruk mengajar menggunakan huruf Romawi (Romaji) padahal ini murni urusan huruf Kana, wajar jika murid merasa bahasa Jepang itu susah.
 
 ---
 
-Para siswa benar-benar berpikir mereka harus memperlakukan setiap kasus sebagai kasus terpisah dan mempelajari aturan terpisah di setiap kasus. Padahal, Anda tidak perlu melakukannya. Anda hanya perlu memahami sistem akar kata. 
+Para siswa dicuci otaknya untuk berpikir bahwa mereka harus menghafal puluhan aturan berbeda untuk setiap bentuk kata kerja. Padahal, kamu sama sekali tidak perlu melakukan itu. Kamu hanya perlu memahami sistem akar kata (*stem*). 
 
-Jadi, mari kita lihat. Seperti yang telah kita pelajari, setiap kata kerja berakhir dengan salah satu kana dari baris う. Dan saya memutar tabel ini ke samping di sini karena alasan yang akan Anda lihat sebentar lagi. Jadi, kana dalam kotak merah ini adalah yang dapat mengakhiri kata kerja. Bukan semua kana baris う, tetapi sebagian besar di antaranya. Jadi, kita memiliki kata kerja seperti <code>かう</code> (membeli), <code>きく</code> (mendengar), <code>はなす</code> (berbicara), <code>もつ</code> (memegang) dll.
+Mari kita bedah. Seperti yang sudah kita ketahui, kata kerja dasar selalu berakhiran dengan salah satu huruf Kana dari baris `う` (U). Saya sengaja memutar tabel Kana di bawah ini ke samping agar kamu bisa melihat visualisasinya. Jadi, huruf-huruf di dalam kotak merah inilah yang berhak menjadi akhiran sebuah kata kerja. Tidak semua huruf di baris `う`, tapi sebagian besar dari mereka. Contohnya: `かう` (membeli), `きく` (mendengar), `はなす` (berbicara), `もつ` (memegang), dll.
 
-Sekarang, seperti yang Anda lihat, ada empat cara lain di mana sebuah kata kerja bisa berakhir. Dan masing-masing dari empat cara tersebut digunakan, dan mereka disebut akar kata kerja.
+Seperti yang kamu lihat, ada empat baris huruf lain yang membentang di bawahnya. Kelima baris inilah yang disebut sebagai Akar Kata Kerja (*Verb Stems*).
 
 ![](../media/image36.webp)
 
-Hari ini kita hanya akan membahas akar kata &quot;あ&quot;, karena itulah yang kita butuhkan untuk bentuk negatif. Jadi, untuk membentuk akar kata &quot;あ&quot;, kita cukup memindahkan kana terakhir dari kata kerja tersebut dari baris &quot;う&quot; ke baris &quot;あ&quot;. Jadi <code>きく</code> (mendengar) menjadi <code>きか</code>, <code>はなす</code> (berbicara) menjadi <code>はなさ</code>, <code>もつ</code> (memegang) menjadi <code>もた</code>, dan seterusnya.
+Hari ini, kita hanya akan fokus pada akar kata baris "あ" (*A-stem*), karena baris inilah yang kita butuhkan untuk menciptakan bentuk negatif. 
+
+Untuk membentuk *A-stem*, kita cukup menggeser huruf terakhir dari kata kerja tersebut (yang awalnya di baris `う`) naik ke baris `あ`. 
+Jadi: 
+- `きく` (mendengar) digeser menjadi `きか`
+- `はなす` (berbicara) digeser menjadi `はなさ`
+- `もつ` (memegang) digeser menjadi `もた`... dan seterusnya.
 
 ![](../media/image816.webp)
 
-Hanya ada satu pengecualian dalam sistem ini – dan ketika saya mengatakan itu, maksud saya adalah seluruh sistem, semua akar kata – hanya ada satu pengecualian ini, yaitu bahwa **ketika sebuah kata diakhiri dengan kana う, akarnya tidak berubah menjadi <code>-あ</code>, melainkan berubah menjadi <code>わ</code>.** Jadi, bentuk negatif dari <code>かう</code> bukan <code>かあない</code>, melainkan <code>かわない</code>. Dan pengecualian ini hanya ada pada akar kata yang berakhiran あ, jadi itulah satu-satunya pengecualian dalam seluruh sistem, dan Anda bisa melihat mengapa hal itu ada: <code>かあない</code> tidak semudah diucapkan seperti <code>かわない</code>, bukan?
+Hanya ada **SATU** pengecualian dalam sistem ini—dan saat saya bilang satu, maksud saya ini satu-satunya pengecualian di *seluruh sistem akar kata apa pun*—yaitu: **Jika sebuah kata kerja berakhiran dengan huruf `う` (u) itu sendiri, akarnya TIDAK bergeser naik menjadi `-あ` (a), melainkan bergeser jauh menjadi `わ` (wa).** 
 
-**Semua yang lain sangat teratur.** <code>きく</code> (hear) menjadi <code>きかない</code> (tidak-mendengar); <code>はなす</code> (berbicara) menjadi <code>はなさない</code> (tidak-berbicara); <code>もつ</code> (memegang) menjadi <code>もたない</code> (tidak memegang), dan seterusnya. 
+Jadi, bentuk negatif dari `かう` (membeli) BUKANLAH `かあない`, melainkan **`かわない`**. Pengecualian ini cuma berlaku saat kamu bermain-main di area *A-stem*. Logikanya sederhana: menyebut `かあない` (kaanai) itu tidak luwes dan tabrakan di mulut, jauh lebih enak dan mengalir mengucapkan `かわない` (kawanai), bukan?
 
-Dan seperti yang sudah kita ketahui, **pada kata kerja ichidan, mereka hanya menghilangkan <code>-る</code> dan menambahkan apa pun yang ingin kita tambahkan**, jadi <code>たべる</code> (makan) menjadi <code>たべない</code> (tidak makan). Dan itu saja. Begitulah cara kita mengubah kata kerja menjadi bentuk negatif. Sangat, sangat sederhana.
+**Selain satu pengecualian kecil itu, semuanya sangat amat teratur.** 
+- `きく` (mendengar) + ない = `きかない` (tidak mendengar)
+- `はなす` (berbicara) + ない = `はなさない` (tidak berbicara)
+- `もつ` (memegang) + ない = `もたない` (tidak memegang), dan seterusnya. 
 
-## Bentuk negatif kata sifat
+Lalu bagaimana dengan kelompok kata kerja Ichidan? Sesuai janji kita, **mereka selalu paling gampang: cukup buang akhiran `-る` dan tempelkan elemen barunya**.
+Jadi, `たべる` (makan) langsung menjadi `たべない` (tidak makan). Selesai. Begitulah cara kita menyulap kata kerja menjadi negatif. Sangat, sangat gampang!
 
-Lalu, bagaimana dengan kata sifat? Bagaimana cara mengubah kata sifat menjadi bentuk negatif? Nah, saat kita mengubah kata sifat, **yang selalu kita lakukan adalah mengubah <code>-い</code> di bagian akhir kata sifat tersebut menjadi <code>-く</code>:** <code>あかい</code> (merah) menjadi <code>あかく</code>; <code>かわいい</code> (is-cute) menjadi <code>かわいく</code>; こわい (is-scary) menjadi <code>こわく</code>.
+## Bentuk Negatif Kata Sifat
+
+Lalu, bagaimana dengan kata sifat (Kereta-い)? Bagaimana cara membuat kata sifat menjadi negatif? 
+Aturannya mutlak: **Setiap kali kita memodifikasi kata sifat, kita selalu mengubah akhiran `-い` di belakangnya menjadi `-く` (ku):** 
+- `あかい` (merah) menjadi `あかく`
+- `かわいい` (lucu) menjadi `かわいく`
+- `こわい` (menakutkan) menjadi `こわく`.
 
 ![](../media/image303.webp)
 
-Dan inilah cara kita membuat bentuk て dari kata sifat: <code>あかく</code> menjadi <code>あかくて</code>. 
+Masih ingat pelajaran sebelumnya? Inilah cara kita membentuk wujud `-て` dari kata sifat: `あかく` tinggal ditambah て menjadi `あかくて`. 
 
 ![](../media/image926.webp)
 
-**Dan ini juga cara kita membentuk bentuk negatif:** <code>あかい</code> menjadi <code>あかくない</code> (tidak-merah). 
+**Dan ini jugalah cara kita membentuk wujud negatifnya.** Alih-alih ditambah て, kita tambahkan `ない`.
+`あかい` menjadi `あかくない` (tidak merah). 
 
 ![](../media/image860.webp)
 
-Nah, yang menarik, -く ini kebalikan dari apa yang terjadi pada bentuk て, bukan? Jika sebuah kata berakhiran -く, dalam bentuk て kita mengubah -く menjadi -い. **Tetapi pada kata sifat, kita mengubah -い menjadi -く.**
+Menariknya, perubahan menjadi `-く` ini adalah kebalikan dari aturan bentuk `-て`, kan? Jika sebuah kata berakhiran `-く`, saat diubah ke wujud `-て` kita mengganti `-く` menjadi `-い` (contoh: *aruku -> aruite*). **Tetapi pada kata sifat, justru `-い` yang kita ganti menjadi `-く`.**
 
 ::: info
-Dolly membuat sedikit kesalahan ketik di sini, dalam video, dia menulis かわいく sebagai あわいく. Saya telah memperbaikinya.
+Dolly membuat sedikit *typo* ketikan di dalam video aslinya dengan menulis かわいく sebagai あわいく. Saya telah memperbaikinya di teks ini.
 ::: 
 
-## Kata sifat dalam bentuk lampau
+## Kata Sifat dalam Bentuk Lampau
 
-Jika kita ingin mengubah kata sifat menjadi bentuk lampau, **kita menghilangkan akhiran -い dan menggunakan -かった.** Jadi <code>こわい</code> (is-scary) menjadi <code>こわかった</code> (was-scary). Dan karena <code>ない</code> juga merupakan kata sifat yang berakhiran -い, ketika kita mengubahnya ke bentuk lampau, kita juga mengatakan <code>なかった</code>. Jadi, jika kita ingin mengatakan <code>Sakura runs</code>, kita mengatakan <code>さくらがはしる</code>; jika kita ingin mengatakan <code>Sakura doesn&#x27;t run</code>, kita mengatakan <code>さくらがはしらない</code>;  jika kita ingin mengatakan <code>Sakura ran (in the past)</code>, kita mengucapkannya <code>さくらがはしった</code> – karena ini adalah kata kerja godan;
+Jika kita ingin menyulap kata sifat menjadi bentuk masa lalu (*past tense*), **kita buang akhiran `-い` dan menggantinya dengan `-かった` (katta).** 
+Jadi `こわい` (is-scary) berubah menjadi `こわかった` (was-scary / dulu menakutkan). 
 
-::: info
-Perhatikan bentuk &quot;っ&quot; sebelum &quot;た&quot; alih-alih hanya &quot;た&quot;, seperti yang dijelaskan dalam Pelajaran 5 Kelompok Kata Kerja Godan 1.*  
-:::
+Nah, karena `ない` juga sejatinya adalah kata sifat yang berakhiran `-い`, maka ketika ia ditarik ke masa lalu, ia juga mematuhi aturan ini dan berubah menjadi `なかった` (nakatta). 
 
-dan jika kita ingin mengatakan <code>Sakura didn&#x27;t run (in the past)</code>, kita mengatakan <code>さくらがはしらなかった</code>. <code>はしらない</code>, lalu kita ubah <code>ない</code> ke bentuk lampau: <code>はしらなかった</code>. 
+Mari kita gabungkan semuanya:
+- Jika kita ingin bilang `Sakura runs` -> `さくらがはしる`
+- Jika kita ingin bilang `Sakura doesn't run` -> `さくらがはしらない`
+- Jika kita ingin bilang `Sakura ran (in the past)` -> `さくらがはしった` (karena ia adalah kata kerja godan)*;
+
+> \**Catatan: Perhatikan munculnya `っ` kecil sebelum `た` alih-alih `た` biasa. Ini terjadi karena kata tersebut tunduk pada hukum kelompok Godan 1 (UTSURU) di Pelajaran 5.*
+
+- Dan jika kita ingin bilang `Sakura didn't run (in the past)` -> `さくらがはしらなかった`. Kita ambil wujud negatifnya `はしらない`, lalu kita tendang `ない`-nya ke masa lalu menjadi `はしらなかった`. 
 
 ![](../media/image187.webp)
 
-Sekarang, seperti yang kita semua tahu. <code>さくらがはしる</code> adalah bahasa Jepang yang agak tidak wajar, sama seperti halnya dalam bahasa Inggris. Kita mengatakan <code>Sakura is running</code> dalam bahasa Inggris, dan dalam bahasa Jepang kita mengatakan <code>さくらがはしっている</code>. Jadi, jika kita ingin mengubah semua itu ke masa lalu, apa yang harus kita lakukan? Nah, yang harus kita lakukan hanyalah mengubahnya <code>いる</code> ke masa lalu. 
+Sekarang, seperti yang kita semua tahu. Menggunakan `さくらがはしる` (Sakura will-run/runs) itu rasanya agak kaku dan tidak wajar untuk mendeskripsikan kejadian saat ini. Dalam bahasa Inggris kita biasanya memakai `Sakura is running`, dan dalam bahasa Jepang kita menggunakan *engine* pembantu `いる` menjadi `さくらがはしっている`. 
 
-Jadi kita mengatakan <code>さくらがはしっていた</code> – <code>Sakura was running</code>.
+Jadi, kalau kita ingin membawa kalimat *continuous* itu ke masa lalu, apa yang harus kita lakukan? Gampang, kita cukup menarik si *engine* `いる` ke masa lalu. 
+
+`さくらがはしっていた` – `Sakura was running` (Sakura dulu sedang berlari).
 
 ![](../media/image554.webp)
 
-Dan jika kita ingin mengatakan <code>Sakura wasn&#x27;t running</code>, kita mengatakan <code>さくらがはしっていなかった</code>. Itu <code>いる</code> adalah kata kerja ichidan sederhana, jadi kita cukup menghilangkan akhiran -る dan menambahkan た *(masa lalu positif)* atau ない *(negatif)* dan, untuk masa lalu, なかった. *(karena ない di masa lalu menjadi なかった)*
+Dan jika kita ingin bilang `Sakura wasn't running`, kita tinggal bilang `さくらがはしっていなかった`. 
+Kata `いる` adalah kata kerja Ichidan biasa. Jadi kita cukup mencopot akhiran `-る` dan menempelkan `た` *(untuk masa lalu positif)*, atau `ない` *(untuk negatif)*, dan terakhir `なかった` *(karena ない di masa lalu menjadi nakatta)*.
 
 ![](../media/image12.webp)
 
-**Saya selalu mengatakan bahwa bahasa Jepang itu seperti Lego.** **Begitu Anda mengetahui blok-blok pembangun dasarnya, Anda bisa membangun apa saja.** **Dan hampir tidak ada pengecualian dalam bahasa Jepang.**
+**Saya selalu mengibaratkan tata bahasa Jepang itu seperti mainan balok Lego.** **Begitu kamu paham wujud dari tiap-tiap blok pembangun dasarnya, kamu bisa merakit bangunan serumit apa pun.** **Dan yang terpenting, nyaris tidak ada pengecualian yang bikin sakit kepala dalam bahasa Jepang.**
 
 ## Pengecualian
 
-Dari semua yang telah kita bahas hari ini, sebenarnya hanya ada dua pengecualian. Dan saya akan memperkenalkannya agar Anda mengetahui semua yang perlu Anda ketahui. 
+Dari puluhan materi yang sudah kita bongkar hari ini, hanya ada DUA pengecualian. Dan saya akan memperkenalkannya sekarang supaya tidak ada lagi rahasia yang terlewat. 
 
-**Satu-satunya pengecualian nyata dari setiap kata kerja yang dibuat menjadi negatif dengan menambahkan <code>ない</code> adalah kata kerja <code>ます</code>, yang merupakan kata kerja bantu yang membuat kata-kata menjadi formal.** *(sopan)* **Kita menambahkannya ke A-stem kata kerja &quot;い&quot;**, dan kita akan membahas A-stem kata kerja &quot;い&quot; nanti, tetapi saya pikir Anda sudah bisa menebak apa itu. 
+**Pengecualian pertama:** Satu-satunya anomali mutlak dalam dunia kata kerja (yang tidak bisa diubah menjadi negatif pakai `ない`) adalah kata bantu `ます` (masu)—sebuah kata yang berfungsi mengubah kalimat menjadi bentuk sopan/formal. 
+*(Catatan: Kita menempelkan ます pada akar kata baris "い" (I-stem), kita akan membahas ini di pelajaran selanjutnya, tapi saya yakin kamu pasti sudah bisa menebak polanya).* 
 
-Jadi, <code>はなす</code> menjadi <code>はなします</code>, <code>きく</code> menjadi <code>ききます</code> dan seterusnya. Ketika Anda <code>ます</code> ke dalam bentuk negatif, kata kerja tersebut tidak menjadi <code>まさない</code>, seperti yang Anda harapkan – **melainkan <code>ません</code>.**
+Contoh, `はなす` digeser ke *I-stem* menjadi `はなします`, `きく` menjadi `ききます`, dan seterusnya. 
+Nah, ketika kamu ingin mengubah `ます` ke dalam wujud negatif, ia TIDAK berubah menjadi *`まさない`* seperti yang diinstruksikan oleh rumus dasar kita. **Bentuk negatifnya berubah jauh menjadi `ません` (masen).**
 
 ![](../media/image360.webp)
 
-**Karena ini formal, agak kuno, dan menggunakan bentuk negatif Jepang kuno <code>せん</code> bukan <code>ない</code>.**
+**Kenapa? Karena ini adalah ranah bahasa sopan. Ia sedikit lebih kuno dan kaku, dan wujud `せん` ini sebenarnya adalah bentuk bahasa Jepang kuno yang digunakan untuk menggantikan `ない`.**
 
 ::: info
-Dolly sekali lagi membuat kesalahan ketik di sini dalam video, saya memperbaikinya lagi.
-
+Dolly kembali melakukan sedikit *typo* pada visual video di menit ini, dan saya telah turun tangan memperbaikinya lagi agar tidak membingungkanmu.
 
 ![](../media/image941.webp)
 :::
 
-Satu-satunya pengecualian lain yang terlihat adalah bahwa <code>いい</code> , kata sifat <code>いい/良い</code>, yang berarti <code>is-good</code>, memiliki bentuk yang lebih tua, <code>よい/良い</code>, yang masih cukup sering digunakan. Dan **ketika kita melakukan transformasi apa pun pada <code>いい</code>, ia kembali menjadi <code>よい</code>**, jadi dalam bentuk lampau kita tidak mengatakan <code>いかった</code>, **kita mengatakan** <code>**よ**かった</code> – dan jika kamu sering menonton anime, kamu mungkin sudah sering mendengar ini.
+**Pengecualian kedua (dan yang terakhir):** Kata sifat `いい / 良い` (ii) yang berarti `is-good` (Bagus/Baik). Kata ini sebenarnya memiliki wujud yang lebih kuno yaitu `よい / 良い` (yoi), yang uniknya masih sangat sering digunakan sampai hari ini. 
+
+Aturan mutlaknya: **Setiap kali kita akan melakukan transformasi (perubahan bentuk) apa pun pada `いい`, ia akan berevolusi kembali ke wujud asalnya yaitu `よい`.** 
+Jadi saat kita membawanya ke masa lalu, kita TIDAK boleh mengatakan *`いかった`* (ikatta), **kita wajib mengucapkan `よかった` (yokatta)**—kalau kamu sering menonton anime, telingamu pasti sudah tidak asing lagi dengan kata ini.
 
 ![](../media/image253.webp)
 
-<code>よかった</code>, secara harfiah <code>(zeroが)よかった</code> – <code>(It) was good / That turned out well / That&#x27;s great</code>. Dan jika Anda ingin mengatakan sesuatu itu tidak baik, Anda tidak mengatakan <code>いくない</code>, **kamu mengatakan** <code>**よ**くない</code>. Dan itu adalah satu-satunya pengecualian.
+`よかった`, secara struktur logis adalah `(zeroが)よかった` – `(It) was good / That turned out well / That's great` (Syukurlah / Itu bagus). 
+Begitu pula jika kamu ingin membuat wujud negatifnya. Kamu TIDAK bilang *`いくない`* (ikunai), **kamu wajib bilang `よくない` (yokunai).** 
+
+Dan selesai! Itu saja pengecualian yang harus kamu ingat seumur hidup.
