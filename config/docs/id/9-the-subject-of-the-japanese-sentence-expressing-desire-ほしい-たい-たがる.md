@@ -1,163 +1,236 @@
-# **9. Subjek Kalimat Bahasa Jepang &amp; Mengungkapkan Keinginan: ほしい, たい, たがる**
+# **9. Subjek Kalimat Bahasa Jepang & Mengungkapkan Keinginan: ほしい, たい, たがる**
 
-[**Pelajaran 9: Bagaimana Buku Pelajaran MERUSAK Kemampuan Bahasa Jepang Anda: Rahasia No. 1! + Mengungkapkan keinginan: hoshii, tai, tagaru**](https://www.youtube.com/watch?v=vk3aKqMQwhM&amp;list;=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&amp;index;=11)
+[**Pelajaran 9: Bagaimana Buku Pelajaran MERUSAK Kemampuan Bahasa Jepang Anda: Rahasia No. 1! + Mengungkapkan keinginan: hoshii, tai, tagaru**](https://www.youtube.com/watch?v=vk3aKqMQwhM&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=11)
 
-## Subjek dan ego dalam Bahasa Jepang vs Bahasa Inggris
+## Subjek dan Ego: Bahasa Jepang vs Bahasa Inggris
 
-Bahasa Jepang dan Inggris memiliki pandangan dunia yang sangat berbeda. Dalam beberapa hal, keduanya bertolak belakang. 
+Bahasa Jepang dan bahasa Inggris/Indonesia memiliki pandangan dunia yang sangat bertolak belakang. Dalam beberapa aspek, mereka benar-benar berlawanan arah. 
 
-**Bahasa Inggris adalah bahasa yang sangat ego-sentris.** Dan ini bukanlah semacam pernyataan moral: **Saya berbicara tentang tata bahasa.** **Bahasa Inggris ingin memiliki <code>ego</code> sebagai penggerak utama, pusat dari setiap kalimat, jika memungkinkan.** Lebih disukai <code>me</code>, jika bukan <code>me</code> maka orang lain, dan jika bukan orang setidaknya seekor hewan. Harus ada semacam <code>ego</code> aktor. 
+**Bahasa Inggris (dan sebagian besar bahasa Barat) adalah bahasa yang sangat ego-sentris.** Saya tidak sedang membicarakan soal moral: **saya murni berbicara soal tata bahasa.** **Tata bahasa Inggris selalu ingin meletakkan `Ego` (manusia/pelaku) sebagai penggerak utama, alias sebagai pusat dari setiap kalimat, jika memungkinkan.** 
+Prioritas utamanya adalah `Me` (Saya). Jika bukan saya, minimal orang lain. Dan jika bukan manusia, minimal seekor hewan. Intinya, harus selalu ada semacam aktor "bernyawa" yang menjadi subjek pelaku. 
 
 ::: info
-**Dolly tampaknya kadang-kadang merujuk pada Subjek sebagai Aktor dan menggunakannya secara bergantian, jadi ingatlah bahwa ketika dia menyebut &quot;Aktor&quot;, dia SEHARUSNYA bermaksud &quot;Subjek&quot;.** Penggunaan ini mungkin membingungkan nanti saat membahas Pasif/Reseptif jika Anda tahu sedikit linguistik dasar… tapi mungkin hanya <code>me</code> masalah…
+**Catatan:** Dolly terkadang mencampuradukkan istilah "Aktor/Pelaku" dengan "Subjek". Jadi ingatlah, ketika Dolly menyebut "Aktor", yang dia maksud SEHARUSNYA adalah "Subjek" (Gerbong A). Penggunaan istilah yang tumpang tindih ini mungkin akan sedikit membingungkan nanti saat kita membahas kalimat Pasif/Reseptif. Tapi mungkin itu cuma masalah linguistik teknis saja...
 :::
 
-**Bahasa Jepang sama sekali tidak bekerja seperti itu. Bahasa ini sangat senang memiliki makhluk tak bernyawa sebagai penggerak utama dalam sebuah kalimat. Anda mungkin menyebut ini sebagai cara pandang yang lebih animis terhadap bahasa.** Sekarang, ini mungkin terdengar agak abstrak, tetapi sebenarnya sama sekali tidak abstrak. Mari kita lihat beberapa contoh konkret. Saya akan mulai dengan contoh favorit saya, dan jika Anda pernah mendengarnya sebelumnya, jangan pergi karena kali ini kita akan membahasnya lebih dalam. 
+**Bahasa Jepang sama sekali tidak bekerja seperti itu. Bahasa Jepang sangat nyaman menjadikan benda mati tak bernyawa sebagai penggerak utama (subjek) di dalam sebuah kalimat. Kamu bisa menyebutnya sebagai cara pandang bahasa yang lebih "animisme".** 
 
-Contoh favorit saya adalah: <code>わたしは**コーヒーが**すきだ.</code> Sekarang, kita bisa menggunakan <code>わたし</code> atau kita bisa tidak mengatakannya *(atau lebih tepatnya tidak perlu mengatakannya)*; maknanya akan tetap dipahami baik kita mengatakannya maupun tidak.
+Penjelasan ini mungkin terdengar agak abstrak, padahal kenyataannya sangat logis dan konkret. Mari kita lihat satu contoh klasik. Ini adalah contoh favorit saya. Jika kamu pernah mendengarnya sebelumnya, jangan ke mana-mana, karena kali ini kita akan membedahnya sampai ke akar-akarnya.
+
+Mari kita lihat kalimat sakti ini: `わたしは**コーヒーが**すきだ.` 
+Kita bisa menggunakan kata `わたし` (saya) di awal, atau kita bisa tidak mengucapkannya sama sekali; maknanya akan tetap dipahami dengan utuh.
 
 ![](../media/image227.webp)
 
-Apa yang diajarkan buku teks, sekolah, dan semua orang kepada Anda adalah bahwa ini berarti <code>I like coffee</code>. Dan <code>I like coffee</code> mungkin saja itulah yang akan kita katakan dalam bahasa Inggris jika kita ingin mengatakan sesuatu yang serupa, **tetapi itu bukanlah arti kalimat ini.** Dan jika Anda telah mengikuti kursus ini hingga titik ini, Anda dapat melihat mengapa hal itu tidak benar.
+Apa yang diajarkan oleh buku teks, sekolah, dan kursus bahasa Jepang kepada Anda? Mereka mencuci otakmu bahwa kalimat ini berarti `I like coffee` (Saya suka kopi). 
+Penerjemahan `I like coffee` memang terkesan wajar jika kita ingin menyampaikan ide yang serupa di dalam bahasa Inggris/Indonesia, **TETAPI, itu sama sekali bukanlah terjemahan struktural dari kalimat tersebut.** Dan jika kamu telah mengikuti kursus ini sejak awal dengan serius, kamu pasti bisa melihat kenapa terjemahan itu keliru fatal.
 
 ---
 
-**Poin pertama dan terpenting di sini adalah – perhatikan di mana letak kata kerja utama (が). が menandai kopi.** **Kita tahu bahwa penggerak utama** *(Subjek dalam kalimat aktif)*, **pelaku atau subjek dari sebuah kalimat, selalu ditandai oleh が**, jadi kita tahu bahwa penggerak utama kalimat ini **bukanlah <code>わたし</code> –<code>I</code>**, **melainkan kopi, yang ditandai dengan が.**
+**Poin pertama dan terpenting di sini – perhatikan baik-baik di mana letak partikel penanda subjek (が). Partikel が MENEMPEL pada KOPI.** 
+**Kita sudah tahu hukum mutlaknya: penggerak utama, pelaku, atau subjek dari sebuah kalimat AKAN SELALU ditandai oleh が.** Jadi, dari struktur ini kita tahu 100% bahwa penggerak utama kalimat ini **BUKANLAH `わたし` (Saya)**, **melainkan si kopi (karena dialah yang memegang が).**
 
 ![](../media/image387.webp)
 
-**<code>わたし</code> bisa saja memiliki が tak terlihat di belakangnya, tetapi dalam kasus ini tidak bisa**, karena **kita sudah tahu apa が-nya, yaitu kopi. Jadi, kopi itulah yang sedang menjadi atau melakukan sesuatu.** **Dalam bahasa Inggris** kita diajarkan bahwa ini adalah <code>A **does** B</code> kalimat, tetapi kita hanya perlu melihatnya untuk mengetahui bahwa **itu bukan**. **Kalimat ini diakhiri dengan <code>だ</code>** – ini adalah <code>A **is** B</code> kalimat, bukan?
+`わたし` memang bisa saja memiliki partikel が tak terlihat di belakangnya (*zero-ga*), **tetapi dalam kalimat ini TIDAK BISA.** Kenapa? Karena **kita sudah melihat dengan mata kepala sendiri siapa pemegang が-nya, yaitu KOPI.** Jadi, kopilah yang bertindak menjadi atau melakukan sesuatu. 
+
+**Dalam tata bahasa Barat**, kita diajari bahwa ini adalah kalimat tindakan (`A **does** B`). Tetapi coba perhatikan ekor kalimatnya: **kalimat ini diakhiri dengan kopula `だ`**. Ingat pelajaran pertama? Ini jelas merupakan kalimat deskriptif (`A **is** B`), bukan kalimat tindakan!
 
 ![](../media/image748.webp)
 
-**Kopi itu <code>すき</code>.** Jadi, apa <code>すき</code> artinya? **<code>すき</code> adalah kata benda, dan itu adalah salah satu kata benda yang berfungsi sebagai kata sifat yang telah kita bahas sebelumnya.** Jadi, kata itu memberi tahu kita sesuatu tentang sifat atau kondisi kopi tersebut. Dalam hal ini, **yang diberitahukannya kepada kita adalah bahwa kopi itu menyenangkan. Itulah inti dari kalimat tersebut: <code>Coffee is pleasing.</code>**
+**Kopi itu `すき`.** Lalu, apa arti asli dari `すき` (suki)? **`すき` adalah sebuah kata benda. Tepatnya, ia adalah salah satu kata benda khusus yang difungsikan sebagai kata sifat (Kata Sifat-Na) yang telah kita bahas di Pelajaran 6.** 
+Jadi, kata ini bertugas memberi tahu kita sifat atau kondisi dari si kopi tersebut. Dan dalam kasus ini, **pesan yang disampaikannya adalah bahwa kopi itu 'menyenangkan/memuaskan' (*pleasing*). Itulah struktur inti dari kalimat ini: `Coffee is pleasing.`**
 
 ![](../media/image349.webp)
 
-**Kata <code>わたしは</code>, baik secara implisit maupun eksplisit, memberi tahu kita dalam konteks siapa kopi tersebut menyenangkan:** <code>**As for me**, coffee is pleasing.</code> **Sekarang, ini sangat sangat sangat penting.** **Karena jika kita tidak tahu itu, jika kita benar-benar percaya bahwa kalimat ini berarti <code>I like coffee</code>, pemahaman kita tentang が dan を akan benar-benar kacau.**
+Lalu apa peran **`わたしは`**? Partikel `は` murni bertugas mendeklarasikan topik untuk memberi tahu kita konteks dari kalimatnya: **bagi siapa kopi tersebut menyenangkan?** 
+Terjemahan literalnya: `**As for me**, coffee is pleasing` (Adapun mengenai saya, kopi itu menyenangkan). 
+
+**Konsep ini sangat, sangat, SANGAT penting!** **Karena jika kamu tidak memahami logika ini, dan kamu benar-benar percaya bahwa struktur ini berarti `I like coffee`, pemahamanmu tentang partikel が (subjek) dan を (objek) akan hancur lebur.**
 
 ---
 
-**Jika penggerak kalimat ini adalah <code>わたし</code>, maka ia harus ditandai dengan が.** **Jika benda yang menjadi objek tindakan penggerak, yang disukainya, adalah kopi, maka benda itu harus ditandai dengan を.** Jadi, kita memiliki dua partikel, dan dua partikel paling mendasar, yang benar-benar membingungkan dalam pikiran kita. Kita sekarang percaya bahwa terkadが dapat menandai objek kalimat alih-alih subjek, yaitu hal yang menjadi objek tindakan alih-alih pelaku atau subjek kalimat. Dan kita sekarang percaya bahwa objek kalimat, yaitu hal yang menjadi objek tindakan, terkadang dapat ditandai oleh が alih-alih を. **Dan tidak ada satupun dari hal ini yang benar. Itu tidak pernah bisa terjadi. Itu tidak akan pernah terjadi. Dan jika itu bisa terjadi, bahasa Jepang akan menjadi kacau. Dan itulah tepatnya yang terjadi di benak banyak siswa.**
+Mari kita asumsikan kamu tertipu oleh buku teks. **Jika penggerak kalimat (subjek) ini benar-benar `わたし` (saya), maka harusnya sayalah yang ditandai dengan が.** **Dan jika benda yang menjadi objek tindakannya adalah kopi (yang disukai), maka kopi itu harusnya ditandai dengan を.** 
+
+Gara-gara kebohongan ini, otak kita jadi memiliki pemahaman yang terbalik terhadap dua partikel paling mendasar di bahasa Jepang. 
+1. Kita jadi percaya bahwa `が` terkadang bisa digunakan untuk menandai "objek" (hal yang dikenai tindakan).
+2. Kita juga jadi percaya bahwa sebuah objek yang seharusnya ditandai dengan `を`, ternyata bisa seenaknya diganti dengan `が`. 
+
+**FAKTANYA: KEDUA ASUMSI ITU TIDAK ADA YANG BENAR. Itu tidak akan pernah terjadi.** Jika sistem partikel bisa ditukar-tukar secara acak seperti itu, bahasa Jepang akan hancur total. Dan ironisnya, kehancuran pemahaman itulah yang saat ini terjadi di benak jutaan siswa bahasa Jepang di seluruh dunia.
 
 ---
 
-Jadi, seperti yang kita lihat dalam kalimat ini, **<code>わたし</code> adalah topik non-logis dari kalimat tersebut.** **Topik tersebut ditandai dengan は. Topik tersebut bukanlah penggerak. Topik tersebut bukanlah subjek.** **<code>コーヒー</code> bukanlah objek, yang akan ditandai dengan を jika memang demikian.** **Itu adalah subjek.** **Dan <code>すき</code> bukanlah kata kerja yang berarti <code>to like</code>; melainkan kata sifat yang berarti <code>to be pleasing</code>.**
+Mari kita luruskan kembali: **`わたし` (Saya) adalah topik non-logis dari kalimat tersebut.** **Itulah kenapa ia ditandai dengan bendera は. Ia BUKANLAH penggerak. Ia BUKANLAH subjek.** 
+**`コーヒー` (Kopi) BUKANLAH objek—jika ya, ia pasti ditandai dengan を.** **Kopi adalah SUBJEK kalimatnya.** 
+**Dan `すき` (Suki) BUKANLAH kata kerja yang berarti `to like` (menyukai); melainkan sebuah kata benda adjektival yang berarti `to be pleasing` (menyenangkan/memuaskan).**
 
 ---
 
-Jadi, setiap kata dalam kalimat ini dijelaskan secara keliru oleh penjelasan standar. Dan kesalahpahaman semacam ini membuat bahasa Jepang menjadi kacau balau. Nah, apakah ada banyak kasus seperti ini dalam bahasa Jepang?
+Jadi, setiap elemen di dalam kalimat ini telah dijelaskan secara menyesatkan oleh kurikulum standar. Kesalahpahaman fatal semacam inilah yang membuat belajar bahasa Jepang terasa seperti mimpi buruk yang tidak masuk akal. 
 
-Jujur saja, tidak masalah apakah banyak atau tidak. Begitu pemahaman Anda tentang partikel-partikel itu kacau, ya sudah kacau. Tapi kebetulan memang banyak. Berbagai macam struktur kalimat dalam bahasa Jepang menimbulkan kesalahpahaman yang sama ini.
+Lalu pertanyaannya, apakah ada banyak struktur kalimat "jebakan" seperti ini dalam bahasa Jepang?
+Jujur saja, mau banyak atau sedikit itu tidak relevan. Begitu pemahaman aslimu tentang partikel hancur, kamu sudah tamat. Tapi kebetulan, jawabannya: **Ya, sangat banyak.** Ada berbagai macam struktur esensial dalam bahasa Jepang yang diam-diam akan memicu kesalahpahaman yang sama jika kamu memakai kacamata bahasa Inggris.
 
 ---
 
-Misalnya, jika kita mengatakan <code>ほんがわかる</code>, atau <code>わたしはほんがわかる</code>, kita mengatakan **buku itu mudah dipahami**, tetapi teks-teks bahasa Inggris mengatakan bahwa ini berarti <code>I understand the book</code>, dan dalam kasus ini hal itu bahkan lebih tidak bisa dimaafkan, karena sebenarnya tidak ada padanan untuk <code>すき</code> dalam bahasa Inggris, tetapi ada padanan untuk <code>わかる</code>. Artinya <code>understandable</code> atau <code>clear</code>.
+Contoh lain: jika kita bilang `ほんがわかる` (Hon ga wakaru), atau `わたしはほんがわかる`. Makna struktural aslinya adalah **Buku itu mudah dipahami (*understandable*)**. 
+Tetapi, buku teks bahasa Inggris akan secara paksa menerjemahkannya menjadi `I understand the book` (Saya mengerti buku itu). Terjemahan ini jauh lebih tidak bisa dimaafkan, karena sebenarnya bahasa Inggris memiliki padanan kata yang akurat untuk `わかる`, yaitu `understandable` atau `clear`.
 
 ![](../media/image1153.webp)
 
-Kita bisa mengatakan <code>In relation to me, or just to me, the book is understandable</code>, **dan dengan begitu kita tidak akan sepenuhnya mengacaukan fungsi &quot;が&quot; atau mengira bahwa kata benda yang seharusnya ditandai dengan &quot;を&quot; bisa ditandai dengan &quot;が&quot; secara sembarangan.**
+Kita harusnya bisa menerjemahkannya dengan akurat menjadi: `In relation to me, the book is understandable` (Terkait dengan saya, buku itu dapat dipahami). **Dengan begini, kita tidak perlu mengorbankan fungsi suci partikel "が" atau berhalusinasi bahwa kata benda yang seharusnya ditandai dengan "を" bisa tiba-tiba diserobot oleh "が".**
 
 ---
 
-Lalu mengapa, setidaknya dalam kasus ini, sekolah dan buku pelajaran tidak menerjemahkannya sesuai dengan arti sebenarnya? <code>**To me, the book is understandable / Speaking of me the book is understandable**.</code> **Karena prasangka untuk menempatkan ego di pusat setiap kalimat begitu kuat sehingga mengesampingkan pembelajaran bahasa Jepang yang benar.** Dan ini bukan sekadar beberapa kasus acak.
+Lalu kenapa sekolah dan buku pelajaran enggan mengajarkan terjemahan literalnya? Kenapa mereka tidak mau bilang `**To me, the book is understandable**`? 
+**Karena doktrin (prasangka) mereka untuk selalu meletakkan `EGO` (manusia) sebagai pusat dari setiap kalimat sudah terlampau mendarah daging, sampai-sampai mereka rela mengesampingkan tata bahasa asli Jepang yang benar demi kenyamanan terjemahan Barat.** 
+Dan kasus ini bukan sekadar satu atau dua insiden acak saja.
 
-Nanti, kita akan membahas bentuk potensial<sup>[[10]](./10-helper-verbs-the-potential-helper-verb.md)</sup> dan kita akan membahas bentuk reseptif<sup>[[13]](./13-passive-conjugation-receptive-helper-verb.md)</sup>, yang salah dijelaskan sebagai pasif, dan keduanya akan menampilkan bentuk-bentuk dari masalah yang sama. Karena keduanya merupakan topik yang cukup luas, saya tidak akan membahasnya sekarang. Namun, mari kita bahas cara kita mengekspresikan keinginan dalam bahasa Jepang. Mari kita bahas bagaimana bahasa Jepang menangani keinginan. Baik kita menginginkan sesuatu atau ingin melakukan sesuatu, bagaimana kita mengungkapkannya dalam bahasa Jepang?
+Nanti, kita akan membahas Bentuk Potensial<sup>[[10]](./10-helper-verbs-the-potential-helper-verb.md)</sup> dan Bentuk Reseptif<sup>[[13]](./13-passive-conjugation-receptive-helper-verb.md)</sup> (yang sering salah kaprah disebut bentuk pasif). Keduanya adalah korban kebrutalan dari miskonsepsi yang sama. Karena topik itu sangat panjang, kita akan membahasnya nanti. 
 
-## Mengekspresikan Keinginan dengan ほしい
+Untuk sekarang, mari kita fokus membedah **cara kita mengekspresikan keinginan (*desire*) dalam bahasa Jepang.** Baik itu saat kita menginginkan *suatu barang*, maupun saat kita ingin *melakukan sesuatu*. Bagaimana bahasa Jepang merakit konsep ini?
 
-Baiklah, misalkan kita menginginkan sesuatu. Misalnya <code>こねこがほしい</code>.
+## Mengekspresikan Keinginan terhadap Benda: ほしい (Hoshii)
+
+Misalkan kita sedang mendambakan suatu barang. Contohnya: `こねこがほしい` (Koneko ga hoshii).
 
 ![](../media/image14.webp)
 
-<code>こねこ</code> adalah seekor anak kucing: <code>こ/子</code> adalah anak atau benda kecil dan <code>ねこ</code> adalah kucing. Dan <code>ほしい</code> diterjemahkan ke dalam bahasa Inggris sebagai <code>want</code>. Sekarang, jika Anda melihatnya, hal pertama yang dapat Anda lihat adalah bahwa **itu bukan kata kerja. Itu adalah kata sifat.** Kata itu berakhiran <code>い</code>, bukan <code>う</code>. Dan hal kedua yang bisa Anda lihat, yang paling penting, adalah bahwa **penggerak yang ditandai dengan が dalam kalimat ini bukanlah saya, yang menginginkan kucing. Melainkan kucing itu sendiri, yang diinginkan.**
+`こねこ` adalah seekor anak kucing (`こ/子` adalah awalan untuk anak/benda kecil, dan `ねこ` adalah kucing). 
+`ほしい` biasanya diterjemahkan ke dalam bahasa Inggris sebagai `want` (ingin). 
+
+Sekarang, coba kamu perhatikan baik-baik wujud kata `ほしい` tersebut. Fakta pertama yang harus kamu sadari adalah: **itu BUKANLAH sebuah kata kerja. Itu adalah kata sifat.** Kata tersebut berakhiran `い` (i), bukan berakhiran `う` (u). 
+Fakta kedua—yang paling penting—adalah: **Penggerak utama kalimat yang ditandai dengan が BUKANLAH saya (orang yang menginginkan kucing). Melainkan SI KUCING ITU SENDIRI, yang berstatus 'sedang diinginkan'.**
 
 ![](../media/image519.webp)
 
-Jadi, apa <code>ほしい</code> artinya? Nah, sederhananya, artinya <code>is wanted</code>. 
+Jadi, apa makna struktural asli dari `ほしい`? Sederhananya, artinya adalah `is wanted` (diinginkan/didambakan). 
 ::: info
-Ini adalah kata sifat.
+Ingat, ini adalah wujud mutlak kata sifat.
 :::
-<code>In relation to me, the cat is wanted.</code> 
-::: info
-わたしはねこがほしい.
-:::
-Dan sekali lagi, jika kita benar-benar percaya bahwa ini berarti <code>I want a cat</code>, kita berpikir bahwa が dapat menandai objek kalimat, objek tindakan, hal yang kita lakukan padanya. Jadi sekali lagi, **kita bingung tentang peran が dalam kalimat, kita bingung tentang peran を dalam kalimat, karena kucing seharusnya ditandai oleh を jika artinya** <code>I want a cat</code>. **Dan kita bingung antara kata kerja dan kata sifat.** Jadi sekali lagi **bahasa Jepang menjadi permainan tebak-tebakan yang aneh di mana partikel dan jenis kata dapat mengubah maknanya secara acak.**
 
-## Mengungkapkan keinginan untuk melakukan sesuatu dengan &quot;たい&quot;
+Kalimat utuhnya (`わたしはねこがほしい`) secara logis bermakna: `In relation to me, the cat is wanted` (Terkait dengan saya, kucing itu didambakan). 
 
-Sekarang, misalkan kita ingin melakukan sesuatu. Dalam bahasa Jepang, kita mengungkapkan keinginan untuk melakukan sesuatu secara berbeda dari cara kita mengungkapkan keinginan untuk memiliki sesuatu. **Dan cara melakukannya adalah dengan menggunakan A-stem &quot;い&quot; lagi.** A-stem &quot;い&quot;, seperti yang saya katakan sebelumnya, adalah A-stem yang sangat penting. Jadi, untuk mengatakan bahwa kita menginginkan sesuatu, kita harus menambahkan **kata sifat keinginan**, yaitu <code>**たい**</code>. **Jadi sekarang kita memiliki sebuah kata sifat.**
+Sekali lagi, jika kita ngotot menelan mentah-mentah ajaran buku teks bahwa kalimat ini murni berarti `I want a cat` (Saya menginginkan seekor kucing), maka kita akan berasumsi bahwa partikel `が` bisa dipakai untuk menandai sebuah objek tindakan. 
+**Akibatnya, pemahaman kita tentang batas wilayah kerja partikel `が` dan partikel `を` akan kacau balau.** (Karena kalau kalimatnya benar-benar "Saya menginginkan kucing", maka kucing itu wajib hukumnya ditandai dengan `を`). 
+**Lebih parahnya lagi, kita jadi tidak bisa membedakan mana kata kerja dan mana kata sifat.** Jika terus begini, **bahasa Jepang akan berubah menjadi permainan tebak-tebakan acak di mana partikel dan jenis kata bisa bertukar fungsi semau mereka.**
+
+## Mengekspresikan Keinginan untuk Melakukan Sesuatu: たい (Tai)
+
+Sekarang, bagaimana jika kita ingin *melakukan* sesuatu (bukan menginginkan barang)? Dalam bahasa Jepang, rumus untuk "ingin melakukan aksi" berbeda dengan "menginginkan barang". 
+**Caranya: kita kembali harus memanggil akar kata baris "い" (*I-stem*).** Seperti yang saya sebutkan di pelajaran sebelumnya, *I-stem* adalah akar kata yang sangat ajaib. 
+
+Untuk menyatakan bahwa kita ingin melakukan suatu kata kerja, kita harus menempelkan sebuah **kata sifat pembawa rasa ingin**, yaitu `**たい**` (tai). **Jadi, sekarang kita baru saja menciptakan satu wujud kata sifat baru.**
 
 ![](../media/image1137.webp)
 
-Dan apa arti kata sifat ini? **Ini tidak berarti <code>want</code> dalam arti bahasa Inggris.** **Tidak bisa, karena <code>want</code> adalah kata kerja dan <code>たい</code>, yang berakhiran <code>い</code>, adalah kata sifat, bukan?** Jadi, mari kita ambil contoh. Ini adalah contoh yang agak terkenal.
+Lalu apa makna dari kata sifat ini? **Ingat, ini TIDAK berarti `want to` (ingin) seperti dalam fungsi kata kerja.** **Secara logika itu mustahil, karena `want to` adalah kata kerja, sedangkan `たい`—yang diakhiri dengan huruf `い`—jelas-jelas adalah sebuah kata sifat.** 
 
-<code>わたしはクレープがたべたい</code>.
+Mari kita ambil satu contoh kalimat yang cukup terkenal:
+`わたしはクレープがたべたい` (Watashi wa kurēpu ga tabetai).
 
 ![](../media/image947.webp)
 
-Nah, terjemahan bahasa Inggris standar untuk ini adalah <code>I want to eat crepes</code>. Namun, seperti yang Anda lihat, polanya di sini sama persis dengan kasus-kasus lain yang telah kita bahas. **Penggerak yang ditandai denganが <code>わたし</code>, bukan <code>me</code>, melainkan crepes.** **Kelezatan crepes bukanlah kata kerja, melainkan kata sifat.** Dan kita perlu memahami hal ini karena jika tidak, hal ini tidak hanya akan mengacaukan kalimat semacam ini – tetapi juga akan mengacaukan seluruh pemahaman kita tentang kata-kata, partikel, dan struktur bahasa Jepang.
+Terjemahan standar di luaran sana pasti akan berbunyi: `I want to eat crepes` (Saya ingin makan crepe). Namun, seperti yang bisa kamu lihat sendiri, jebakan strukturnya sama persis dengan kasus kopi dan kucing tadi. 
+**Penggerak utama yang memegang `が` BUKANLAH `わたし` (saya). Pemegang `が`-nya adalah si crepe itu sendiri.** **Kata 'ingin dimakan' (`たべたい`) di ujung sana bukanlah sebuah kata kerja, melainkan sebuah kata sifat raksasa.** 
 
-Nah, **sebenarnya tidak ada cara yang bagus untuk menerjemahkan ini ke dalam bahasa Inggris.** Kita harus mengatakan sesuatu seperti <code>In relation to me, crepes are desire-inducing</code>. Dan itu sangat canggung. 
+Kita wajib memahami logika ini. Jika tidak, kebingungan ini tidak hanya akan merusak cara kita merakit satu jenis kalimat ini saja—tetapi akan menginfeksi dan menghancurkan seluruh logika kita dalam memahami kosakata, partikel, dan tulang punggung bahasa Jepang.
+
+Sebenarnya, **memang tidak ada cara penerjemahan yang natural ke dalam bahasa Inggris atau Indonesia.** Terjemahan literal yang paling mendekati adalah: `In relation to me, crepes are desire-inducing to eat` (Bagi saya, crepe itu memicu hasrat untuk dimakan). Memang sangat canggung terdengarnya. 
+
 ::: info
-boleh menggunakan <code>want/wanting</code> sebagai terjemahan. Ingat saja bahwa &quot;たい&quot; bukanlah kata kerja seperti <code>want</code> dalam bahasa Inggris, melainkan sebuah kata sifat. Terjemahan tidaklah penting, yang penting adalah pemahaman.
+Dalam percakapan santai, tentu saja kamu boleh menggunakan kata `ingin/mau` sebagai terjemahannya. Camkan saja dalam hati bahwa struktur "たい" bukanlah kata kerja, melainkan beroperasi penuh sebagai kata sifat. Terjemahan yang mulus itu tidak penting, yang terpenting adalah kamu paham logika struktur aslinya.
 :::
-Dan terkadang orang bertanya kepada saya, &quot;Apakah saya benar-benar harus menggunakan semua terjemahan harfiah yang canggung ini yang Anda berikan, daripada menggunakan bahasa Inggris yang alami?&quot; Dan jawabannya adalah <code>No</code>. **Anda tidak seharusnya berpikir dalam kerangka penjelasan canggung saya atau berpikir dalam kerangka bahasa Inggris yang alami. Anda seharusnya berpikir tentang bahasa Jepang dalam kerangka – tebak apa – bahasa Jepang.** Saya menjelaskannya dalam bahasa Inggris untuk memberi Anda awal dalam melakukannya. **Namun, terjemahan atau penjelasan yang tidak alami ini ada untuk membantu Anda memahami struktur bahasa Jepang, bukan untuk memberi Anda cara menerjemahkan bahasa Jepang.** 
 
-Sekarang, seperti yang saya katakan, polanya sama dalam semua kasus ini, dan saya rasa tidak terlalu sulit untuk dipahami. Tapi sekarang kita akan melihat sesuatu yang mungkin tampak sedikit membingungkan, dan saya jamin itu tidak sulit, jika Anda mengikuti dengan cermat apa yang akan saya katakan. Kita punya kalimat ini di sini: <code>クレープがたべたい</code> tapi bagaimana jika kita tidak memiliki crepes di sini? Bagaimana jika kita hanya mengatakan <code>(zeroが)たべたい</code>? **Sekarang, dalam kalimat ini tidak lagi terdapat apa yang dalam bahasa Inggris disebut sebagai objek keinginan, yang sebenarnya adalah subjek keinginan, pemicu keinginan, dan jelas harus ada nol-kar yang ditandai denganが—atau, seperti yang Anda tahu, kita tidak memiliki kalimat.** Tapi apa itu nol-kar dalam kasus ini?
+Terkadang murid bertanya kepada saya, *"Apakah saya benar-benar harus selalu memikirkan terjemahan harfiah yang sangat canggung ini di dalam kepala saya, alih-alih memakai terjemahan natural?"* 
+Jawaban saya dengan lantang adalah: **TIDAK.** 
+**Kamu tidak seharusnya berpikir menggunakan terjemahan canggung saya, dan kamu juga tidak seharusnya berpikir menggunakan bahasa Indonesia yang natural. Kamu seharusnya berpikir tentang bahasa Jepang, dengan menggunakan—coba tebak—LOGIKA BAHASA JEPANG.** 
 
-Nah, hal yang ironis adalah bahwa dalam kasus ini, nol-kar adalah apa yang selama ini dipikirkan oleh buku teks bahasa Inggris. **Itu <code>I</code>.**
+Saya menggunakan terjemahan bahasa Inggris/Indonesia yang sangat kaku ini murni untuk memberimu batu loncatan awal. **Penjelasan kaku ini dirancang untuk memaksa otakmu memahami *struktur* asli bahasa Jepang, BUKAN untuk mengajarimu cara menjadi penerjemah tersumpah.** 
+
+Sampai di sini, polanya selalu konsisten dalam semua contoh di atas. Namun, sekarang mari kita lihat satu skenario yang mungkin terlihat sedikit membingungkan (tapi saya jamin ini sebenarnya sangat gampang). 
+
+Lihatlah kalimat `クレープがたべたい` (Crepe memicu hasrat untuk dimakan). Bagaimana jika kita membuang si crepe dari kalimat tersebut, dan hanya menyisakan: `(zeroが)たべたい` (Ingin makan)? 
+
+**Dalam wujud kalimat buntung ini, "objek" pemicu keinginannya sudah menghilang. Otomatis, kalimat ini sekarang butuh subjek tak terlihat (*zero-ga*) untuk mengisi kekosongan tersebut—karena seperti yang kita tahu, tidak ada *zero-ga* = tidak ada kalimat.** Lalu, siapakah sosok *zero-ga* dalam kasus ini?
+
+Nah, ironisnya, sosok *zero-ga* dalam kasus kalimat buntung ini adalah sosok ego yang selama ini selalu diagung-agungkan oleh buku teks. **Sosok itu adalah `I` (Saya).**
 
 ![](../media/image881.webp)
 
-Saya benar-benar merupakan penggerak kalimat kali ini, dan hal itu mungkin menjadi salah satu alasan di balik banyak kebingungan yang terjadi mengenai topik ini. <code>わたしがたべたい</code> berarti <code>I want to eat</code> – saya tidak harus makan crepes atau obento Sakura, saya hanya ingin makan. *(Saya ingin makan)* Dan karena tidak ada subjek yang memicu tindakan makan di sini, keinginan untuk makan langsung dikaitkan dengan saya. 
+Kali ini, sayalah yang mutlak menjadi penggerak kalimat. Kalimat `わたしがたべたい` benar-benar bermakna `I want to eat` (Saya ingin makan)—saya tidak peduli apakah itu makan crepe atau makan bekal bento milik Sakura, saya cuma murni ingin makan. Dan karena tidak ada objek benda yang memicu tindakan makan di sana, maka rasa ingin makan itu langsung diikatkan pada diri saya sendiri. 
 
-Dan mungkin Anda bertanya – seharusnya Anda bertanya – &quot;Jadi, apa ini - たい? Apakah ini kata sifat yang menggambarkan kondisi sesuatu yang membuat Anda ingin melakukan sesuatu, ataukah ini kata sifat yang menggambarkan keinginan saya?&quot; **Dan jawabannya adalah bisa keduanya.** **Jelas ketika menggambarkan kue, itu juga secara tidak langsung menggambarkan perasaan saya terhadap kue tersebut; itu menggambarkan perasaan yang ditimbulkan kue itu pada saya.** Dan ketika tidak ada kue di sana, atau tidak ada crepe di sini, atau tidak ada obento Sakura di sana, kita hanya menggambarkan perasaanku secara langsung. Dan hal ini sering terjadi dalam bahasa Jepang dengan kata sifat yang menunjukkan keinginan. Misalnya, <code>こわい</code>, yang berarti baik <code>scared</code> atau <code>scary</code>. Jika saya mengatakan, <code>おばけがこわい</code>, saya mengatakan, <code>Ghosts are scary</code>, tetapi jika saya hanya mengatakan <code>こわい</code>, saya bermaksud mengatakan, <code>I am scared</code>.
+Kamu mungkin akan (dan seharusnya) bertanya: *"Terus, sebenarnya `-たい` ini fungsinya apa dong? Apakah dia itu kata sifat yang mendeskripsikan 'kondisi suatu benda' yang memicu hasrat, atau dia itu kata sifat yang mendeskripsikan 'perasaan saya'?"* 
+**Jawabannya adalah: dia bisa menjadi keduanya.** 
+
+**Jelas, ketika kalimatnya sedang mendeskripsikan betapa menggiurkannya sebuah kue, secara tidak langsung ia juga mendeskripsikan bagaimana perasaan saya terhadap kue tersebut (ia mendeskripsikan hasrat yang dipancing oleh si kue kepada saya).** Namun, ketika tidak ada kue di sana, maka kalimat itu murni menembak langsung untuk mendeskripsikan kondisi perasaan di dalam diri saya sendiri. 
+
+Hal ganda semacam ini sangat lazim terjadi dalam bahasa Jepang, terutama pada kata sifat yang menunjukkan keinginan atau emosi. Contohnya kata `こわい` (kowai), yang bisa bermakna `scared` (merasa takut) ATAU `scary` (menakutkan). 
+- Jika saya bilang `おばけがこわい` (Hantu itu *kowai*), saya sedang bilang `Ghosts are scary` (Hantu itu menakutkan). 
+- Tetapi jika saya tiba-tiba cuma teriak `こわい` (Kowai!), saya sedang bilang `I am scared` (SAYA merasa takut!).
 
 ![](../media/image61.webp)
 
-Nah, apakah ini membingungkan? Sebenarnya tidak membingungkan karena kita memiliki penanda yang memberi tahu kita apa yang harus dilakukan setiap saat. Dan penanda itu adalah &quot;が&quot;. **Dalam kalimat-kalimat ini dan dalam kalimat-kalimat yang jauh lebih rumit, jika kita memperhatikan &quot;が&quot; dan partikel logis lainnya, kita tidak akan pernah salah, karena partikel logis itu tidak pernah, tidak pernah, tidak pernah mengubah fungsinya.** Jadi, kita bisa menggunakannya sebagai kompas kita. **Dan itulah mengapa sangat merusak jika orang-orang diyakinkan bahwa partikel-partikel tersebut dapat mengubah fungsinya, seperti yang dilakukan buku-buku teks.** 
+Apakah ini membingungkan? Sebenarnya tidak, karena kita punya kompas canggih yang akan selalu memberitahu kita siapa merujuk pada apa di setiap saat. Kompas itu adalah si partikel `が`. 
 
-Jika Anda memiliki kompas dan saya berkata kepada Anda, &quot;Ah, ya, kebanyakan waktu kompas menunjuk ke utara, tapi kadang-kadang menunjuk ke selatan dan sebenarnya cukup sering juga menunjuk ke timur&quot;, Anda mungkin sebaiknya tidak memiliki kompas. Saya telah menghancurkan nilai kompas Anda. **Dan hal yang sama berlaku untuk partikel logis. Mereka benar-benar dapat diandalkan. Mereka selalu menunjuk ke utara.** *(Atau mungkin, mereka selalu menunjuk ke arah yang seharusnya, satu arah)* **Mereka tidak pernah mengubah fungsinya.**
+**Dalam contoh-contoh di atas, maupun dalam kalimat-kalimat lain yang jauh lebih rumit ke depannya, asalkan kita berpegang teguh pada `が` dan para detektif Partikel logis lainnya, kita tidak akan pernah tersesat.** Karena Partikel logis itu **TIDAK PERNAH, TIDAK PERNAH, TIDAK PERNAH** menukar fungsinya secara acak. Itulah kenapa kita bisa menjadikan mereka sebagai kompas mutlak. 
+
+**Dan inilah alasan mengapa sangat berbahaya jika kamu percaya doktrin buku teks bahwa partikel-partikel itu bisa bertukar-tukar posisi dan fungsi.** 
+Bayangkan kamu punya sebuah kompas untuk bertahan hidup di hutan, lalu saya berkata kepadamu: *"Oh tenang, kompas ini biasanya memang menunjuk ke arah Utara, tapi kadang-kadang dia *mood-mood*-an menunjuk ke Selatan, dan lumayan sering juga menunjuk ke Timur"*. Kalau begitu ceritanya, lebih baik kamu buang saja kompas rongsok itu. Saya baru saja menghancurkan seluruh fungsi dan nilai dari kompas tersebut. 
+**Hal yang sama persis berlaku untuk Partikel logis. Mereka 100% bisa diandalkan. Mereka selalu menunjuk ke arah Utara (fungsi patennya). Mereka tidak pernah plin-plan mengubah fungsinya.**
 
 ![](../media/image163.webp)
 
-Jadi, **jika &quot;が&quot; menandai crepes, maka kita tahu bahwa subjek kalimat, hal yang dibicarakan oleh kalimat tersebut, adalah crepes, bukan yang lain.** **Tetapi jika subjek yang ditandai oleh &quot;が&quot; tidak ada di sana, kita tahu bahwa secara default, subjek tak terlihat biasanya <code>I</code> kecuali ada alasan untuk menganggapnya sebagai hal lain.** Hal ini sama seperti pada contoh belut yang kita berikan dalam pelajaran tentang は. 
+Jadi, **jika `が` menempel pada Crepe, maka kita tahu secara mutlak bahwa subjek penggerak kalimat tersebut adalah si Crepe, bukan yang lain.** **Tetapi jika subjek yang seharusnya ditandai `が` itu lenyap dari kalimat, kita tahu lewat aturan *default* bahwa subjek tak terlihat (*zero-ga*) itu pastilah merujuk pada `I` (Saya), kecuali ada petunjuk kuat lain di dalam obrolan tersebut yang mengarah ke hal lain.** (Ingat kembali kasus "pesan belut" di restoran pada Pelajaran 3). 
 
-Sekarang, saya akan memberi tahu Anda satu hal lagi, dan saya harap saya tidak membebani Anda dengan terlalu banyak informasi dalam pelajaran ini, tetapi hal ini akan memberi Anda kepercayaan diri yang lebih besar tentang apa itu subjek tak terlihat dalam kasus-kasus ini. Dan itu adalah bahwa **Anda tidak dapat menggunakan kata sifat keinginan atau perasaan ini untuk siapa pun selain diri Anda sendiri.**
+Saya akan memberikan satu fakta krusial lagi. (Saya harap otakmu belum berasap menerima semua rahasia ini, tetapi mengetahui hal ini akan memberimu kepercayaan diri luar biasa saat mengidentifikasi siapa *zero-ga* di dalam kalimat keinginan). 
+Fakta mutlaknya adalah: **Kamu TIDAK BOLEH menggunakan kata sifat penunjuk keinginan atau perasaan ini untuk merujuk pada siapa pun, KECUALI untuk dirimu sendiri.**
 
 ![](../media/image172.webp)
 
-Jadi **jika saya mengatakan <code>たべたい</code> dan tidak ada yang bisa diたべたいasikan dalam kalimat atau konteks tersebut, maka saya pasti sedang berbicara tentang diri saya sendiri, saya tidak bisa berbicara tentang Anda dan saya tidak bisa berbicara tentang Sakura.** Mengapa tidak? Karena bahasa Jepang tidak mengizinkan kita melakukan itu. **Anda tidak bisa menggunakan <code>-たい</code> tentang orang lain, atau <code>こわい</code> atau <code>ほしい</code> – kita tidak bisa menggunakan hal-hal ini tentang orang lain.**
+Jadi **jika saya bilang `たべたい` (tabetai / ingin makan) dan tidak ada petunjuk objek benda apa pun yang sedang dibicarakan, maka saya PASTI 100% sedang membicarakan diri saya sendiri.** Saya tidak mungkin sedang menceritakan perutmu, dan saya juga tidak mungkin sedang menceritakan rasa lapar Sakura. 
 
-Bagaimana jika kita ingin mengatakan bahwa orang lain menginginkan sesuatu? Nah, **karena bahasa Jepang adalah bahasa yang sangat logis, bahasa ini tidak mengizinkan kita membuat pernyataan pasti tentang sesuatu yang tidak bisa kita ketahui dengan pasti,** jadi kamu lihat, ini sangat berbeda dari bahasa-bahasa Barat. **Satu hal yang tidak bisa kita ketahui dengan pasti adalah perasaan dalam hati orang lain.** 
+Kenapa tidak boleh? Karena budaya tata bahasa Jepang tidak mengizinkan kita melakukan hal itu. **Kamu diharamkan menggunakan `-たい`, `こわい`, atau `ほしい` untuk melabeli perasaan batin orang lain.**
 
-Jadi, saya mungkin berpikir bahwa Sakura ingin makan kue, tapi saya tidak tahu itu. Yang saya tahu hanyalah bagaimana dia bertindak, apa yang dia katakan, apa yang dia lakukan, bagaimana penampilannya, tetapi saya tidak tahu apa perasaan dalamnya.
+Lalu bagaimana dong caranya kalau kita ingin bercerita bahwa teman kita sedang menginginkan sesuatu? 
+Nah, **karena bahasa Jepang adalah bahasa yang sangat logis dan berhati-hati, bahasa ini tidak mengizinkan kita membuat klaim sepihak yang sok tahu mengenai sesuatu yang tidak bisa kita lihat buktinya.** (Ini adalah perbedaan budaya yang sangat masif dibandingkan bahasa-bahasa Barat). **Dan satu hal di dunia ini yang tidak akan pernah bisa kita pastikan kebenarannya adalah: perasaan di dalam relung hati orang lain.** 
+
+Jadi, saya mungkin *menebak* bahwa Sakura sedang ngiler ingin makan kue, tapi saya tidak tahu pasti isi hatinya. Yang saya tahu murni hanyalah gelagatnya, gerak-geriknya, raut wajahnya, dan ucapannya. Saya tidak bisa membaca pikiran terdalamnya.
 
 ::: info
-Perhatikan kata &quot;pernyataan&quot; di sini; &quot;たい&quot; tidak dapat digunakan ketika <code>exhibiting actual knowledge of someone else&#x27;s subjectivity</code> seperti yang Dolly tulis di [**komentar**](https://www.youtube.com/watch?v=vk3aKqMQwhM&amp;lc;=UgwE8cByEhTfyfe0e3h4AaABAg.9Kr0u3ynAsW9KrNJyZGL-o), disarankan untuk membacanya
+Perhatikan baik-baik konsep "membuat klaim sok tahu" ini. Akhiran `-たい` dilarang keras digunakan ketika kalimatnya bermaksud "membeberkan secara langsung kondisi batin terdalam orang lain". Dolly sudah menulis penjelasan lanjutannya di [**komentar YouTube ini**](https://www.youtube.com/watch?v=vk3aKqMQwhM&lc=UgwE8cByEhTfyfe0e3h4AaABAg.9Kr0u3ynAsW9KrNJyZGL-o), sangat disarankan untuk membacanya.
 :::
 
-**Jadi, jika saya ingin membicarakan keinginannya untuk makan kue, saya tidak bisa menggunakan <code>-たい</code>. Dan saya tidak bisa menggunakan <code>こわい</code> untuk menggambarkan ketakutannya, dan saya tidak bisa menggunakan <code>ほしい</code> untuk menggambarkan sesuatu yang mungkin dia inginkan.**
+**Kesimpulannya: Jika saya ingin menceritakan hasrat Sakura yang sedang ingin makan kue, saya tidak boleh memakai `-たい`. Saya tidak boleh memakai `こわい` untuk menceritakan ketakutan di dalam batinnya. Dan saya tidak boleh memakai `ほしい` untuk menceritakan barang yang ia dambakan.**
 
-## Mengungkapkan pernyataan keinginan tentang orang lain dengan たがる
+## Mengekspresikan Keinginan Orang Lain: たがる (Tagaru)
 
-Jadi, apa yang harus saya lakukan? **Saya harus menambahkan kata kerja bantu ke kata sifat keinginan tersebut. Saya menghilangkan <code>い</code> い -kata sifat dan menambahkan kata kerja bantu <code>がる</code>.** Dan <code>がる</code> berarti <code>to show signs of / to look as if it is the case</code>. Jadi, jika saya mengatakan, <code>さくらがケーキをほしがる</code> maka saya mengatakan Sakura menunjukkan tanda-tanda ingin kue. Itulah yang secara harfiah saya katakan.
+Jadi, apa solusi tata bahasanya? **Saya harus menempelkan sebuah kata kerja bantu baru ke dalam kata sifat tersebut. Caranya: potong akhiran `い` dari kata sifat keinginan tersebut, dan tempelkan kata kerja bantu `がる` (garu).** 
+
+Apa itu `がる`? Kata bantu ini berarti `to show signs of / to look as if it is the case` (menunjukkan tanda-tanda / terlihat seolah-olah). 
+Jadi, jika saya mengatakan `さくらがケーキをほしがる` (Sakura ga kēki o hoshigaru), kalimat itu secara harfiah menyatakan: "Sakura sedang menunjukkan gelagat bahwa ia mendambakan kue."
 
 ![](../media/image808.webp)
 
-**Dan bahkan jika dia benar-benar mengatakan kepada saya bahwa dia ingin kue, itulah yang tetap saya katakan, karena saya tidak bisa merasakan perasaannya.** Saya hanya tahu apa yang dia lakukan dan katakan. 
+**Hebatnya lagi, BUKAN cuma saat menebak-nebak, bahkan saat Sakura sudah berteriak di depan muka saya bahwa dia ingin kue, saya tetap HARUS menggunakan struktur `がる` ini untuk menceritakannya ke orang lain.** Kenapa? Karena saya tetap tidak bisa merasakan secara langsung rasa ingin di dalam hatinya. Saya cuma bisa memproses apa yang *diucapkan* dan *dilakukan* oleh fisiknya. 
 
-Sekarang, mengapa kita menggunakan kata kerja dalam kasus orang lain padahal itu adalah kata sifat dalam kasus diri kita sendiri? Sekali lagi, ini sangat logis. **Saya tidak bisa menggambarkan perasaan orang lain karena saya tidak bisa merasakannya.** **Saya tidak tahu tentang perasaan mereka.** **Saya hanya bisa berbicara tentang tindakan mereka, dan tindakan mereka jelas harus berupa kata kerja.** Jadi, ini adalah hal yang berguna untuk diketahui, tetapi juga membantu kita untuk menjadi sangat jelas ketika kita mengatakan <code>たべたい</code> atau hal lain apa pun — &quot;たい&quot;, atau apa pun <code>ほしい</code>, bahwa jika tidak ada penyebab dari emosi itu, maka subjek tak terlihat itu pasti saya, <code>わたし</code>, karena tidak mungkin orang lain. Kita sebenarnya tidak bisa menggunakannya untuk orang lain.
+Lalu muncul pertanyaan: kenapa saat menceritakan orang lain kita malah memakai kata kerja (`がる`), padahal saat menceritakan diri sendiri kita pakai kata sifat (`たい`/`ほしい`)? 
+Sekali lagi, logikanya sangat cemerlang. **Saya tidak bisa mendeskripsikan 'kondisi batin' orang lain menggunakan kata sifat, karena saya tidak punya akses ke batin mereka.** **Saya tidak bisa merasakan apa yang mereka rasakan.** **Satu-satunya hal yang bisa saya amati adalah 'tindakan fisik/gelagat' mereka dari luar. Dan karena itu adalah sebuah aksi fisik, tentu saja ia harus dibungkus dalam wujud kata kerja.** 
+
+Pemahaman budaya ini sangatlah berguna. Karena dengan mengetahui batas mutlak ini, kita bisa memastikan 100% bahwa jika ada kalimat berbunyi `たべたい` atau `ほしい` yang berdiri sendiri tanpa subjek, maka subjek tak terlihat (*zero-ga*) tersebut sudah pasti dan tidak bisa diganggu gugat adalah `わたし` (Saya). Mustahil itu merujuk pada batin orang lain.
 
 ::: info
-Seperti yang sudah disebutkan di atas, Dolly memiliki [**komentar**](https://www.youtube.com/watch?v=vk3aKqMQwhM&amp;lc;=UgwE8cByEhTfyfe0e3h4AaABAg.9Kr0u3ynAsW9KrNJyZGL-o) yang menarik tentang perbandingan たい vs がる.
+Seperti yang sudah disinggung sebelumnya, Dolly punya [**komentar balasan**](https://www.youtube.com/watch?v=vk3aKqMQwhM&lc=UgwE8cByEhTfyfe0e3h4AaABAg.9Kr0u3ynAsW9KrNJyZGL-o) yang sangat brilian membandingkan batasan psikologis antara たい vs がる.
 :::
 
-Jadi, ini cukup banyak informasi dalam satu pelajaran, tetapi memahami hal ini akan memotong jalan Anda langsung melalui area kebingungan dan kesalahpahaman yang besar yang mengganggu banyak pelajar bahasa Jepang selama bertahun-tahun.
+Materi kali ini memang menyuntikkan jumlah informasi yang luar biasa masif dalam satu kali tegukan. Tetapi, dengan memahami fondasi ini, kamu baru saja meretas jalan pintas melewati salah satu tembok kesalahpahaman paling brutal yang telah menyiksa jutaan pembelajar bahasa Jepang selama bertahun-tahun.
 
 ::: info
-Ini adalah salah satu yang pertama <code>Big Reveals About Japanese</code> oleh Dolly, itulah sebabnya isinya cukup padat. Jangan khawatir, pelajari dengan perlahan, baca ulang, dan periksa komentar di [**video**](https://www.youtube.com/watch?v=vk3aKqMQwhM&amp;list;=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&amp;index;=13), dan dengan paparan yang cukup, pada akhirnya Anda akan menguasainya. Namun, jelas, seperti yang saya katakan dalam catatan panjang saya di Pelajaran 7.5, ingatlah bahwa Dolly ada di sini hanya untuk memberi Anda gambaran dasar dan tentu saja ini berarti dia menyederhanakan hal-hal agar sesuai dengan modelnya dan karena ini untuk dasar-dasarnya, tetapi jika Anda menggali lebih dalam, hal-hal tidak sesederhana itu dan banyak nuansa yang ada; tata bahasa dan linguistik seringkali cukup rumit dan kompleks, dan hal-hal tidak sesederhana yang kadang-kadang disiratkan oleh Dolly, tetapi demi metode yang dia gunakan, hal ini cukup baik untuk pemahaman dasar.
+Catatan: Ini adalah salah satu sesi pembongkaran rahasia ("Big Reveal") pertama dari Dolly, makanya materinya sangat padat. Jangan panik. Pelajari pelan-pelan, baca ulang, dan jangan ragu untuk mengintip kolom komentar di [**video aslinya**](https://www.youtube.com/watch?v=vk3aKqMQwhM&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=13). Dengan paparan yang cukup (*imersi*), instingmu perlahan akan terbentuk secara otomatis.
 
-Jika Anda ingin tahu alasannya, lihat [**diskusi MoeWay Discord ini**](https://discord.com/channels/617136488840429598/1170582570161950752) oleh [**Morg**](https://morg.systems/) (halaman yang LUAR BIASA, ngomong-ngomong!). Selain itu, periksa komentar Morg [**di thread は dan が ini**](https://discord.com/channels/617136488840429598/1151956209100927117/1152970825583054859), karena が tidak selalu hanya penanda subjek. Jadi jangan anggap Dolly sebagai kebenaran mutlak, tapi hanya sebagai cara berguna untuk menguasai dasar-dasar bahasa Jepang yang mendorongmu ke dalam imersi = hal yang benar-benar penting. Dolly tetap sumber penjelasan yang hebat! Namun, hal-hal tidak sesederhana itu jika Anda menjelajah lebih dalam, tetapi jangan khawatir, semuanya akan menjadi jelas begitu Anda benar-benar terbenam dalam bahasa Jepang…
+Namun, seperti peringatan saya di detail panjang pada Pelajaran 7.5: ingatlah bahwa tujuan utama Dolly di sini murni untuk memberimu cetak biru dasar. Untuk mencapai hal itu, Dolly tentu saja harus menyederhanakan beberapa hukum linguistik agar mudah dicerna. Begitu kamu menyelam lebih jauh ke tingkatan *advanced*, kamu akan menyadari bahwa dunia nyata tidak selalu sesederhana model yang digambarkan Dolly. Linguistik bahasa Jepang punya banyak nuansa abu-abu. 
+
+Bagi yang penasaran kenapa, kamu bisa meluncur ke [**diskusi MoeWay Discord ini**](https://discord.com/channels/617136488840429598/1170582570161950752) yang dibedah oleh [**Morg**](https://morg.systems/) (website Morg ini sangat luar biasa, ngomong-ngomong!). Jangan lupa juga untuk mengintip ulasan Morg [**di utas perdebatan は dan が ini**](https://discord.com/channels/617136488840429598/1151956209100927117/1152970825583054859), karena sejatinya が punya fungsi yang lebih luas dari sekadar penanda subjek mutlak.
+
+Kesimpulannya: Jadikan Cure Dolly sebagai alat bantu revolusioner untuk memecahkan pondasi Jepang-mu, bukan sebagai dogma agama. Penjelasannya tetaplah *masterpiece* bagi pemula! Dan jangan pusing soal teori-teori rumit itu sekarang, semuanya akan terjawab sendiri dengan indah begitu kamu rajin melakukan *imersi*.
 :::
