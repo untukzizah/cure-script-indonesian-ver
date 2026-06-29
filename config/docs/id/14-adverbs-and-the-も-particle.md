@@ -1,534 +1,274 @@
-# **14. Kata Keterangan dan Partikel &quot;も
+# **14. Kata Keterangan dan Partikel "も"** 
 
-&quot;** 
-
-[**Pelajaran 14: Seluk-Beluk Kata Keterangan: Rahasia Partikel &quot;Mo&quot;; dan lebih banyak lagi tentang Alice!**](https://www.youtube.com/watch?v=9DR9ifftMvs&amp;list;=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&amp;index;=16)
+[**Pelajaran 14: Seluk-Beluk Kata Keterangan: Rahasia Partikel "Mo"; dan lebih banyak lagi tentang Alice!**](https://www.youtube.com/watch?v=9DR9ifftMvs&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=16)
 
 こんにちは。
 
+Hari ini kita akan kembali menyelami petualangan Alice. Jika kamu ingat di pelajaran lalu, Alice melihat seekor kelinci putih melintas. Kelinci putih itu melihat jam sakunya dan berteriak "Aku terlambat! Terlambat!", lalu lari terbirit-birit. Alice berseru memintanya berhenti, tapi kelinci itu malah terus melompat menjauh.
 
+> `アリスはとび上がって、ウサギの後を追った。` (Arisu wa tobiagatte, usagi no ato o otta).
 
-Hari ini kita akan kembali ke petualangan Alice. Jika Anda ingat, Alice melihat seekor kelinci putih berlari. Kelinci putih itu melihat arlojinya dan berkata, `Aku terlambat! Aku terlambat!` lalu berlari pergi. Alice memanggilnya agar berhenti, tetapi entah dia mendengarnya atau tidak, dia tidak berhenti.
-
-&gt;アリスはとび上がって、ウサギの後を追った
-
-&quot;とび上がる
-
-&quot; adalah salah satu kata dari jenis yang kita bahas minggu lalu, di mana sebuah kata kerja digabungkan dengan akar kata &quot;い
-
-&quot; dari kata kerja lain untuk membentuk kata kerja baru. 
+Kata kerja `とび上がる` (tobi-agaru) adalah salah satu contoh dari "kata kerja majemuk" (*I-stem*) yang baru kita bahas minggu lalu. 
 
 ![](../media/image1015.webp)
 
-Kata kerja pertama di sini adalahとぶ
-
-/飛ぶ
-
-, yang berarti `melompat` atau `terbang`. Dalam kasus ini, jelas artinya `melompat`, karena Alice tidak bisa terbang. Dan上がる
-
-berarti `naik`. Jadi, ketika digabungkan,飛び上がる
-
-berarti `melompat ke atas`. 
+Akar kata kerja pertamanya adalah `とぶ / 飛ぶ`, yang berarti `melompat` atau `terbang`. Dalam konteks Alice, maknanya jelas `melompat` (kecuali kalau Alice ternyata bisa terbang). Dan kata kerja kedua adalah `上がる`, yang berarti `naik / ke atas`. Jadi, jika digabungkan, `飛び上がる` bermakna `melompat ke atas / meloncat berdiri`. 
 
 ![](../media/image798.webp)
 
-Dan kita mungkin memperhatikan bahwa上がる
-
-di sini, kanji-nya sama dengan上
-
-, yang berarti `ke atas`, dan上がる
-
-adalah kata kerja yang berarti `naik ke atas`, dan kita dapat melihat bahwa hal ini terkait dengan上げる
-
-, yang baru-baru ini kita bahas<sup>[[11]](./11-compound-sentences- くれる - あげる -and-more-uses-of-the- て -form.md)</sup>
-
-, dan artinya adalah `memberikan kepada seseorang ke atas / (untuk) mengangkat ke arah orang lain`.
+Kamu mungkin memperhatikan bahwa huruf kanji untuk `上がる` (naik ke atas) menggunakan kanji yang sama dengan `上` (atas). Dan ini masih berhubungan erat dengan kata kerja `上げる` (ageru/memberikan ke atas) yang baru-baru ini kita bahas<sup>[[11]](./11-compound-sentences-kureru-ageru-and-other-uses-of-the-te-form.md)</sup>. `上げる` berarti memberikan *benda lain* atau mengangkat *orang lain* ke atas. 
 
 ![](../media/image1077.webp)
 
-**Namun, &quot;上がる
-
-&quot; berarti sesuatu yang `mengangkat dirinya sendiri / bangkit dari dirinya sendiri`**. Jadi, kita dapat melihat bahwa keduanya saling terkait. Keduanya adalah kata kerja yang berarti `mengangkat`.
+**Namun, `上がる` bermakna suatu benda/orang `mengangkat DIRINYA SENDIRI / bangkit dari posisinya semula`.** Jadi, kita bisa melihat bahwa keduanya sangat berkaitan erat. 
 
 ---
 
-&gt;ウサギの後を追った
+> `ウサギの後を追った` (Usagi no ato o otta)
 
 ![](../media/image415.webp)
 
-後
+`後` (ato) berarti `belakang` atau `setelah`, dan `追う` (ou) berarti `mengikuti / mengejar`. Frasa `後を追う` (ato o ou) adalah ungkapan umum dalam bahasa Jepang yang berarti `mengikuti di belakang / mengejar dari belakang`. 
 
-berarti `di belakang` atau `setelah`, dan追う
-
-(yang diejaおう
-
-) berarti `mengikuti`.後を追う
-
-adalah ungkapan umum yang berarti `mengikuti di belakang / mengikuti setelah`. **Namun, seperti yang telah kita lihat sebelumnya, ungkapan posisi ini selalu berupa kata benda dalam bahasa Jepang.**
+**Namun, ingatlah kembali pelajaran posisi letak: kosakata penunjuk arah/posisi dalam bahasa Jepang SELALU berstatus sebagai KATA BENDA.**
 
 ![](../media/image18.webp)
 
-::: info
-Yang dimaksud adalah bagian後
+Kita berbicara tentang 'area atas' meja, 'area bawah' meja, dan 'area samping' sungai. Begitu pula di sini, kita sedang membicarakan 'area belakang' si kelinci. Jadi, secara literal Alice mengikuti `rabbit's after` atau `area belakang kelinci`. Begitulah cara pandang logis bahasa Jepang.
 
-sebagai kata benda, karena後を追う
-
-seharusnya merupakan kata kerja.
-:::
-
-Kita berbicara tentang `di atas` meja, `di bawah` meja, `di samping` sungai. Dan di sini kita berbicara tentang `di belakang` atau `di belakang` kelinci. Jadi Alice mengikuti `rabbit&#x27;s after` atau `rabbit&#x27;s behind`. Begitulah cara kita mengatakannya dalam bahasa Jepang.
-
-&gt;アルスは飛び上がって、ウサギの後を追った。
-
-(Alice melompat dan mengikuti kelinci.)
-
-*Adapun Alice, melompat dan mengikuti di belakang/setelah kelinci.*
+Jadi terjemahannya:
+`アリスは飛び上がって、ウサギの後を追った。` -> *Adapun mengenai Alice, ia melompat bangkit dan mengikuti area belakang kelinci (mengejar kelinci itu).*
 
 ---
 
-しゃべるウサギを見たことがない。
+> `しゃべるウサギを見たことがない。` (Shaberu usagi o mita koto ga nai).
 
 ![](../media/image1088.webp)
 
-しゃべる
-
-/喋る
-
-berarti `berbicara` atau `mengobrol`. Ini agak mirip dengan `jabber` dalam bahasa Inggris, bukan? 「しゃべるウサギ
-
-」dalam hal ini jelas **kata kerjaしゃべる
-
-digunakan, karena kata kerja apa pun dapat digunakan sebagai kata sifat.** 
+`しゃべる / 喋る` (shaberu) berarti `berbicara` atau `mengobrol`. Ini mirip seperti kata *jabber* (nyerocos) dalam bahasa Inggris, bukan? 
+Frasa `しゃべるウサギ` dengan jelas memperlihatkan **kemampuan kata kerja yang disulap untuk menjadi pemodifikasi (kata sifat) yang menerangkan kata benda.** 
 
 ![](../media/image144.webp)
 
-Jadi 「しゃべるウサギ
+Jadi, `しゃべるウサギ` secara harfiah berarti `Kelinci yang berbicara` atau `Kelinci bisa ngomong`. 
 
-」 secara harfiah berarti `kelinci yang bicara` atau `kelinci pembicara`. 
+Lalu bagaimana dengan frasa `見たことがない` (Mita koto ga nai)? Kamu akan SANGAT SERING bertemu dengan pola `～ことがない` atau `～ことがある`. Apa makna strukturalnya? 
 
-Penggunaan見たことがない
+## Membedah Frasa "koto ga aru/nai"
 
-akan sering kita temui:ことがない
-
-,ことがある
-
-. Apa artinya? 
-
-##ことがある
-
-
-
-Nah,こと
-
-, seperti yang kita ketahui, berarti sebuah `benda` dan mengacu pada benda dalam arti abstrak, suatu kondisi, bukan benda konkret seperti pena atau buku. 
+Kita tahu bahwa `こと` (koto) berarti sebuah `hal/benda` dalam wujud abstrak: yaitu suatu kondisi, keadaan, atau pengalaman. Ia bukan benda fisik yang bisa dipegang. 
 
 ![](../media/image7.webp)
 
-Jadi, 「見たこと
-
-」:見た
-
-memodifikasi kata bendaこと
-
-, bukan? 
+Jadi, dalam frasa `見たこと` (Mita koto) : kata kerja `見た` (telah melihat) beroperasi sebagai *engine putih* yang memodifikasi kata benda abstrak `こと`, bukan? 
 
 ![](../media/image362.webp)
 
-Ini memberi tahu kita jenisこと
-
-apa itu, dan dalam hal ini見る
-
-berarti `melihat`,見た
-
-adalah `melihat` dalam bentuk lampau, **jadiこと
-
-sebenarnya adalah `melihat` dalam bentuk lampau.**
+Ia bertugas memberi tahu kita `こと` jenis apa yang sedang dibicarakan. Dalam hal ini, `見る` berarti `melihat`, lalu `見た` adalah bentuk lampaunya (`telah melihat`). **Jadi, `こと` di sini bertindak sebagai 'pembungkus' yang mengubah wujud kejadian 'telah melihat' tersebut menjadi sebuah kata benda abstrak (yaitu "Pengalaman").**
 
 ![](../media/image166.webp)
 
-**Jadi見たこと
-
-berarti `fakta telah melihat`.** **見たことが
-
-ない
-
-berarti `fakta bahwa telah melihat tidak ada`.** 
+**Jadi, `見たこと` bermakna `Sebuah fakta/pengalaman bahwa ia telah melihat`.** 
+**Lalu, `見たことが ない` bermakna `Fakta/pengalaman bahwa ia telah melihat ITU TIDAK ADA.`** 
 
 ![](../media/image240.webp)
 
-Jadi yang dimaksud di sini adalah, `Alice belum pernah melihat kelinci yang bisa bicara`. ( `**Fakta bahwa telah melihat kelinci yang bisa bicara tidak ada**`)
+Jadi maksud harfiah dari kalimat `しゃべるウサギを見たことがない` adalah: `Fakta (pengalaman) bahwa ia pernah melihat kelinci yang bisa bicara itu tidak ada.` -> Alice belum pernah melihat kelinci yang bisa bicara.
 
-&gt;しゃべるウサギを見たことがない
-
-
-
-(Alice belum pernah melihat kelinci yang bisa bicara.)
-
-Dan tentu saja dalam bahasa Inggris kita selalu ingin menjadikan Alice sebagai penggerak kalimat ini, tetapi **sebenarnya subjek kalimat ini, yaitu A-car, bukanlah Alice, melainkanこと
-
-**.
+Dan tentu saja, di kepala orang Indonesia atau Inggris, kita selalu ngotot ingin menjadikan Alice sebagai aktor (subjek) pengerak kalimat ini. Tetapi, **secara tata bahasa Jepang yang suci, subjek mutlak penggerak kalimat ini (Gerbong A / penahan partikel `が`) BUKANLAH ALICE. Subjek kalimat ini adalah `こと` (Pengalaman).**
 
 ![](../media/image135.webp)
 
-Bahkan jika kita memasukkan Alice ke dalam kalimat, kita akan mengatakan, 「アリスは喋るウサギを見たことがない
-
-」. Dia tetap bukan penggerak kalimat tersebut. **Dia hanya menjadi topik yang dibicarakan dalam kalimat tersebut.** `Berbicara tentang Alice, fakta bahwa dia pernah melihat kelinci yang bisa bicara tidak ada.`
+Bahkan seandainya kita memaksakan nama Alice masuk ke dalam kalimat menjadi `アリスは喋るウサギを見たことがない`... Alice tetap BUKAN penggerak kalimat tersebut! **Alice hanyalah sebuah 'Topik/Bingkai Pembicaraan'.** 
+Arti harfiahnya: `Berbicara soal Alice, fakta/pengalaman bahwa dia pernah melihat kelinci bicara ITU TIDAK EKSIS.`
 
 ![](../media/image962.webp)
 
 ---
 
-ウサギは早く走って、急にウサギの穴にとび込んだ。
-
- 
+> `ウサギは早く走って、急にウサギの穴にとび込んだ。` (Usagi wa hayaku hashitte, kyū ni usagi no ana ni tobikonda).
 
 ![](../media/image928.webp)
 
-Baiklah, ini kalimat yang cukup panjang dan ada banyak hal di dalamnya yang perlu diuraikan. Saya akan menjelaskan artinya terlebih dahulu. Artinya `Kelinci itu berlari cepat dan tiba-tiba melompat ke dalam lubang kelinci`. Jadi, mari kita lihat bagian per bagian. 
+Ini adalah kalimat yang cukup panjang dan padat. Saya akan memberikan makna utuhnya terlebih dahulu: `Kelinci itu berlari cepat dan tiba-tiba melompat terjun ke dalam lubang kelinci`. 
+Sekarang mari kita bedah mekanismenya.
 
-&gt;ウサギは早く走って
+> `ウサギは早く走って…` (Kelinci berlari cepat [dan]...)
 
-…
+Seperti yang kita tahu, `走る / はしる` (hashiru) adalah kata kerja `berlari`. `早い / はやい` (hayai) adalah kata sifat yang berarti `cepat` atau `awal`. Dalam konteks ini jelas artinya `cepat`. 
 
-Sekarang, `走る
+Jika kita ingin mengatakan `Kelinci itu (sifatnya) cepat`, kita cukup mengatakan `ウサギが早い`.
 
-`, seperti yang kita tahu, adalah `run`; `早い
+## Menciptakan Kata Keterangan (Adverbs)
 
-` adalah kata sifat yang berarti `cepat` atau `awal`. Dalam hal ini, jelas artinya `cepat` – kita tahu kelinci itu tidak datang lebih awal, bukan? Jika kita ingin mengatakan `kelinci itu cepat`, kita akan mengatakan 「ウサギが早い
-
-」.
-
-## Kata Keterangan
-
-**Jika kita ingin mengatakan bahwa gerakannya cepat, tindakannya cepat, kita membutuhkan kata keterangan. Kata keterangan adalah kata sifat yang tidak mendeskripsikan objek, bukan kata benda, melainkan kata kerja.**
+**Tetapi, jika kita ingin menyatakan bahwa 'pergerakannya' yang cepat, atau 'tindakannya' yang cepat, maka KITA BUTUH KATA KETERANGAN (*Adverb*). Kata keterangan adalah kata sifat yang JANGAN ditempelkan pada kata benda (objek), MELAINKAN HARUS DITEMPELKAN PADA KATA KERJA (aksi).**
 
 ---
 
-**Sekarang, kita dapat mengubah kata sifat apa pun menjadi kata keterangan dalam bahasa Jepang dengan sangat mudah.** **Yang perlu kita lakukan hanyalah mengambil kata sifat berujungい
-
-dan menggunakan akar katanyaく
-
-.** 
+**Dan ajaibnya, kita bisa menyulap kata sifat apa pun di bahasa Jepang menjadi sebuah Kata Keterangan dengan sangat, sangat mudah.** 
+**Yang perlu kita lakukan hanyalah mencopot akhiran `い` (i) dari kata sifat tersebut, dan menggantinya dengan `く` (ku).** 
 
 ![](../media/image70.webp)
 
-**Jadi, &quot;早い
+**Jadi, "早い" (Cepat - Kata Sifat) berubah wujud menjadi "早く" (Dengan cepat - Kata Keterangan).** 
+"早い" bertugas mendeskripsikan suatu benda; "早く" bertugas mendeskripsikan sebuah aksi (tindakan). 
 
-&quot; menjadi &quot;早く
+Jadi:
+`ウサギは早く走って...`
+(Kelinci itu berlari **dengan cepat** *dan*...) 
 
-&quot;. &quot;早い
+> `...急にウサギの穴にとび込んだ。` (...tiba-tiba melompat terjun ke dalam lubang kelinci).
 
-&quot; adalah kata sifat yang menggambarkan suatu benda; &quot;早く
+Sekarang, mari bedah `ウサギの穴` (Usagi no ana). `穴` berarti `lubang`, jadi ini berarti `Lubang milik kelinci`. 
 
-&quot; adalah kata keterangan yang menggambarkan suatu tindakan.** Jadi:
+Lalu `とび込む` (Tobikomu) adalah contoh kata kerja majemuk lainnya. `とぶ / 飛ぶ`, seperti yang kita ketahui, berarti `melompat`, dan `込む` berarti `masuk ke dalam`. 
+Kata `込む` ini tidak murni berarti sekadar 'masuk'; ia memancarkan makna `memasukkan diri ke dalam`, `memaksa masuk menerobos`, atau `melakukan suatu aksi ke dalam sesuatu`. 
 
-&gt;ウサギは早く走
-
-**って
-
-**...
-
-(Kelinci itu berlari cepat ***dan***...) *- ditambahkan terjemahan untukって
-
-...*
-
-&gt; ...急にウサギの穴にとび込んだ。
-
-Sekarang,「ウサギの穴
-
-」:穴
-
-berarti `lubang`, jadiウサギの穴
-
-berarti `lubang kelinci`.とび込む
-
-adalah salah satu kata kerja majemuk lainnya.とぶ
-
-/飛ぶ
-
-, seperti yang kita ketahui, berarti `melompat`, dan込む
-
-berarti `masuk ke` sesuatu. **Ini bukan sekadar seperti &#x27;enter&#x27;; ini cenderung berarti &#x27;menempatkan ke dalam&#x27;, &#x27;memaksa masuk ke dalam&#x27;, atau melakukan suatu tindakan ke dalam sesuatu.** Jadi, sebenarnya ada banyak kata kerja yang terbentuk dari **&#x27;込む
-
-&#x27;, yang berarti &#x27;melakukan suatu tindakan ke dalam&#x27; sesuatu.** Jadi &quot;とび込む
-
-&quot; berarti &quot;jump into&quot;, cukup sederhana, &quot;jump into&quot;. Jadi, kelinci &quot;jumped into a rabbit-hole.&quot;
+Faktanya, ada buanyak sekali kata kerja majemuk yang dibentuk dengan menempelkan **'込む' (yang bermakna: melakukan aksi terjang ke dalam) ini di ekornya.** 
+Jadi, "とび込む" secara natural berarti "jump into" (melompat terjun ke dalam). Kelinci itu "melompat terjun ke dalam" lubang kelinci.
 
 ---
 
-Tapi &quot;急に
-
-&quot;, apa artinya? 
+Tapi apa arti kata "急に" (Kyū ni) di depannya? 
 
 ![](../media/image180.webp)
 
-Nah, &quot;急
+Nah, `急` (kyū) aslinya adalah kata benda (khususnya *Kata Sifat-Na*) yang bermakna "kondisi mendadak/tiba-tiba". **Dan ketika kita MENEMPELKAN partikel "に" (ni) di akhir kata benda semacam itu, kita otomatis MENYULAPNYA MENJADI KATA KETERANGAN JUGA.** 
 
-&quot; adalah kata benda dan artinya &quot;tiba-tiba&quot;. **Dan ketika kita menambahkan &quot;に
-
-&quot; di akhir kata tersebut, kita mengubahnya menjadi kata keterangan juga.** Jadi di sini kita memiliki dua jenis kata keterangan. **Kita dapat membentuk kata keterangan dari kata sifat dengan hanya menggunakan akar kata &quot;く
-
-&quot;.** **Dan kita membentuk kata keterangan dari kata benda dengan menambahkan &quot;に
-
-&quot;.** 
+Jadi, dalam paragraf ini kita disajikan dua trik membuat kata keterangan: 
+1. **Kita menyulap Kata Sifat murni (`い`) menjadi kata keterangan dengan mengganti buntutnya menjadi "く".** 
+2. **Kita menyulap Kata Benda khusus (atau *Kata Sifat-Na*) menjadi kata keterangan dengan menempelkan "に" di buntutnya.** 
 
 ![](../media/image1074.webp)
 
-Dan ini berlaku untuk beberapa kata benda biasa dan hampir semua kata benda yang berfungsi sebagai kata sifat. Jadi, &quot;急
-
-&quot; berarti &quot;tiba-tiba&quot; atau &quot;mendadak&quot;; **&quot;急に
-
-&quot; berarti &quot;tiba-tiba&quot;**. &quot;Kelinci itu tiba-tiba melompat ke dalam lubang kelinci.&quot; 
+Hukum ini berlaku pada beberapa kata benda biasa dan berlaku untuk NYARIS SEMUA kata benda yang berfungsi sebagai kata sifat (*Kata Sifat-Na*). 
+Jadi, "急" = "Kondisi tiba-tiba"; **"急に" = "Secara tiba-tiba"**. "Kelinci itu *secara tiba-tiba* melompat masuk ke dalam lubang kelinci." 
 
 Jadi, kalimat lengkapnya:
+`ウサギは早く走って、急にウサギの穴にとび込んだ`
+(Kelinci itu berlari dengan cepat, lalu secara tiba-tiba melompat terjun ke dalam lubang kelinci.)
 
-ウサギは早く走って、急にウサギの穴にとび込んだ
+> `アリスもウサギの穴にとび込んだ` (Arisu mo usagi no ana ni tobikonda)
+(Alice juga ikut melompat masuk ke dalam lubang kelinci.)
 
+## Rahasia Partikel `も` (Mo)
 
-
-(Kelinci itu berlari cepat dan tiba-tiba melompat ke dalam lubang kelinci.)
-
-&gt;アリスもウサギの穴にとび込んだ
-
-
-
-(Alice juga melompat ke dalam lubang kelinci.)
-
-## Partikel `も
-
-`
-
-Sekarang kita akan bertemu dengan elemen baru yang belum kita bahas sebelumnya, yaitu bendera `も
-
-`. **`も
-
-` adalah bendera, sama seperti `は
-
-`.** Mengapa demikian?
+Di sinilah kita bertemu dengan anggota keluarga partikel baru yang belum pernah kita sentuh: yaitu si bendera `も`. **Ya, `も` adalah sebuah BENDERA PENANDA TOPIK, wujudnya setara dengan bendera `は` (Wa).** Kenapa disebut bendera?
 
 ![](../media/image521.webp)
 
-Nah, kita tahu bahwaは
+Kita sudah belajar mati-matian bahwa `は`<sup>[[3]](./3-the-wa-particle.md)</sup> adalah Partikel Penanda Topik (non-logis). **Ternyata, `も` adalah satu-satunya partikel lain di dunia ini yang menduduki jabatan yang sama sebagai penanda topik non-logis.** 
+Jadi, **`も` juga bertugas menancapkan tonggak topik kalimat sama seperti yang dilakukan `は`.** Lalu apa dong perbedaannya? 
 
-**<sup>[[3]](./3-the- は -particle.md)</sup>
-
-** adalah partikel penanda topik non-logis, bukan? **も
-
-adalah partikel penanda topik non-logis lainnya; sebenarnya, itu adalah satu-satunya partikel penanda topik non-logis lainnya.** Jadi **も
-
-menandai topik kalimat sama seperti yang dilakukanは
-
-.** Apa bedanya keduanya? 
-
-Nah, seperti yang kita tahu, &quot;は
-
-&quot; menyatakan topik kalimat, dan jelas bisa juga mengubah topik kalimat. **Jika kita sedang membicarakan satu hal dan menyatakan topik baru &quot;は
-
-&quot;, berarti kita telah mengubah topik kalimat.**
+Kita tahu bahwa "は" bertugas mendeklarasikan (membuka) topik utama kalimat. "は" juga berfungsi keras untuk 'menggeser/mengganti' sebuah topik. **Jika sebelumnya kita sedang membicarakan suatu hal, lalu kita menancapkan bendera "は" pada kata baru, itu berarti kita sedang menghentikan topik lama dan beralih membahas topik baru.**
 
 ---
 
-Sekarang, **&quot;も
+Nah, **"も" ini unik. Ia juga bertugas mengganti topik kalimat, TETAPI ia HANYA BISA digunakan jika sudah ada topik lain yang dibahas panjang lebar sebelumnya di dalam obrolan tersebut.** 
 
-&quot; juga menyatakan topik kalimat, tetapi selalu mengubahnya.** **Anda tidak bisa menggunakan &quot;も
+Contoh: Topik pembicaraan kita sedari tadi adalah pergerakan si kelinci: "Si kelinci melompat ke dalam lubang." **Dan sekarang, kita mau menggeser kamera (topik) ke arah Alice.** 
 
-&quot; kecuali sudah ada topik yang sedang dibahas dalam percakapan.** Jadi, topik percakapan kita hingga saat ini adalah kelinci: &quot;the rabbit jumped into the hole.&quot; **Dan sekarang kita mengubah topik menjadi Alice.** 
+> `アリス**も**ウサギの穴に飛び込んだ` 
 
-&gt;アリス
-
-**も
-
-**ウサギの穴に飛び込んだ
-
-
-
-**Ketika kita mengubah topik dengan &quot;も
-
-&quot;, kita menyatakan bahwa komentar tentang topik ini sama dengan komentar pada topik sebelumnya**, topik yang kita tinggalkan. 
+**Ketika kita menggeser topik dan menancapkan bendera "も", kita sedang menyiarkan sinyal kepada pendengar bahwa: "Halo, komentar atau tindakan yang terjadi pada topik baru ini (Alice), itu IDENTIK / SAMA PERSIS dengan kejadian pada topik lama yang baru saja kita bicarakan tadi (Kelinci)."** 
 
 ---
 
-**Ketika kita mengganti topik denganは
+**Sebaliknya, ketika kita mengganti topik menggunakan `は`, kita sedang menyiarkan sinyal sebaliknya: kita sedang membuat jurang PERBEDAAN antara topik saat ini dan topik lama.** 
 
-, kita melakukan hal yang sebaliknya: kita membuat perbedaan antara topik saat ini dan topik sebelumnya.** Jadi, jika kita mengatakan: 
-
-「アリス
-
-**は
-
-**お姉ちゃんのところに戻った
-
-」 –ところ
-
-adalah `place` dan戻る
-
-adalah `return`, jadi ini berarti Alice kembali ke saudarinya, ke tempat di mana saudarinya berada, ke tempat saudarinya.
+Coba kita simulasikan. Jika kita mengatakan: 
+`アリス**は**お姉ちゃんのところに戻った` (Arisu wa onēchan no tokoro ni modotta)
+*(`ところ` = tempat; `戻る` = kembali. Artinya: Alice kembali ke tempat kakaknya).*
 
 ![](../media/image841.webp)
 
-**Jika kita mengatakan ini, bahwa &quot;は
-
-&quot; akan membuat perbedaan antara apa yang dilakukan kelinci dan apa yang dilakukan Alice.** Kita akan mengatakan, `The rabbit jumped into the rabbit-hole. Sedangkan Alice, dia kembali ke rumah saudarinya`. Dan Anda juga melihat hal ini dalam bahasa Inggris. Hal ini menyiratkan bahwa apa yang dilakukan Alice berbeda dari apa yang dilakukan kelinci. `Kelinci itu melompat ke dalam lubang kelinci. Sedangkan Alice, dia kembali ke rumah saudarinya.` Inilah yang dilakukan olehは
-
-.
+**Jika kita menggunakan bendera `は` di kalimat ini, maka `は` sedang bekerja keras menegaskan jurang perbedaan (kontras) antara nasib Alice dan nasib Kelinci.** 
+Sinyal yang ditangkap oleh pendengar adalah: `Si Kelinci sih melompat ke dalam lubang. TAPI SEDANGKAN ALICE, dia justru memilih pulang ke tempat kakaknya.` Bendera `は` ini menegaskan bahwa langkah yang diambil Alice jelas-jelas berseberangan dengan kelinci. Inilah kekuatan mutlak dari `は`.
 
 ---
 
-Jika kita menggunakan &quot;が
-
-&quot;: 「**アリスが
-
-**お姉ちゃんのところに戻った
-
-」, kita hanya akan mengatakan, `Kelinci itu melompat ke dalam lubang kelinci dan **Alice** kembali ke kakaknya.`
+Jika kita tidak pakai bendera topik sama sekali dan murni pakai `が`: `**アリスが**お姉ちゃんのところに戻った`, kita murni cuma sedang menceritakan dua fakta datar secara berurutan: `Kelinci itu melompat ke dalam lubang, dan Alice pulang ke rumah.`
 
 ::: info
-Alice = subjek dari klausa ini, ditandai denganが
-
-.
+Alice = sebagai subjek mutlak pelaksana tindakan, ditandai dengan `が`.
 :::
-Namun dengan kalimat &quot;は
 
-&quot;, kita membuat perbedaan tersebut; kita mengatakan, `Kelinci itu melompat ke dalam lubang kelinci, tetapi Alice kembali ke rumah saudarinya.` 
+Namun dengan bendera `は`, kita memberikan penekanan 'kontras' tersebut. 
 
 ---
 
-Sekarang, **jika kita mengatakan `も
-
-` alih-alih `は
-
-`, maka kita menyampaikan poin yang berlawanan: kita mengatakan bahwa komentar yang kita buat tentang kelinci sama dengan komentar yang kita buat tentang Alice.** 
+**Dan sekarang inti rahasianya: Jika kita mencabut `は` lalu menggantinya dengan bendera `も`, maka kita menyiarkan pesan sebaliknya. Kita mendeklarasikan bahwa kejadian pada topik (Alice) ini SAMA PERSIS dengan topik sebelumnya (Kelinci).** 
 
 ![](../media/image365.webp)
 
-`Kelinci itu melompat ke dalam lubang kelinci dan Alice **juga** melompat ke dalam lubang kelinci.` 
+`Kelinci melompat ke dalam lubang. Dan Alice **JUGA (mo)** ikut melompat ke dalam lubang.` 
 
-Jadi, ada berbagai penggunaanも
-
-, yang akan kita bahas nanti, tetapi ini adalah yang paling mendasar. **Ini adalah partikel penanda topik yang memberi tahu kita bahwa komentar pada topik baru sama dengan komentar pada topik lama.** 
+Jadi, akan ada fungsi lanjutan dari `も` yang akan kita bedah di masa depan. Tapi fungsi inilah cetak biru utamanya: **Ia adalah partikel penanda topik yang bertugas mengumumkan bahwa tindakan/komentar pada topik baru ini SAMA dengan tindakan pada topik lama.** 
 
 ---
 
-穴の中は
-
-**たて穴
-
-**だった。アリスはすぐ下に落ちた。
-
- 
+> `穴の中は**たて穴**だった。アリスはすぐ下に落ちた。` (Ana no naka wa tate-ana datta. Arisu wa sugu shita ni ochita).
 
 ![](../media/image714.webp)
 
-中
+`中` (naka) berarti `bagian dalam / ruang tengah`, jadi `穴の中` adalah `ruang di dalam lubang`. 
+`たて穴 / 縦穴` (tate-ana): kata `たて / 縦` berarti `vertikal / tegak lurus`. (Kata ini berkerabat dengan kata `立つ / tatsu` - berdiri). 
 
-berarti `bagian dalam`, baik bagian tengah maupun bagian dalam sesuatu, jadi穴の中
+Jadi, `穴の中は竪穴だった` -> `Bagian dalam dari lubang tersebut adalah lubang vertikal (seperti sumur) / lubang itu terjal menjulur lurus ke bawah`. 
 
-adalah bagian dalam lubang.たて穴
-
-/縦穴
-
-: kataたて
-
-/縦
-
-berarti `vertikal` atau `tegak lurus` (dan Anda dapat melihat bahwa kata ini terkait dengan立つ
-
-– berdiri). Jadi, 「穴の中は竪穴だった
-
-」`bagian dalam lubang itu adalah lubang vertikal` – lubang itu menjulur lurus ke bawah. 
-
-&gt;アリスは
-
-**すぐ
-
-**下に落ちた。
+> `アリスは**すぐ**下に落ちた。`
 
 ![](../media/image702.webp)
 
-Sekarang,下
-
-, seperti yang kita ketahui, berarti `bawah` atau `di bawah`. **Kataすぐ
-
-berarti `langsung`; bisa berarti `segera`** dalam arti bahasa Inggris `It&#x27;ll happen directly (it&#x27;ll happen soon)`, atau bisa berarti `lurus / langsung` dalam arti lain. Jadi **すぐ下
-
-berarti `lurus ke bawah / langsung ke bawah / langsung ke bawah`.**
+`下` (shita), seperti yang kita ketahui, berarti `bawah`. 
+**Kata `すぐ` (sugu) berarti `langsung`. Kata ini bisa dimaknai `segera`** (dalam artian waktu tempuh: *will happen soon/directly*), **atau bisa dimaknai `lurus terus / langsung menembus`** (dalam artian arah posisi). 
+Jadi dalam konteks ini, **`すぐ下` bermakna `langsung terjun lurus ke dasar bawah / jatuh ke bawah dengan mulus tanpa hambatan`.**
 
 ---
 
-&gt;でも驚いたことにゆっくりゆっくり落ちた
+> `でも驚いたことにゆっくりゆっくり落ちた` (Demo odoroita koto ni yukkuri yukkuri ochita).
 
 ![](../media/image265.webp)
 
-Dan ini berarti `Tapi yang mengejutkan, dia jatuh sangat sangat lambat`. `驚く
-
-` berarti `terkejut`, dan `驚いたこと
-
-` adalah ungkapan yang menarik karena secara harfiah sepertinya berarti, bukan begitu, sebuah `hal yang terkejut`. 
+Ini berarti `Tapi yang mengejutkan, dia jatuh secara sangat sangat perlahan`. 
+`驚く` (odoroku) berarti `terkejut/kaget`. Dan struktur `驚いたこと` adalah trik yang sangat menarik. Secara harfiah (*broken grammar*), frasa ini seolah-olah bermakna `sebuah hal ('koto') yang sedang terkejut`. 
 
 ---
 
-**Namun seperti yang telah kita lihat pada kata sifat emosi dan keinginan dalam bahasa Jepang, hal-hal yang menggambarkan emosi dan keinginan, dalam bahasa Jepang dapat dengan mudah beralih dari hal yang mengalami emosi ke hal yang menyebabkan emosi dan sebaliknya.**
+**Namun, ingatlah logika mutlak yang kita bahas tentang kata sifat yang memuat unsur emosi dan hasrat (seperti *-tai* dan *hoshii*). Dalam bahasa Jepang, kata-kata deskriptif tentang emosi bisa dengan gampang berubah sudut pandangnya—dari 'Sosok yang mengalami emosi' menjadi 'Sosok yang MENYEBABKAN emosi'.**
 
-Jadi **`驚いたこと
-
-` di sini tidak berarti `hal yang terkejut`, melainkan `hal yang mengejutkan`.**
+Jadi, **`驚いたこと` di sini TIDAK BUKAN bermakna `hal yang lagi kaget`, MELAINKAN `sebuah hal yang bikin kaget / hal yang mengejutkan`.**
 
 ---
 
-Danに
+Dan tambahan `に` (pada `ことに`), **sekali lagi ini adalah teknik magis `に` yang kita bahas tadi.** Ia bertugas menempel **pada ujung kata benda** (`koto / hal`) **untuk menyulap kata benda tersebut menjadi sebuah KATA KETERANGAN.** 
 
-( `こと
+Jadi, `驚いたことに落ちた` (Odoroita koto ni ochita). (Kita abaikan `yukkuri` sebentar). 
+Artinya secara struktural adalah: `[Ia] Jatuh DENGAN CARA YANG MENGEJUTKAN`. 
 
-**に
+Lalu seperti apa wujud 'cara yang mengejutkan' itu? Ternyata dia jatuh dengan `**ゆっくりゆっくり**`.
 
-**`), **sekali lagi merupakan teknik menempatkanに
+## Kata Keterangan *Yukkuri*
 
-**, menempatkに
+`ゆっくり` (Yukkuri) adalah kosakata mutlak yang akan kamu dengar di mana-mana. **Ini adalah perwakilan dari jenis 'Kata Keterangan' ketiga yang unik.** 
 
-, **setelah kata benda untuk mengubahnya menjadi kata keterangan.** 
-
-Jadi, `驚いたことに落ちた
-
-.` (Kita akan membahas `ゆっくり
-
-` sebentar lagi.) Artinya `jatuh secara mengejutkan / dia jatuh dengan cara yang mengejutkan`. Dan seperti apa cara yang mengejutkan itu? `**ゆっくりゆっくり
-
-**`.
-
-## Kata keteranganゆっくり
-
-
-
-Sekarang, `ゆっくり
-
-` adalah kata yang sangat umum yang akan kita temui. **Ini adalah jenis kata keterangan yang sedikit tidak biasa** – jenis kata keterangan ketiga yang akan kita temui secara umum dalam bahasa Jepang. Dua jenis pertama, seperti yang kita lihat, adalah bentuk kata sifat atau kata benda dengan akhiran `く
-
-` yang diikuti oleh `に
-
-`. **`ゆっくり
-
-` agak tidak biasa karena pada dasarnya merupakan kata benda yang dapat digunakan sebagai kata keterangan, tetapi kita tidak perlu menggunakanに
-
-bersamanya. Kata ini berdiri sendiri.**
+Dua jenis kata keterangan pertama, seperti yang baru kita bahas di awal, adalah hasil modifikasi (perubahan ujung kata sifat menjadi `く`, atau penempelan `に` pada ujung kata benda). 
+**`ゆっくり` masuk ke dalam ras yang unik karena secara genetika ia adalah sebuah 'kata benda' yang tercipta khusus untuk beroperasi mandiri sebagai kata keterangan. Ia sudah terlahir *built-in* begitu. Ia kebal, ia TIDAK PERLU ditambahi `に`. Ia bisa langsung berdiri sendiri sebagai keterangan.**
 
 ---
 
-`ゆっくりゆっくり落ちた
-
-`. **`ゆっくり
-
-` berarti `pelan-pelan / santai / dengan langkah yang tenang`**. 
+`ゆっくりゆっくり落ちた` 
+**`ゆっくり` berarti `secara perlahan-lahan / pelan-pelan / dengan tempo yang tenang`.** 
 
 ![](../media/image394.webp)
 
-Jadi, `驚いたことにゆっくりゆっくり落ちた
+Jadi kalimat penutup ceritanya adalah: `驚いたことにゆっくりゆっくり落ちた` – `Tapi yang mengejutkan, dia jatuh dengan sangat, sangat perlahan`.
 
-` – `Tapi yang mengejutkan, dia jatuh dengan sangat sangat pelan`.
-
-Jadi sekali lagi kita telah membahas cerita ini sedikit lebih cepat daripada yang pertama kali, dan kita telah belajar banyak.
+Dan selesai! Sekali lagi kita telah mengebut cerita ini lebih cepat daripada sesi pertama, dan kita menyerap porsi ilmu yang luar biasa besar hari ini.
 
 ::: info
-Di sinilah Dolly sepenuhnya memasukkan Kanji ke dalam pelajarannya, juga karena permintaan orang-orang, karena memang, begitu Anda memahami Kanji, teks Jepang tanpa Kanji benar-benar sulit dibaca, apalagi dipahami. Jangan takut atau menolak Kanji, mereka adalah teman Anda, percayalah.
+(Catatan Editor: Di sesi inilah Cure Dolly mulai merilis kekuatan penuh dengan menggunakan huruf KANJI tanpa ampun di dalam materinya. Banyak penonton awal yang memprotes karena kesulitan membacanya, tetapi percayalah: **Begitu kamu meraba logika bahasa Jepang, teks bahasa Jepang tanpa Kanji itu sama sekali MUSTAHIL dibaca karena kamu tidak akan tahu di mana batas ujung antar-kata!**)
+Tolong, jangan takut apalagi memusuhi Kanji. Kanji adalah alat bantu utamamu untuk memahami blok tata bahasa Jepang, percayalah.
 
-Baik [**Yomichan**](https://github.com/FooSoft/yomichan/releases) (dulu tidak berfungsi, tapi sudah berfungsi lagi di versi terbaru) maupun **[Rikaichamp](https://chrome.google.com/webstore/detail/10ten-japanese-reader-rik/pnmaklegiibbioifkmfkgpfnmdehdfan)** berfungsi di sini, jadi Kanji seharusnya tidak menjadi masalah nyata bagi Anda, setidaknya dalam hal membacanya.
+Jika kamu *blank* cara membacanya, instal ekstensi *browser* seperti **[Yomitan](https://chromewebstore.google.com/detail/yomitan/pnlcmofcnaoeikmmhaegielhkenhdppp)** (pengganti Yomichan) atau **[10ten Japanese Reader](https://chromewebstore.google.com/detail/10ten-japanese-reader-rik/pnmaklegiibbioifkmfkgpfnmdehdfan)**. Begitu kamu menyorot Kanjinya di web, mereka akan langsung membacakan dan menerjemahkannya. Jadi, KANJI seharusnya tidak lagi menjadi halangan untuk menyerap ilmu ini!
 :::
