@@ -1,154 +1,242 @@
 # **15. Kata Kerja Transitif dan Intransitif**
 
-[**Pelajaran 15: Transitivitas—3 hal yang memudahkan. Mengungkap rahasia kata kerja transitif dan intransitif**](https://www.youtube.com/watch?v=ELk1dqaEmyk&amp;list;=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&amp;index;=17)
+[**Pelajaran 15: Transitivitas—3 hal yang memudahkan. Mengungkap rahasia kata kerja transitif dan intransitif**](https://www.youtube.com/watch?v=ELk1dqaEmyk&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=17)
 
 こんにちは。
 
-Hari ini kita akan membahas kata-kata yang menunjukkan gerakan diri sendiri dan gerakan orang lain. Jika Anda melihat buku teks atau kamus bahasa Jepang standar, biasanya Anda akan menemukan definisi berikut <code>transitive</code> dan <code>intransitive</code> kata kerja. Sekarang, ini tidak terlalu jauh berbeda dengan beberapa hal yang Anda temukan dalam buku-buku ini, seperti konjugasi, yang tidak ada dalam bahasa Jepang; pasif (tidak ada bentuk pasif dalam bahasa Jepang). **Transitivitas dan intransitivitas memang ada dalam bahasa Jepang dan sebagian besar waktu terdapat tumpang tindih yang besar antara hal tersebut dengan kata kerja gerak diri dan gerak orang lain.** Namun, hal ini tidak selalu berlaku dan bukanlah arti sebenarnya dari gerak diri dan gerak orang lain dalam bahasa Jepang.
+Hari ini kita akan mengupas tuntas tentang satu kategori tata bahasa yang dinamakan: **Kata kerja gerak diri (*self-move*) dan kata kerja gerak orang lain (*other-move*)**. 
 
-Jadi, jika Anda sudah familiar dan nyaman dengan istilah-istilah Barat <code>transitive</code> dan <code>intransitive</code>, tidak ada salahnya menggunakan istilah-istilah tersebut, setidaknya tidak selalu. Namun, jika Anda tidak familiar dengan istilah-istilah tersebut, jangan mencoba mempelajarinya hanya demi bahasa Jepang, karena istilah-istilah tersebut tidak benar-benar akurat.  
+Jika kamu membuka buku teks bahasa Jepang standar atau kamus, kamu pasti akan menemukan konsep ini dibungkus menggunakan istilah linguistik Barat: kata kerja `Transitif` dan `Intransitif`. 
+Mungkin kamu sudah menebak ke mana arah pembicaraan ini. Ya, ini persis seperti kasus-kasus sebelumnya tentang 'konjugasi' yang tidak ada di bahasa Jepang, atau 'bentuk pasif' murni yang juga tidak eksis. Istilah *Transitif* dan *Intransitif* ini sangat problematik untuk menjelaskan tata bahasa Jepang.
+
+**Memang benar, konsep transitivitas itu eksis di bahasa Jepang, dan ada banyak sekali irisan kesamaan (tumpang tindih) antara konsep Transitif Barat dengan konsep *Gerak Diri / Gerak Orang Lain* ala Jepang.** Namun, konsepnya tidak selalu sejalan dan istilah Transitif tersebut gagal menangkap makna struktural sebenarnya dari pola pikir bahasa Jepang.
+
+Jadi, jika kamu kebetulan sudah sangat familier dan nyaman dengan istilah `Transitif` dan `Intransitif` dari pelajaran bahasa Inggris, sah-sah saja menggunakannya untuk sekadar analogi dasar. Namun, jika kamu masih asing dengan istilah-istilah rumit itu, JANGAN PERNAH repot-repot mempelajarinya hanya demi bahasa Jepang. Karena pada akhirnya, istilah itu tidak benar-benar akurat.  
 
 ::: info
-Menurut saya, terkait dengan bahasa Inggris, karena banyak kata kerja yang transitif dalam bahasa Inggris tidak demikian dalam bahasa Jepang, pada dasarnya lebih baik menganggap keduanya sebagai entitas tersendiri untuk menghindari kebingungan.
+Banyak kata kerja yang berstatus 'transitif' di bahasa Inggris, ternyata TIDAK berstatus transitif di tata bahasa Jepang. Jadi, untuk menghindari otakmu berasap, jauh lebih aman untuk menganggap bahwa sistem bahasa Jepang ini adalah entitas baru yang berdiri sendiri.
 :::
 
 ---
 
-Jadi, apa itu kata kerja gerak diri dan kata kerja gerak orang lain? **Dalam bahasa Jepang, kata kerja gerak, <code> 動詞 (doushi)</code>adalah kata kerja, kata yang menunjukkan suatu tindakan atau gerakan.** 
+Jadi, apa sebenarnya yang dimaksud dengan **Kata kerja gerak diri (*self-move*)** dan **Kata kerja gerak orang lain (*other-move*)**? 
+**Dalam bahasa Jepang, kata kerja itu disebut dengan `動詞 (doushi)`, yang secara harfiah berarti kata yang menunjukkan suatu tindakan atau gerakan/perpindahan.** 
 
 ---
 
-**Jadi, kata gerak diri adalah kata kerja apa pun yang menggerakkan dirinya sendiri. Jadi, jika saya berdiri, itu adalah tindakan gerak diri. Saya tidak memindahkan sesuatu yang lain, saya memindahkan diri saya sendiri.** **Jika saya melempar bola, itu adalah tindakan gerakan orang lain. Saya tidak melempar diri saya sendiri, saya melempar bola.** Dan sebenarnya sesederhana itu.
+**Kata gerak diri (*self-move*) adalah kata kerja yang tindakannya murni HANYA menggerakkan pelakunya sendiri.** 
+Contoh, jika saya *berdiri*. Itu adalah tindakan gerak diri. Saya tidak memindahkan atau mengangkat benda lain, saya murni hanya menggerakkan tubuh saya sendiri. 
+
+**Kata gerak orang lain (*other-move*) adalah tindakan yang subjeknya menggerakkan/mengenai objek lain.** 
+Contoh, jika saya *melempar bola*. Itu adalah tindakan gerak orang lain. Saya tidak melempar tubuh saya sendiri, yang saya lempar dan gerakkan adalah si bola. 
+Logikanya sesederhana itu.
 
 ---
 
-**Sekarang, bahasa Jepang memiliki banyak pasangan kata – jadi bisa dikatakan bahwa kata-kata tersebut adalah dua bentuk dari kata yang sama atau dua kata yang sangat terkait – di mana kita memiliki versi gerakan diri dan gerakan lain.** Jadi, salah satu contoh yang sangat bagus adalah <code>出る(でる)</code> dan <code>出す(だす)</code>. 
+**Sekarang masuk ke bagian serunya: Bahasa Jepang memiliki BUANYAK SEKALI pasangan kata kerja—dua wujud adaptasi dari akar kata yang sama—di mana salah satu wujudnya bertugas sebagai 'gerak diri', dan wujud satunya bertugas sebagai 'gerak orang lain'.** 
+
+Salah satu contoh paling klasik adalah pasangan `出る(でる)` dan `出す(だす)`. 
 
 ![](../media/image986.webp)
 
-Keduanya menggunakan kanji yang sama yang berarti <code>come out</code>. **Bentuk dasarnya adalah <code>出る(でる)</code> dan itu berarti secara sederhana <code>come out</code> atau <code>emerge</code>, dan itulah versi gerakan sendiri.** **Versi gerakan orang lain adalah <code>出す(だす)</code> dan itu berarti <code>take out</code> atau <code>bring out</code>: menyebabkan sesuatu keluar. */ Mengeluarkan sesuatu, dll…*** 
+Keduanya berbagi huruf kanji (出) yang sama, yang bermakna `keluar`. 
+**Wujud dasarnya adalah `出る (deru)`, yang secara harfiah berarti `keluar / muncul`. Dan inilah si versi 'Gerak Diri'.** (Contoh: Matahari keluar).
+**Wujud pasangannya adalah `出す (dasu)`, yang berarti `mengeluarkan / memunculkan` (menyebabkan sesuatu yang lain keluar). Dan inilah si versi 'Gerak Orang Lain'.** (Contoh: Saya mengeluarkan dompet).
 
 ::: info
-Jangan bingung dengan terjemahan <code>cause something to</code> sebagai bentuk kausatif<sup>[[19]](./19-causative-causative-receptive.md)</sup>,  
-出す memiliki <code>causative</code> sendiri - 出させる(ださせる) yang menandakan **[bentuk kausatifnya](https://www.weblio.jp/content/%E5%87%BA%E3%81%95%E3%81%9B%E3%82%8B).  
-*Di sini, Anda melakukan tindakan memindahkan sesuatu. Anda tidak membuat orang lain melakukannya.*
+Peringatan: Jangan pernah menyamakan terjemahan `"Menyebabkan sesuatu yang lain keluar"` ini dengan Bentuk Kausatif (*Causative Form* - menyuruh/membuat orang lain melakukan sesuatu) yang akan dibahas di Pelajaran 19.  
+Kata `出す` aslinya juga punya wujud kausatifnya sendiri, yaitu `出させる (dasaseru) / Menyuruh orang untuk mengeluarkan`.  
+*Di sini, `出す` murni adalah tindakan fisikmu sendiri yang memindahkan suatu benda, bukan tindakan menyuruh orang lain.*
 :::
 
-Jadi, dalam kasus pertama, apa pun itu bergerak sendiri; ia keluar; ia muncul. **Dalam kasus kedua, penggerak kalimat, penggerak kata kerja, sedang mengeluarkan sesuatu atau mengambil sesuatu.** 
+Jadi, pada kasus `出る` (Gerak diri), pelakunya bergerak sendiri; ia keluar; ia muncul secara independen. 
+Pada kasus `出す` (Gerak orang lain), pelakunya (*Subjek* / *Engine* kalimat) sedang *mengeluarkan atau mengambil SESUATU YANG LAIN*.
 
 ::: info
-jadi, sama seperti kata kerja transitif, kata kerja yang menggerakkan objek lain SEPAKAT seolah-olah menyiratkan sesuatu kepada objek tata bahasa, sedangkan kata kerja intransitif/yang menggerakkan diri sendiri tidak memiliki objek langsung, karena ia menggambarkan/<code>moves</code> hanya dirinya sendiri.
+Sama persis seperti logika Transitif/Intransitif di sekolah: 
+- Kata kerja 'gerak orang lain' (Transitif) selalu membutuhkan kehadiran Objek Gramatikal (`を`).
+- Sedangkan kata kerja 'gerak diri' (Intransitif) TIDAK BISA dipasangkan dengan Objek langsung (`を`), karena tindakan itu cuma mempengaruhi tubuh si subjek itu sendiri.
 :::
 
-Nah, ini seringkali sangat berguna, karena dalam banyak kasus hal ini memberi kita dua kata yang berbeda yang mudah dipahami karena keduanya sangat terkait. 
+Sistem pasangan ini seringkali sangat menguntungkan. Daripada menghafal dua kosakata yang berbeda total, kita mendapatkan dua kata yang strukturnya mirip, maknanya berkaitan erat, dan gampang ditebak. 
 
 ---
 
-Misalnya, <code>負ける (まける)</code> berarti <code>lose</code> – ini tidak berarti kehilangan benda atau kehilangan uang, tetapi kalah dalam kontes, kalah dalam perang, kalah dalam pertempuran, kalah dalam permainan – dengan kata lain, dikalahkan. Sekarang, <code>**負かす(まかす)**</code>, yang merupakan versi &quot;other-move&quot; dari <code>**負ける (まける)**</code>, berarti <code>defeat</code> – dengan kata lain, menyebabkan orang lain kalah / *mengalahkan seseorang*. Jadi, di mana kita memiliki dua kata dalam bahasa Inggris, <code>lose</code> dan <code>defeat</code>, dalam bahasa Jepang kita memiliki kata yang pada dasarnya sama dalam versi gerakan diri dan gerakan orang lain.
+Contoh kasus lain: `負ける (makeru)`. Kata ini berarti `kalah`—ini bukan bermakna kehilangan barang atau uang, melainkan kalah dalam pertandingan, perang, atau permainan. (Kalah). 
+
+Lalu ada pasangannya, `**負かす (makasu)**`. Ini adalah versi 'gerak orang lain' dari `**負ける**`, yang berarti `mengalahkan`—dengan kata lain, membuat pihak lain menderita kekalahan. 
+Jadi, jika dalam bahasa Inggris atau Indonesia kita harus menghafal dua kata yang berbeda total (`Lose` = kalah, dan `Defeat` = mengalahkan), dalam bahasa Jepang kita cuma butuh satu akar kata yang sama, lalu wujudnya sedikit diadaptasi menjadi 'gerak diri' dan 'gerak orang lain'.
 
 ---
 
-Jadi itu sangat berguna – tetapi tidak begitu berguna jika Anda tidak memahami cara membentuk versi gerakan diri dan gerakan orang lain dari sebuah kata. Jika Anda melihat buku teks standar, kebanyakan akan mengatakan bahwa Anda hanya perlu mempelajari semua kata gerak diri dan semua kata gerak orang lain secara terpisah. Terkadang mereka memberikan daftar pasangan gerak diri dan gerak orang lain – pasangan transitif, seperti yang mereka sebut. Tapi ini tidak benar dan tidak perlu. 
+Memiliki banyak kosakata pasangan seperti ini tentu sangat berguna—**TETAPI**, itu akan jadi bencana jika kamu tidak paham rumusnya. Jika kamu tidak tahu cara membaca mana yang versi gerak diri dan mana yang versi gerak orang lain, kamu akan selalu tertukar maknanya. 
 
-Sebagian besar waktu, kita bisa membedakan mana kata gerak diri dan mana kata gerak orang lain. Ada beberapa aturan sangat sederhana yang mencakup sebagian besar pasangan kata gerak. Dan aturan-aturan itu bahkan lebih mudah jika Anda memahami logika di baliknya. Dan itulah yang akan kita pelajari sekarang.
+Jika kamu membuka buku teks standar, 90% dari mereka akan menyuruhmu untuk menghafalkan seluruh daftar pasangan kata kerja itu satu per satu dengan metode hafalan mati (sebagai daftar transitif/intransitif). 
+**Metode itu keliru dan tidak perlu.** 
 
-## ある ＆ する
+Faktanya, sebagian besar waktu, kamu bisa *menebak* dengan insting akurat mana yang gerak diri dan mana yang gerak orang lain. Ada beberapa Hukum Emas sederhana yang menguasai mayoritas pasangan kata kerja ini. Dan hukum-hukum itu sangat gampang diingat jika kamu memahami filosofi di baliknya. Mari kita bedah.
 
-Hal pertama yang perlu diketahui adalah bahwa ada, seolah-olah, Adam dan Hawa dari kata-kata &quot;self-move&quot; dan &quot;other-move&quot;, ibu dan ayah dari semuanya. Dan kata-kata tersebut adalah <code>ある</code> dan <code>する</code>. 
+## Filosofi Akar: ある (Aru) & する (Suru)
+
+Hal fundamental pertama yang wajib kamu ketahui adalah: di dunia bahasa Jepang, ada "Adam dan Hawa" yang melahirkan seluruh konsep kata kerja 'gerak diri' dan 'gerak orang lain'. Dua kata kerja pencipta itu adalah `ある` (Aru) dan `する` (Suru). 
 
 ![](../media/image147.webp)
 
-**<code>ある</code> adalah ibu dari semua kata gerak diri. Artinya hanya <code>be</code>. Jadi, ini adalah kata kerja yang sepenuhnya berorientasi ke dalam. Anda tidak bisa menjadi atau ada sebagai sesuatu yang lain; Anda hanya bisa menjadi dan ada dalam diri Anda sendiri. Ini secara mendasar dan mutlak berorientasi ke dalam, berorientasi pada diri sendiri.**
+**`ある` (Ada/Eksis) adalah "Ibu" kandung dari semua kata kerja 'Gerak Diri'.** 
+Artinya murni hanya `Ada`. Jadi, ini adalah jenis kata kerja yang orientasinya 100% menusuk ke dalam diri pelakunya. Kamu tidak bisa memaksakan keberadaanmu menjadi benda lain; kamu hanya bisa menjadi dan ada di dalam dirimu sendiri. Ini adalah fondasi mutlak dari konsep *self-move*.
 
 ---
 
-**<code>する</code>, di sisi lain, berarti <code>do</code>. Jadi keduanya berarti <code>be</code> dan <code>do</code>. Dan <code>する</code> dalam dirinya sendiri, sekadar melakukan, tidak pernah bisa ada dengan sendirinya, kamu harus sedang melakukan sesuatu. Jadi ini adalah induk dari semua kata kerja yang bergerak ke luar.**
+**`する` (Melakukan), di sisi lain, berarti bertindak (`do`).** 
+`する` (melakukan tindakan) tidak akan pernah bisa terjadi tanpa adanya objek. Kamu pasti sedang 'melakukan' suatu hal, sekecil apa pun itu. Oleh karena itu, **`する` adalah "Bapak" moyang dari semua kata kerja 'Gerak Orang Lain' (yang aksinya memancar ke luar untuk mengenai objek lain).**
 
-## Aturan Keluarga &quot;する&quot;
+Lalu, apa faedahnya mengetahui silsilah penciptaan ini?
+Sangat penting! Karena setelah kamu paham genetikanya, kamu telah memegang kunci utama untuk membongkar misteri pasangan kata kerja apa pun yang kamu temui. Bagaimana caranya? 
+Saya membaginya ke dalam 3 Hukum Emas Pasangan Kata Gerak. 
 
-Lalu mengapa kita perlu tahu itu, mengapa penting untuk mengetahuinya? Karena ketika kita tahu itu, hal itu membuka sebagian besar pasangan kata gerak yang akan kita temui. Bagaimana caranya? Nah, ada yang saya sebut 3 hukum pasangan kata gerak. **Dan hukum pertama dari ketiganya adalah jika salah satu dari pasangan tersebut berakhiran -す, maka kata tersebut akan menjadi kata gerak lainnya, selalu. Mengapa? Karena akhiran -す itu terkait dengan <code>する</code>.** 
+## Aturan Emas 1: Keluarga "する" (Suru/Su)
+
+Hukum emas pertama: **Jika salah satu dari pasangan kata kerja tersebut memiliki akhiran `-す` (su), maka kata itu SUDAH PASTI dan MUTLAK adalah versi 'Gerak Orang Lain' (Transitif).** 
+Kenapa? Karena akhiran `-す` itu mewarisi DNA dari bapaknya, yaitu `する` (Melakukan suatu tindakan pada objek). 
 
 ![](../media/image983.webp)
 
-Jadi, dalam contoh yang kami berikan sebelumnya, <code>出る (でる) / 出す (だす)</code>, <code>出る(でる)</code> berarti <code>come out</code> dan <code>出す（だす)</code>, **yang berakhiran -す, adalah kata kerja pergerakan lain** – itulah yang berarti <code>take **(something else)** out</code>. *- kata kerja ini memerlukan Objek gramatikal.*
+Mari kita cocokkan dengan contoh sebelumnya: `出る (deru) / 出す (dasu)`.
+- `出る (deru)` berarti *keluar* (gerak diri).
+- `出す (dasu)`, **karena ia memiliki akhiran `-す`**, otomatis ia adalah si *gerak orang lain*—sehingga maknanya adalah *mengeluarkan (benda lain)*.
 
-Dalam <code>負ける(まける) / 負かす(まかす)</code>, **kita tahu bahwa kata kerja perpindahan**, kata kerja yang berarti <code>make (someone else) lose</code> adalah <code>負か**す**(まかす)</code> **karena berakhiran -す.** Dan banyak sekali pasangan -す tersebut yang benar-benar mengalami transformasi khusus itu, -える menjadi -す. **Tapi tidak selalu.**
+Sama halnya dengan `負ける (makeru) / 負かす (makasu)`. Kita otomatis tahu bahwa versi yang bermakna 'mengalahkan (pihak lain)' adalah `負か**す**` **karena ia berakhiran `-す`.** 
+
+Memang, banyak sekali pasangan `-す` yang mengikuti pola evolusi rapi (dari `-える / eru` berubah menjadi `-す / su`). **Tapi tidak semuanya seindah itu.**
 
 ![](../media/image131.webp)
 
-Dalam beberapa kasus... kita memiliki, misalnya, <code> 落ちる (おちる)</code>, yang berarti <code>fall</code>, dan <code>落とす (おとす)</code>, yang berarti <code>drop</code>. Keduanya memiliki kanji yang sama; keduanya merupakan pasangan, tidak memiliki akhiran reguler - える menjadi - す, tetapi <code>落とす (おとす)</code> tetap memiliki -す di akhir, jadi kita tetap tahu bahwa itu adalah pasangan &quot;pergerakan lain&quot; dari pasangan tersebut. 
+Dalam beberapa kasus, ada adaptasi yang bentuknya sedikit berbeda. Contohnya: `落ちる (ochiru)` yang berarti *jatuh*, dan `落とす (otosu)` yang berarti *menjatuhkan*. 
+Keduanya berbagi Kanji yang sama (落), mereka berpasangan, tetapi mereka tidak mengikuti pola evolusi rapi `-える` ke `-す`. 
+Meskipun begitu, kamu tidak perlu peduli! Karena `落とす` tetap memiliki ekor mutlak `-す`, jadi kamu otomatis tahu 100% bahwa itulah versi `Gerak Orang Lain` (menjatuhkan benda lain). 
 
-## Aturan Keluarga ある
+## Aturan Emas 2: Keluarga "ある" (Aru)
 
-Sekarang, **aturan kedua adalah bahwa jika salah satu dari pasangan berakhir dengan salah satu dari あ -I-stem + - る**, sehingga berakhir dengan bunyi - ある, **maka itu akan menjadi pasangan pergerakan mandiri dari pasangan tersebut**. Mengapa? Karena - ある terkait dengan <code>ある</code>, induk dari semua kata kerja gerak mandiri.
+**Hukum emas kedua: Jika salah satu pasangan memiliki akhiran *A-stem* + `る` (sehingga bunyinya berakhir dengan `-ある / -aru`), maka kata itu SUDAH PASTI adalah versi 'Gerak Diri' (Intransitif).** 
+Kenapa? Karena akhiran `-ある` jelas-jelas mewarisi DNA dari ibunya, yaitu `ある` (Ada/Eksis), sang ratu gerak diri.
 
 ![](../media/image532.webp)
 
-Pola umumnya di sini adalah -える menjadi -ある. Kita sudah membahasnya di pelajaran sebelumnya, di mana kita memiliki <code>上がる (あがる)</code>, yang berarti <code>rise up/get up</code>, dan <code>上げる (あげる)</code>, yang berarti <code>raise (something) up</code>. Kata ini sangat sering digunakan untuk berarti <code>give (something) upward (to another person)</code>. Jadi kita memiliki <code>上がる (あがる)</code> dan<code>上げる(あげる)</code>, dan kita tahu bahwa pasangan self-move dari pasangan tersebut adalah <code>上がる (あがる)</code> karena berakhiran -ある. Bentuk umumnya di sini adalah -える hingga -ある, **tetapi sekali lagi tidak harus demikian.**
+Pola mayoritas dari mutasi genetik ini biasanya bergeser dari `-える` menjadi `-ある`. Kita sudah pernah melihatnya di pelajaran tadi: 
+- `上がる (agaru)` yang berarti *naik ke atas / bangkit berdiri*.
+- `上げる (ageru)` yang berarti *menaikkan (sesuatu) ke atas / mengangkat / memberikan ke atas*. 
+
+Jika disuruh menebak, kita otomatis tahu bahwa yang berstatus sebagai *gerak diri* adalah `上がる`, semata-mata karena ia memiliki ekor `-ある`. Pola wajar di sini memang bergeser dari `-える` ke `-ある`, **tetapi sekali lagi, tidak semuanya seideal itu.**
 
 ![](../media/image494.webp)
 
-Ada kasus lain, seperti <code>包む(くるむ)</code>, yang berarti <code>wrap</code>, dan <code>包まる(くるまる)</code>, yang berarti <code>be wrapped</code>, tetapi sekali lagi hal ini tidak menjadi masalah karena kita tahu bahwa **yang berakhiran - ある akan selalu menjadi pasangan self-move dari pasangan tersebut.**
+Ada kasus lain, seperti `包む (tsutsumu)` yang berarti *membungkus*, dan `包まる (kurumaru)` yang berarti *terbungkus/membungkus diri*. Wujudnya sedikit *irregular*, tetapi hal itu tidak menjadi masalah karena kita punya aturan emasnya: **Kata yang berakhiran `-ある` (-maru) akan SELALU menjadi si 'Gerak Diri' dari pasangan tersebut.**
 
-## Aturan Pertukaran
+## Aturan Emas 3: Aturan Pertukaran Silang (-う ke -える)
 
-Sekarang, **hukum ketiga adalah bahwa jika kita mengambil kata kerja reguler apa pun yang berakhiran - う** (seperti yang semuanya lakukan) **dan mengubahnya ke baris &quot;え&quot; serta menambahkan &quot;る&quot;, yang berarti berakhiran &quot;える&quot;, hal itu akan mengubah kata &quot;self-move&quot; menjadi &quot;other-move&quot; atau sebaliknya.** **Masalahnya adalah kita tidak selalu tahu dari strukturnya ke arah mana kata tersebut akan dibalik.** 
+Sekarang, masuk ke hukum ketiga. **Jika kita mengambil kata kerja normal apa pun yang berakhiran `-う` (baris U) lalu mengubah ekornya ke baris `え` dan menambahkan `る` (menjadi akhiran `-える / -eru`), maka evolusi itu AKAN MEMBALIKKAN status transitivitasnya (dari gerak-diri menjadi gerak-orang-lain, ATAUPUN SEBALIKNYA).** 
+
+**Masalah utamanya adalah: kita tidak selalu bisa memprediksi arah pembalikannya cuma dari melihat strukturnya saja.** Apakah kata aslinya yang *gerak diri*, atau kata aslinya yang *gerak orang lain*? 
 
 ![](../media/image577.webp)
 
-Namun, ini tidak sesulit kelihatannya, karena pertama-tama jumlah kata kerjanya tidak banyak – mayoritas sudah tercakup oleh dua aturan pertama – **dan dari kelompok pembalikan -う menjadi -える ini, mayoritas adalah -む menjadi -める**. Dan **- める adalah – saya akan menyebut ini sebagai anggota kehormatan dari keluarga す.** **Atau Anda bisa mengatakan bahwa - む menjadi - める adalah hukum keempat kehormatan.** Bagaimanapun Anda mengatakannya, **dalam - む hingga - める, - める selalu menjadi pasangan pergerakan orang lain dalam pasangan tersebut.** Dan memang, seiring Anda semakin mahir dalam bahasa Jepang, Anda akan merasakan bahwa **kata kerja yang berakhiran める memiliki nuansa pergerakan orang lain seperti する.** 
+Namun, kenyataannya ini tidak semengerikan kedengarannya. 
+Pertama, jumlah kosakata yang masuk ke hukum ketiga ini tidaklah banyak (mayoritas mutlak pasangan kata kerja sudah dibereskan oleh Aturan 1 dan Aturan 2). 
+Kedua, dari sedikit kata kerja yang mengalami pertukaran `-う` menjadi `-える` ini, MAYORITAS DARI MEREKA adalah kelompok kata yang spesifik berubah dari `-む (-mu)` menjadi `-める (-meru)`. 
+
+Dan tahukah kamu? **Kelompok `-める` ini adalah 'Anggota Kehormatan' dari keluarga `-す` (Gerak orang lain).** **Atau kamu juga bisa menamainya sebagai Aturan Emas Keempat.** 
+Apapun sebutanmu, hukum alamnya mutlak: **Dalam kasus perubahan dari `-む` menjadi `-める`, pihak yang berakhiran `-める` SELALU dan PASTI bertindak sebagai 'Gerak Orang Lain' (Transitif).** 
+
+Bahkan faktanya, seiring jam terbangmu membaca bahasa Jepang makin tinggi, insting alamimu akan terbentuk dan kamu akan otomatis bisa *merasakan* bahwa **setiap kata kerja yang berakhiran `める` selalu memancarkan aura 'Gerak orang lain' yang sama pekatnya dengan `する`.** 
 
 ---
 
-Dan ini benar-benar semua yang perlu Anda ketahui jika Anda baru memulai dengan kata kerja gerakan diri/gerakan lain, karena ini mencakup sebagian besar pasangan kata kerja yang akan Anda temui. Jadi, jangan merasa bahwa Anda harus mempelajari sisa pelajaran ini. Anda bisa kembali ke sini nanti kapan pun Anda mau. Namun, saya akan menyelesaikannya, sebagian agar Anda memiliki semua informasi yang mungkin Anda butuhkan di masa depan dan sebagian karena hal ini akan memberi kita wawasan lebih dalam tentang bagaimana gerak diri dan gerak orang lain sebenarnya bekerja.
+Dan sejujurnya, ilmu di atas barusan adalah 95% materi yang paling kamu butuhkan jika kamu baru memulai perjalanan bahasa Jepang. Tiga Aturan Emas itu saja sudah lebih dari cukup untuk membantai mayoritas kosakata yang akan kamu temui. 
 
-## Aturan Kehormatan
+Jadi, jangan merasa terbebani untuk menghafalkan sisa materi dari pelajaran ini. Kamu boleh berhenti membaca di sini dan kembali lagi kapan-kapan kalau sudah siap. 
+Namun, saya akan tetap menuntaskan materinya sekarang. Tujuannya agar catatan ini bisa menjadi referensi lengkap untuk masa depanmu, dan juga agar kita bisa melihat filosofi 'gerak diri dan gerak orang lain' yang jauh lebih dalam.
 
-Hal berikutnya yang perlu diketahui adalah bahwa selain -む/-める, yang merupakan aturan utama, ada juga anggota kehormatan lain dalam keluarga &quot;す&quot;, yaitu: -ぶ hingga -べる – **-べる selalu merupakan versi &quot;other-move&quot;** (dan -ぶ serta -む sangat mirip dalam bahasa Jepang; Anda mungkin tahu <code>さびしい/さみしい</code> dan kata-kata lain seperti itu, di mana Anda bisa menggunakan ぶ atau む dalam kata yang sama, **jadi - める dan - べる secara alami keduanya adalah anggota kehormatan dari keluarga す**). Dan juga - つ /- てる – **- てる selalu merupakan pasangan yang bergerak ke arah lain.** 
+## Aturan Kehormatan Lanjutan
 
-Jadi pada akhirnya, kita benar-benar memiliki sangat sedikit kartu liar dalam paket ini.
+Fakta lanjutan yang wajib kamu tahu adalah: selain pergeseran `-む / -める` yang notabene adalah anak emas, masih ada beberapa "Anggota Kehormatan" tambahan yang diangkat menjadi keluarga besar `-す` (Gerak Orang Lain). Yaitu: 
+
+- Pergeseran **`-ぶ` (bu)** menjadi **`-べる` (beru)** -> **Versi `-べる` ini SELALU bertindak sebagai si 'Gerak Orang Lain'.** 
+*(Sekadar trivia: bunyi `-ぶ` dan `-む` itu saudara kembar dalam sejarah bahasa Jepang. Coba lihat kosakata seperti `さびしい` dan `さみしい` (sabishii / samishii) yang sama-sama berarti kesepian. Kamu bisa menukar bunyi `bu` dan `mu` di kosakata kuno tanpa mengubah makna. Jadi sangat wajar jika `-める` dan `-べる` diangkat bersamaan sebagai anggota kehormatan klan `-す`).*
+
+- Pergeseran **`-つ` (tsu)** menjadi **`-てる` (teru)** -> **Versi `-てる` ini juga SELALU bertindak sebagai si 'Gerak Orang Lain'.** 
+
+Nah, setelah membedah semua anggota kehormatan ini, sisa misteri dalam tumpukan kartu kita benar-benar cuma tinggal sedikit.
 
 ![](../media/image872.webp)
 
-**Satu-satunya yang benar-benar tidak bisa kita tentukan arahnya adalah - く dan - ぐ, ke - ける dan - げる, - う ke - える, serta kata kerja yang berakhiran る yang tidak sesuai dengan dua hukum pertama.** Jadi, ini sebenarnya satu-satunya pengecualian di mana Anda benar-benar tidak bisa mengetahui secara struktural ke arah mana mereka bergerak.
+**Satu-satunya tumpukan sisa di mana kita benar-benar buta dan TIDAK BISA menebak arah pembalikannya adalah:**
+- Dari `-く` menjadi `-ける`
+- Dari `-ぐ` menjadi `-げる`
+- Dari `-う` menjadi `-える`
+- Serta beberapa kata kerja yang tidak mengikuti Aturan 1 (-su) maupun Aturan 2 (-aru). 
+
+Ya, hanya segelintir kaum minoritas inilah satu-satunya pengecualian di mana rumus struktural kita benar-benar lumpuh untuk menebak mana si Gerak Diri dan mana si Gerak Orang Lain.
 
 ![](../media/image47.webp)
 
-Jadi, adakah yang bisa kita lakukan mengenai minoritas kecil ini yang mengalami perubahan antara gerakan sendiri dan gerakan orang lain? Jawabannya adalah ya. Namun, hal ini sedikit lebih rumit dan akan menjadi lebih mudah seiring dengan meningkatnya kemampuan Anda dalam bahasa Jepang. Jadi, Anda tidak perlu khawatir tentang hal ini jika Anda masih berada di tahap awal. Aturan yang telah saya berikan mencakup sebagian besar kasus. **Namun, ketika kita menghadapi kata kerja yang secara struktural tidak bisa kita tentukan arah pembalikannya, seringkali kita bisa mengetahuinya secara semantik** – artinya, **ketika saya mengatakan bahwa kombinasi &quot;え&quot; ditambah &quot;る&quot; membalikkan transitivitas, itulah tepatnya yang saya maksud.** **Versi -える adalah versi yang terbalik; versi -う adalah versi aslinya, yang terdapat dalam bentuk dasar kata kerja tersebut.** 
+Lalu, apakah ada cara lain untuk menebak nasib kaum minoritas ini? 
+Jawabannya: YA. Namun ini sedikit membutuhkan jam terbang, dan akan jadi sangat gampang saat insting bahasamu sudah terbentuk (*imersi*). 
+**Ketika kita menemui kata kerja yang secara rumus fisik tidak bisa ditebak arahnya, kita biasanya bisa langsung menebaknya secara *Semantik* (berdasarkan logika Makna Kata).** 
 
-Jadi, sebagai contoh, <code>売る(うる)</code> berarti <code>sell</code>; ini adalah kata yang sangat umum.
+**Kunci berpikirnya adalah: Kombinasi `え` ditambah `る` (Eru) BERTUGAS UNTUK 'MEMUTAR BALIK' LOGIKA TRANSITIVITAS KATA ASALNYA.** 
+**Versi `-える` adalah wujud mutasinya/pembalikannya; sedangkan versi `-う` (baris U) adalah wujud murninya.** 
+
+Mari kita simulasikan dengan contoh. Kata `売る (uru)` sangat sering digunakan dan berarti *menjual*.
 
 ![](../media/image367.webp)
 
-Ada versi yang kurang umum dari kata tersebut, yaitu <code>売れる(うれる)</code>, dan **itulah versi terbaliknya.** Sekarang, <code>selling</code> jelas merupakan kata kerja perpindahan objek – saya menjual **sesuatu**. Anda tidak bisa hanya menjual secara abstrak. Saya menjual sesuatu dan dengan demikian saya memindahkan benda lain itu – secara harfiah. Namun <code>売れる(うれる)</code> berarti <code>sell</code> dalam arti lain, seperti dalam <code>that game is selling like hot cakes</code>. Jadi **dalam kasus ini, mereka membicarakan penjualan buku atau permainan, sehingga hal yang melakukan penjualan di sini juga merupakan hal yang berpindah, jadi ini adalah versi perpindahan diri**, bukan? **Jadi jelas bahwa <code>売る(うる)</code> pada dasarnya adalah kata kerja perpindahan orang lain, tetapi ketika dibalik, ia memiliki versi perpindahan diri.**
+Lalu ada wujud pasangannya yang lebih jarang ditemui, yaitu `売れる (ureru)`. **Karena ia berakhiran `-える`, berarti ini adalah VERSI KEMBALIKANNYA (Mutasi).** 
+
+Mari kita pakai logika. Tindakan `Menjual` (Uru) jelas-jelas merupakan aksi memindahkan objek lain. Saya menjual **sesuatu (benda)**. Kamu tidak bisa melakukan aksi 'menjual' secara abstrak tanpa objek. Saat menjual barang, kamu secara harfiah sedang "menggerakkan/memindahkan kepemilikan benda lain itu". 
+
+Namun, versi mutasinya `売れる (ureru)` memiliki makna *terjual / laku*, seperti dalam frasa *"Game itu terjual layaknya kacang goreng (*selling like hot cakes*)"*. 
+Dalam logika kalimat *"Game itu terjual (laku keras)"*, sosok yang sedang melakukan tindakan 'laku/terjual' adalah si Game itu sendiri. Jadi, dalam kasus `売れる`, tindakan itu tidak mengenai benda lain, melainkan berlaku pada dirinya sendiri (**Gerak Diri**). 
+
+**Dari penalaran ini, sangat jelas bahwa wujud asli `売る (uru)` adalah *Gerak Orang Lain* (Transitif), dan ketika wujudnya dibalik/dimutasi menjadi `売れる (ureru)`, ia berubah posisi menjadi *Gerak Diri* (Intransitif).**
 
 ---
 
-Sekarang, jika kita ambil contoh yang berlawanan, <code>従う(したがう)</code> berarti <code>obey</code> atau <code>follow</code>, dan memiliki versi terbalik, <code>従える(したがえる)</code>, yang berarti <code>be followed by</code> atau <code>be obeyed by</code>.
+Sekarang mari kita lihat skenario yang arahnya berlawanan. Kata `従う (shitagau)` berarti *mematuhi* atau *mengikuti*. Ia memiliki wujud mutasi `従える (shitagaeru)`, yang berarti *dipatuhi oleh* atau *diikuti oleh / menundukkan*.
 
 ![](../media/image958.webp)
 
-Sekarang, jelas di sini bahwa **ide dasarnya adalah mematuhi atau mengikuti, dan ide yang diperluas adalah sedang dipatuhi atau sedang diikuti.** Jadi **di sini jelas bahwa versi &quot;gerakan lain&quot; akan menjadi versi &quot;える&quot;, karena itu adalah versi terbalik dari konsep dasar, yaitu mematuhi atau mengikuti.**
+Gunakan logikamu: **Ide dasar paling purbanya (wujud aslinya) pastilah aksi 'mematuhi/mengikuti'. Lalu ide yang lebih *advanced* dan diperluas adalah 'sedang dipatuhi / sedang diikuti'.** 
+**Jadi sudah sangat pasti bahwa ide mutasinya ('Gerak Orang Lain' / menundukkan orang lain) JATUH PADA wujud `える` (Shitagaeru). Karena itu adalah wujud mutasi dari konsep dasarnya (mengikuti).**
 
 ---
 
-Dan kita juga dapat mencatat di sini bagi kalian yang bertanya-tanya, <code>Why does she say that transitive and intransitive aren&#x27;t correct?</code> – ini adalah contohnya. Kamus Jepang-Inggris memberi tahu kita bahwa <code>従う(したがう)</code> adalah versi intransitif, tetapi jika dipikirkan <code>従う(したがう)</code> berarti <code>obey</code> atau <code>follow</code>. Ini bukan kata tak berobjek. Anda tidak bisa hanya patuh atau mengikuti secara abstrak. Anda patuh pada seseorang atau mengikuti seseorang. Ini adalah kata kerja berobjek.
+Sebagai penutup, ada fenomena unik bagi kalian yang sedari tadi penasaran: *"Kenapa Cure Dolly bilang istilah Transitif/Intransitif itu cacat untuk menjelaskan tata bahasa Jepang?"* 
+
+Contoh kata *Shitagau* tadi adalah buktinya! Kamus Jepang-Inggris mana pun akan melabeli kata `従う (shitagau)` sebagai versi INTRANSITIF (Tidak punya objek). 
+
+Namun coba pikirkan pakai otak kananmu: `従う` berarti *mematuhi/mengikuti*. Apakah ini tindakan tanpa objek? TENTU SAJA BUKAN. Kamu tidak bisa tiba-tiba 'mematuhi' secara abstrak tanpa ada sosok yang dituju. Kamu wajib mematuhi **seseorang** atau mengikuti **aturan tertentu**. Jadi secara logika harfiah, kata ini sangat amat "Transitif" (butuh objek).
 
 ::: info
-Dolly menulis [**ini**](https://www.youtube.com/watch?v=ELk1dqaEmyk&amp;lc;=UgxUPDAQZ2p43DA_Z294AaABAg.8pKE8ZA_tQh8pKQIhLE8L6) dan [**ini**](https://www.youtube.com/watch?v=ELk1dqaEmyk&amp;lc;=Ugw4tQMZRgx1xrAmnOh4AaABAg.9CQONWHmDUq9CQeZrqyaG2), ada juga [**artikel Jepang ini**](https://ameblo.jp/stravaganza-no2/entry-12013152846.html) tentang beberapa kata kerja yang bergerak sendiri/intransitif? yang menggunakan &quot;を&quot;, yang biasanya… tidak gramatikal?, saya tidak sepenuhnya yakin dalam menjelaskannya karena kemampuan bahasa Jepang saya masih cukup terbatas, jadi jika ada yang ingin ditanyakan, silakan hubungi saya,  
+(Catatan Ekstra: Diskusi soal ini memang sangat dalam. Dolly sempat membeberkan pemikirannya di utas [**komentar ini**](https://www.youtube.com/watch?v=ELk1dqaEmyk&lc=UgxUPDAQZ2p43DA_Z294AaABAg.8pKE8ZA_tQh8pKQIhLE8L6) dan [**ini**](https://www.youtube.com/watch?v=ELk1dqaEmyk&lc=Ugw4tQMZRgx1xrAmnOh4AaABAg.9CQONWHmDUq9CQeZrqyaG2). Bahkan ada juga sebuah [**artikel blog Jepang**](https://ameblo.jp/stravaganza-no2/entry-12013152846.html) yang membahas kenapa beberapa kata 'Gerak Diri' yang seharusnya dilarang menyentuh objek (`を`) malah ternyata lazim memakainya secara tak lazim. Saya sarankan jadikan ini PR pribadimu kalau mau menyelam lebih dalam ke kasta linguistik).
 :::
 
-Saya kira akan lebih baik jika tidak memandangnya semata-mata sebagai transitif = selalu menggerakkan orang lain, dll.  
-Jadi, saya sarankan Anda melakukan riset sendiri mengenai masalah ini dan memutuskan bagaimana mengatasinya.*
-
-Lalu mengapa kamus menyebutnya intransitif? **Karena mereka telah berkomitmen untuk menerjemahkan &quot;gerakan diri&quot; sebagai intransitif, namun meskipun itu adalah kata kerja transitif – Anda menuruti seseorang, Anda mengikuti seseorang – itu juga merupakan kata kerja &quot;gerakan diri&quot;.**
+Lalu kenapa kamus-kamus besar bersikeras melabelinya sebagai Intransitif? 
+**Karena mereka sudah telanjur terikat kontrak darah dengan tata bahasa Barat untuk selalu menyamakan konsep "Gerak Diri" (*self-move*) Jepang sebagai "Intransitif".** Padahal, meskipun kenyataannya kata *mematuhi* itu butuh objek target, di mata orang Jepang tindakan itu murni merupakan sebuah 'Gerak Diri'. 
 
 ---
 
-**Dalam mematuhi atau mengikuti seseorang, Anda tidak menggerakkan orang lain tersebut.** **Anda menggerakkan diri Anda sendiri.** **Dalam dipatuhi atau diikuti, Anda tidak menggerakkan diri Anda sendiri, melainkan menggerakkan orang lain tersebut.** Jadi ini adalah salah satu kasus di mana &quot;self-move&quot; dan &quot;other-move&quot; tidak sesuai dengan transitif dan intransitif.
+**Kenapa dianggap 'Gerak Diri'? Karena dalam proses mematuhi atau mengikuti seseorang, KAMU TIDAK MENGGERAKKAN ORANG LAIN TERSEBUT.** **Kamu murni HANYA menggerakkan tubuh dan keputusanmu sendiri.** 
+
+**Sebaliknya, dalam posisi 'dipatuhi' atau 'diikuti' (`Shitagaeru`), kamu tidak menggerakkan dirimu sendiri, melainkan daya tarikmulah yang menggerakkan tubuh orang lain.** Inilah bukti paling nyata di mana hukum alam "Gerak Diri" dan "Gerak Orang Lain" ala Jepang saling bentrok dan tidak bisa disamakan 100% dengan hukum Transitif/Intransitif ala Barat.
 
 ---
 
-**Kasus-kasus seperti itu tidak terlalu banyak, jadi tidak masalah jika Anda ingin menggunakan kata kerja transitif dan intransitif, tetapi sadarilah bahwa maknanya tidak persis sama dalam setiap kasus, dan dalam beberapa kasus sama sekali tidak cocok.** 
+Kasus-kasus bentrok semacam ini sebenarnya tidak terlalu sering muncul. Jadi sah-sah saja kalau kamu masih ngotot ingin memakai istilah Transitif/Intransitif. Tetaplah sadar bahwa filosofi kedua pasang istilah itu tidak selamanya identik, dan di beberapa persimpangan tertentu, mereka benar-benar bertabrakan. 
 
-Sekarang, seperti yang saya katakan, jika Anda hanya ingin mengingat tiga aturan ini dan tidak yang lain, hal itu akan memudahkan pemahaman Anda tentang kata kerja gerakan diri dan gerakan orang lain. Dalam kebanyakan kasus, Anda dapat memahaminya hanya dengan itu. Jadi, sisa dari apa yang telah saya jelaskan sangat berguna saat Anda semakin mahir dalam bahasa Jepang, tetapi jika Anda hanya mengingat konsep gerakan sendiri dan gerakan orang lain serta tiga aturan dasar: **bentuk -ある selalu merupakan kata kerja gerak diri,** **bentuk -す, dan -せる selalu merupakan kata kerja gerak orang lain**, dan jika Anda juga mengingat bahwa **bentuk -める selalu merupakan kata kerja gerak orang lain**, hal itu layak untuk diingat karena mencakup banyak hal. Dan dengan itu, Anda benar-benar sudah menguasai sebagian besar masalah kata kerja self-move dan other-move.
+Sebagai penutup, seperti yang saya katakan di awal, kamu akan bisa bertahan hidup sangat lama jika kamu hanya mengingat Tiga Aturan Emas ini. Sebagian besar masalah pasangan kata kerja akan lenyap begitu saja:
+
+1. **Bentuk yang berakhiran `-ある` SELALU merupakan kata 'Gerak Diri' (Intransitif).** 
+2. **Bentuk yang berakhiran `-す` (serta `-せる`) SELALU merupakan kata 'Gerak Orang Lain' (Transitif).** 
+3. **Jika ada pertukaran `-む` ke `-める`, maka `-める` adalah anggota kehormatan dari 'Gerak Orang Lain' (Transitif).**
+
+Dengan mengantongi tiga jimat sederhana ini, kamu secara harfiah sudah menaklukkan lebih dari separuh masalah *Transitivity* di seluruh bahasa Jepang.
