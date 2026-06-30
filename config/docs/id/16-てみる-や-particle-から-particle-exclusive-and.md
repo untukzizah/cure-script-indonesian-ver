@@ -1,220 +1,270 @@
-# **16. Partikel &quot;てみる&quot;, &quot;や&quot;, &quot;から&quot;, eksklusif <code>and</code>**
+# **16. Partikel "てみる", "や", "から", eksklusif `and`**
 
-[**Pelajaran 16: Te-miru, <code>try doing</code>, partikel ya, partikel kara, eksklusif-<code>and</code> + lebih banyak Alice**](https://www.youtube.com/watch?v=H_jePzcPFAQ&amp;list;=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&amp;index;=18)
+[**Pelajaran 16: Te-miru, `try doing`, partikel ya, partikel kara, eksklusif-`and` + lebih banyak Alice**](https://www.youtube.com/watch?v=H_jePzcPFAQ&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=18)
 
 こんにちは。
 
-
-
-Hari ini kita kembali ke Alice, dan kali ini kita akan menggunakan banyak contoh kalimat karena saya ingin kita benar-benar memahami struktur kalimat-kalimat ini. Jadi, jika Anda ingat dari pertemuan sebelumnya, Alice baru saja masuk ke lubang kelinci dan secara mengejutkan ia mendapati dirinya jatuh sangat lambat ke dalam lubang vertikal.
+Hari ini kita akan kembali melanjutkan bedah cerita petualangan Alice. Kali ini kita akan melihat teks aslinya dalam format yang lebih panjang, karena saya ingin kamu benar-benar terbiasa membedah kerangka struktur kalimat-kalimat ini. 
+Jika kamu ingat dari episode sebelumnya, Alice baru saja melompat masuk ke lubang kelinci. Dan di luar dugaan, ia mendapati dirinya jatuh melayang dengan sangat perlahan ke dalam sumur vertikal yang dalam.
 
 ![](../media/image1084.webp)
 
-&gt;落ちる間にひまがたっぷりあってまわりをゆっくり見まわせた
+> `落ちる間にひまがたっぷりあってまわりをゆっくり見まわせた。` (Ochiru aida ni hima ga tappuri atte mawari o yukkuri mimawaseta).
 
-Sekarang, saya akan menjelaskan artinya terlebih dahulu, lalu kita akan menguraikannya.
+Saya akan memberikan terjemahan utuhnya terlebih dahulu, lalu kita akan memutilasi strukturnya satu per satu.
+Terjemahannya: `Selama ia melayang jatuh, ada banyak waktu luang sehingga ia bisa memandang perlahan ke sekeliling.`
 
-<code>落ちる間に</code>
-
-<code>落ちる</code>, seperti yang kita ketahui, adalah <code>fall</code>. <code>間</code> adalah periode waktu **dan juga ruang di antara dua hal.** Dan jelas, periode waktu selalu, secara metaforis - dan kita hanya bisa membicarakan waktu dalam metafora spasial - periode waktu selalu merupakan ruang di antara dua titik, bukan? Ia memiliki awal dan akhir. Jadi <code>落ちる間に</code> berarti <code>**while** (she) was falling / **during the period of time while** (she) was falling</code>.
-
----
-
-<code>ひま</code> berarti <code>free time / open time</code>. Ini adalah kata yang akan sering Anda temui, dan **dapat digunakan baik dalam arti positif maupun negatif**. **Bisa berarti waktu luang untuk melakukan apa yang Anda inginkan, atau bisa berarti waktu kosong, merasa bosan, atau punya banyak waktu luang.** Di sini, kata itu hanya berarti memiliki banyak waktu untuk melihat-lihat, karena dia sedang jatuh, dia tidak bisa melakukan hal lain, dan dia jatuh dengan cukup lambat.
+Mari kita bedah:
+**`落ちる間に` (Ochiru aida ni):**
+`落ちる` seperti yang kita ketahui adalah `jatuh`. `間` (Aida) berarti periode waktu, **dan juga berarti ruang jeda di antara dua hal.** Tentu saja, "periode waktu" pada dasarnya adalah metafora—karena waktu hanyalah 'ruang jeda' di antara dua titik peristiwa (punya titik awal dan titik akhir). 
+Jadi, `落ちる間に` berarti `**selama/sepanjang jeda waktu** (ia) sedang jatuh`.
 
 ---
 
-<code>たっぷり</code> berarti <code>in large quantities</code>. **Ini adalah salah satu kata keterangan yang berakhiran &quot;り&quot; yang tidak memerlukに**. Dan artinya <code>in large quantities / in plentiful amounts</code> - agak seperti mengalir dari keran: <code>たっぷり</code>, <code>in large quantities</code>. Dan **di sini, ini adalah kata keterangan yang menggambarkan fakta bahwa <code>ひま</code>, <code>free time</code>, ada.** **Jadi waktu luang itu ada dalam jumlah besar.**
+**`ひま` (Hima):**
+`ひま` berarti `waktu luang / waktu senggang`. Ini adalah kosakata yang mutlak akan sering kamu temui. **Kata ini bisa bernuansa positif maupun negatif**. Bisa berarti 'waktu bebas untuk bersantai', atau bisa berarti 'waktu nganggur / tidak ada kerjaan / bosan'. 
+Di konteks cerita ini, `ひま` murni merujuk pada "banyaknya waktu kosong" untuk melihat-lihat. Karena dia sedang melayang jatuh, dia jelas tidak bisa melakukan aktivitas lain, apalagi dia jatuhnya sangat lambat.
+
+---
+
+**`たっぷり` (Tappuri):**
+`たっぷり` berarti `dalam jumlah berlimpah / melimpah ruah`. **Ini adalah contoh dari jenis kata keterangan (*Adverb*) khusus berakhiran "り" (Ri) yang kebal hukum dan TIDAK MEMBUTUHKAN tambahan partikel `に`.** 
+Istilah ini memancarkan nuansa seperti air yang membeludak keluar dari keran: `たっぷり` = `berlimpah ruah`. **Dan dalam kalimat ini, ia beroperasi sebagai kata keterangan yang mendeskripsikan melimpahnya wujud `ひま` (waktu luang) tersebut.**
 
 ![](../media/image853.webp)
 
-Jadi itulah klausa logis pertama kita: <code>落ちる間に…</code> (**yang hanya menetapkan latar, waktu, untuk aksi tersebut - ini adalah ungkapan waktu absolut karena merupakan waktu tertentu, jadi memerlukに**) <code>...ひまがたっぷりあって</code> (<code>there was a lot of free time</code>).
+Jadi, kita telah mengupas klausa logis paruh pertamanya: `落ちる間に…` (**Ini murni cuma menetapkan latar waktu/durasi aksinya. Karena ini adalah 'titik waktu absolut', ia butuh ditandai partikel `に`**) `...ひまがたっぷりあって` (`...terdapat banyak sekali waktu luang, sehingga...` [*Bentuk-te `あって` dipakai sebagai penyambung klausa*]).
 
 ---
 
-Sekarang, bagian berikutnya - <code>まわりをゆっくり見まわせた</code> - menarik karena ini adalah contoh lain dari apa yang kita bicarakan minggu lalu: pasangan gerakan sendiri/gerakan lain.
+Sekarang, kita masuk ke klausa paruh kedua: **`まわりをゆっくり見まわせた`**. Ini sangat seru karena di sini kita menemukan contoh nyata dari praktik 'Gerak Diri / Gerak Orang Lain' (Transitif/Intransitif) yang baru kita kuasai minggu lalu.
 
 ![](../media/image134.webp)
 
-<code>回る</code> berarti <code>go around/move around</code>. Nama yang agak kekanak-kanakan untuk seorang polisi adalah <code>おまわりさん</code>, yang berarti <code>someone who goes around / someone who does the rounds</code>.
+Perhatikan akar dasarnya: `回る` (Mawaru) berarti `berkeliling / berputar / bergerak memutari`. (Sebagai *intermezzo*, sebutan akrab kekanak-kanakan untuk polisi patroli di Jepang adalah `おまわりさん` / O-mawari-san, yang secara harfiah berarti `Pak Tukang Berkeliling`).
 
 ---
 
-<code>回す</code> berarti <code>**make (something)** go around / **to send (something)** around / to cause it to go around</code> dan tentu saja, seperti yang kita pelajari minggu lalu, kita dengan mudah tahu mana dari pasangan tersebut yang merupakan kata gerakan diri (berkeliling) dan mana yang merupakan **kata gerakan orang lain** (mengirim berkeliling) karena kata yang berarti &quot;mengirim berkeliling&quot; **berakhiran -す**.
+Lalu, apa pasangannya? `回す` (Mawasu) berarti `**membuat (sesuatu)** berputar / **mengirim (sesuatu)** berkeliling`. Tentu saja, berdasarkan Aturan Emas Pelajaran 15, kita otomatis bisa menebak dengan gampang: mana yang bertindak sebagai kata 'Gerak Diri' (berputar sendiri), dan mana yang bertindak sebagai **'Gerak Orang Lain'** (memutar objek lain)? Wujud yang bermakna "memutar objek lain" **pasti yang memiliki ekor `-す` (Mawasu)**.
 
 ---
 
-Sekarang, kita sebenarnya tidak memiliki <code>回る</code> di sini; yang kita miliki adalah <code>まわり</code>. Dan seperti yang telah kita sebutkan sebelumnya, **ketika kita mengambil akar kata い dari sebuah kata kerja dan menggunakannya sendiri, biasanya kata tersebut menjadi kata benda.** Ada penggunaan lain yang tidak akan kita bahas sekarang, tetapi dalam kasus ini kata tersebut menjadi kata benda. Jadi, apa <code>まわり</code> artinya? <code>まわり</code> sebenarnya bisa berarti dua hal: **bisa jadi bentuk kata benda dari <code>回る</code>**, dalam hal ini artinya <code>going around</code>, <code>doing the rounds</code>, dan itulah yang kita temukan dalam <code>おまわりさん</code>, seorang polisi - inilah seseorang yang melakukan tindakan berkeliling, **<code>まわり</code> adalah <code>the act of doing the rounds</code>,**
+Sekarang, yang tertulis di teks kita sebenarnya bukanlah `回る` atau `回す`. Yang tertulis adalah wujud **`まわり`**. 
+Seperti yang pernah saya singgung sepintas, **ketika kita menyulap kata kerja ke dalam wujud *I-stem* (Akar baris 'い'), lalu kita biarkan ia berdiri sendiri sebagai entitas utuh, maka wujud itu biasanya OTOMATIS BERUBAH MENJADI KATA BENDA.** 
 
----
+Jadi, apa arti dari `まわり` (mawari)? Pada dasarnya, kata benda ini memiliki dua makna: 
+1. **Bisa menjadi wujud kata benda murni dari kegiatan `回る`**. Artinya adalah 'tindakan berkeliling / berpatroli'. Ini persis seperti yang kita temukan di julukan `おまわりさん` tadi. `まわり` di sana berarti tindakan melakukan patroli.
+2. **Atau, maknanya bisa merujuk pada `area sekeliling / lingkungan sekitar`.** (Dalam hal ini, bahasa Jepang biasanya menggunakan wujud kanji yang berbeda untuk menegaskan bahwa maknanya sedikit berbeda). 
 
-**tetapi juga bisa berarti <code>the surroundings</code>**, dan dalam hal ini sebenarnya menggunakan kanji yang berbeda untuk menunjukkan bahwa kata tersebut memiliki makna yang sedikit berbeda. 
 ::: info
-Kanji-nya adalah ini - 周り.
+Bentuk Kanji untuk 'lingkungan sekitar' adalah 周り (mawari).
 :::
-**Ini masih bentuk kata benda dari <code>around</code>, tetapi dalam hal ini merujuk pada lingkungan sekitar, bukan tindakan berkeliling.**
+**Jadi di konteks cerita ini, kata tersebut murni merujuk pada area sekitar, bukan tindakan berkeliling.**
 
 ![](../media/image486.webp)
 
 ::: info
-**Kanji oranye di kanan atas まわる seharusnya まわす.** (Dolly- 先生 mengakui [**di komentar**](https://www.youtube.com/watch?v=H_jePzcPFAQ&amp;lc;=UgzlHz19j_bcvzKlnGl4AaABAg.9CT4jGElSLJ9CTDDRs1sOu))
+(Catatan Editor: Hati-hati, **tulisan kanji oranye di pojok kanan atas gambar tersebut (まわる) seharusnya adalah まわす.** Dolly *Sensei* sudah mengakui *typo* penulisan tersebut [**di kolom komentarnya**](https://www.youtube.com/watch?v=H_jePzcPFAQ&lc=UgzlHz19j_bcvzKlnGl4AaABAg.9CT4jGElSLJ9CTDDRs1sOu)).
 
 ![](../media/image984.webp)
 :::
 
+Sekarang mari kita satukan: `(zeroが) まわりをゆっくり見まわせた` berarti `(ia) dengan santai bisa...`
+(Mengingatkan kembali: `ゆっくり` adalah kata keterangan mandiri yang berarti 'dengan perlahan/santai', yang kita pelajari minggu lalu<sup>[[14]](./14-adverbs-and-the-mo-particle.md)</sup>).
 
-Jadi, <code> *(zeroが)*  まわりをゆっくり見まわせた</code> berarti <code>(she) could in a leisurely manner…</code>
+...dia dengan santai bisa melakukan `見まわす` (mi-mawasu).
 
-(<code>ゆっくり</code>, kata keterangan yang kita pelajari minggu lalu<sup>[[14]](./14-adverbs-and-the- も -particle.md)</sup>)
-
-dia bisa dengan santai <code>見まわす</code>
-
-Apa <code>見まわす</code> artinya? Kita tahu apa <code>まわす</code> berarti - artinya <code>make (something) go around</code>. <code>**見**まわす</code> **menempelkan <code>まわす</code> pada akar kata い <code>見る</code>.** Kita sebenarnya tidak bisa mengetahui bahwa ini adalah akar kata &quot;い&quot;, karena ini adalah kata kerja ichidan, dan semua akar kata ichidan terlihat sama, seperti yang kita ketahui, **tetapi kita tahu bahwa ini sebenarnya adalah &quot;れんようけい&quot; / &quot;連用形&quot;, yaitu akar kata &quot;い&quot;, karena itulah yang digunakan untuk menggabungkan kata kerja dengan kata kerja lain.**
-
----
-
-Jadi, **<code>見まわす</code> secara harfiah berarti &quot;kirimkan pandanganmu ke sekeliling / kirimkan sinar matamu ke sekeliling tempat itu / buat pandanganmu berkeliling&quot;.** Jadi, <code>まわりを見まわす</code> adalah <code>look around the place / send your eye-beams, send your looking around the place / *surroundings*</code>. Dan <code>**見まわせる**</code> adalah, seperti yang telah kita lihat, bentuk potensial dari <code>**見まわす**</code>.
+Apa sih arti `見まわす`? Kita sudah tahu apa arti `まわす`—artinya `membuat (sesuatu) berkeliling`. 
+Lalu **`見まわす` murni hanyalah proses menempelkan kata `まわす` ke ekor *I-stem* dari kata kerja `見る` (melihat/pandangan).** 
+*(Sekadar catatan teknis: kita memang tidak bisa melihat dengan jelas wujud perubahannya karena `見る` adalah kelompok Ichidan, dan semua akar Ichidan terlihat seperti wujud dasarnya. Tapi kita tahu pasti bahwa itu adalah wujud "Akar-い" (atau bahasa akademisnya 連用形 / Ren'youkei), karena aturan mutlaknya: kita harus memakai Akar-い untuk menyambung satu kata kerja dengan kata kerja lain).*
 
 ---
 
-Jadi, yang dimaksud di sini adalah <code>because a lot of time existed she was able to leisurely send her looking around the surroundings</code>.
+Jadi, **`見まわす` (mimawasu) secara harfiah merangkai logika: "Kirimkan pandanganmu berkeliling / Sapukan sinar matamu memutari area tersebut".** 
+Sehingga `まわりを見まわす` bermakna `memandang ke sekeliling tempat tersebut / menyapu pandangan ke area sekitar`. 
 
-***<code>落ちる間にひまがたっぷりあってまわりをゆっくり見まわせた</code>***
+Lalu kenapa ujung kalimat ceritanya berubah menjadi `**見まわせる**` (mimawaseru)? Karena, seperti yang sudah kita pelajari, itu adalah WUJUD POTENSIAL dari `見まわす`! (Artinya: "BISA menyapu pandangan").
+
+---
+
+Jadi, struktur mutlak dari klausa ini adalah: `because a lot of time existed she was able to leisurely send her looking around the surroundings` (Karena banyak sekali waktu luang, ia BISA dengan santai menyapukan pandangannya memutari lingkungan sekelilingnya).
+
+**`落ちる間にひまがたっぷりあってまわりをゆっくり見まわせた`**
 
 ![](../media/image1045.webp)
 
-&gt;まずは、下を見てみたけど、
+> `まずは、下を見てみたけど、暗すぎて何も見えなかった。` (Mazu wa, shita o mite mita kedo, kurasugite nani mo mienakatta).
 
-暗すぎて何も見えなかった。
+Terjemahannya: `Pertama-tama, ia mencoba menengok ke bawah, tapi karena terlalu gelap, tidak ada satu pun hal yang bisa terlihat.`
 
-<code>First of all, she tried looking down, but it was too dark so nothing was visible (nothing could be seen).</code>
-
-<code>まずは</code> berarti <code>first of all</code>. <code>まず</code> adalah <code>from the start / from the beginning</code>.
+`まずは` (mazu wa) berarti `pertama-tama / sebagai permulaan`. Kata dasar `まず` aslinya berarti `dari awal mula`.
 
 ![](../media/image1139.webp)
 
-<code>まずは、下を 見てみた</code>.
+Mari kita bedah separuh awalnya: `まずは、下を 見てみた` (Mazu wa, shita o mite mita).
 
-Sekarang, <code>下を見る</code> adalah <code>looking down / looking at the down</code>. **Kita tahu bahwa dalam bahasa Jepang <code>down</code> selalu merupakan kata benda**, bukan? Jadi kamu melihat <code>at the down</code> - <code>下を見る</code>. **Tapi di sini tidak tertulis <code>見る</code> di sini; tertulis <code>見てみた</code>**. Dan ini adalah bentuk ucapan yang akan sering kita temui.
+Kita sudah tahu bahwa `下を見る` (Shita o miru) bermakna `Melihat [ke] bawah`. **(Ingat bahwa konsep arah letak seperti 'bawah' / `下` selalu berstatus sebagai KATA BENDA dalam tata bahasa Jepang).** Jadi secara harfiah kamu sedang 'memandang area bawah' (`下を見る`). 
 
-## - てみる / - て見る
+**TETAPI yang tertulis di teks bukanlah `見る` (miru); melainkan `見てみた` (mite mita).** Nah, ini adalah salah satu struktur pamungkas bahasa Jepang yang akan kamu dengar seumur hidupmu.
 
-**Ketika kita menambahkan <code>みる</code> ke bentuk て dari kata kerja lain, yang kita lakukan adalah mengatakan <code>try doing something</code>; secara harfiah kita mengatakan <code>do it and see</code>.** Jadi, <code>食べてみる</code> berarti <code>eat it **and see** / have a taste of it</code>.　
+## Rumus Mencoba: -てみる (Te-miru)
 
-***A:*** <code>Do you like this?</code>　
+**Setiap kali kita menyambungkan kata `みる` (miru) di belakang Wujud-te (`-て`) dari kata kerja lain, kita secara tata bahasa sedang mengatakan "MENCOBA MELAKUKAN SESUATU".** 
+Makna literal dari rumus Te-Miru ini adalah: `Lakukan aksi itu, dan lihatlah (apa hasilnya)`. 
 
-***B:*** <code>I don&#x27;t know.</code>　
+Contoh: `食べてみる` (tabete miru) berarti `try to eat it / makanlah dan lihat (apakah rasanya enak) / cicipilah`. 
 
-***A:*** <code>食べてみてください. Try it, taste it, eat it **and see**.</code>
+Simulasi obrolan nyata:
+***A:*** `Kamu suka makanan ini?` 
+***B:*** `Entahlah, aku belum pernah makan.` 
+***A:*** `食べてみてください` (Tabete mite kudasai). -> `Tolong cobalah! / Makanlah dan lihat sendiri (bagaimana rasanya).`
 
-Kita sering mengatakan <code>やってみる</code> - <code>I&#x27;ll give it a try / I&#x27;ll try **and see** what happens</code>. **<code>やる</code> adalah bentuk yang lebih santai dari <code>する</code>,** dan **Anda bisa mengatakan <code>してみる</code>, terutama dalam situasi yang lebih formal,** **tetapi lebih sering kita mengatakan <code>やってみる</code>**: <code>Give it a try / give it a go / do it and see.</code>
+Orang Jepang juga sangat sering mengucap `やってみる` (yatte miru). Artinya: `Aku akan mencobanya! / Biar kulakukan dan lihat apa yang akan terjadi`. 
+**(`やる` / yaru adalah wujud kasar/kasual dari `する` / suru).** Kamu memang bisa bilang `してみる` (shite miru) di dalam situasi yang kaku dan formal, **tetapi dalam obrolan sehari-hari orang jauh lebih suka ngomong `やってみる`**: `Ayo coba! / Hajar dan lihat hasilnya!`.
 
 ![](../media/image726.webp)
 
-**Jadi di sini kita sebenarnya menggunakan <code>見る</code> bersama <code>みる</code>. <code>見てみる</code>** - <code>try having a look / take a look / have a look and see</code>.
+**Jadi di teks cerita Alice ini, kita secara harfiah sedang menyandingkan `見る` (melihat) dengan `みる` (mencoba). Frasa aslinya menjadi: `見てみる`** (Mite miru).
+Artinya: `Mencoba untuk melihat / menengok dan mencoba melihat [ada apa di bawah sana]`.
 
-Jadi, <code>下を見てみたけど、暗すぎて</code>. <code>暗い</code> adalah <code>dark</code> dan <code>すぎる</code>, seperti yang telah kita bahas sebelumnya, berarti <code>going by, going beyond</code>. **Jadi dalam hal ini <code>すぎる</code> berarti <code>too much / going in excess of</code>.** Dengan kata lain, saat itu **terlalu** gelap. Saat itu **sangat** gelap; saat itu **terlalu** gelap.
+Lalu, kita masuk ke klausa kedua: `下を見てみたけど、暗すぎて`. (`...mencoba melihat ke bawah, tapi [itu] terlampau gelap...`).
+`暗い` (kurai) berarti `gelap` dan `すぎる` (sugiru), seperti yang pernah kita bedah, memiliki makna dasar `melampaui/kebablasan/berlebihan`. **Jadi, ketika disambung menjadi `暗すぎて` (kurasugite), maknanya memadat menjadi `terlalu (gelap) / berlebihan (gelapnya).`**
 
 ![](../media/image574.webp)
 
-<code>暗すぎて何も見えなかった</code>. <code>何も</code> berarti <code>even as much as (something)</code> - <code>何も</code>. Dan [**saya telah membuat video**](https://www.youtube.com/watch?v=00nKUtmnzvI) tentang penggunaan kata &quot;も&quot; ini yang mungkin ingin Anda tonton. <code>何も見えなかった</code> - sekarang, <code>見る</code> adalah <code>see</code>; <code>見える</code> adalah <code>to be able to see/*to be visible/be seen*</code>.
+Lanjut ke ekor kalimat: `暗すぎて何も見えなかった`. 
+`何も` (nani mo) berarti `sama sekali tidak (sesuatu apa pun)`. (Dolly sudah membuat [**satu video eksklusif**](https://www.youtube.com/watch?v=00nKUtmnzvI) untuk membahas tuntas pola penyangkalan "Mo" ini kalau kamu ingin mendalami triknya). 
+
+Lalu ada `何も見えなかった` (Nani mo mienakatta). 
+Perhatikan baik-baik: `見る` (miru) adalah tindakan aktif *melihat*. **Sedangkan `見える` (mieru) bermakna `to be visible / bisa terlihat / memancarkan pantulan yang bisa dilihat`.**
 
 ::: info
-Mungkin lebih baik diterjemahkan sebagai <code>to be visible/do see able/do seen</code> (versi bergerak sendiri dari 見る)
+(Catatan Editor soal miskonsepsi `Mieru` vs `Mirareru`):
 
-Saya menambahkan ini untuk menghindari kebingungan, karena perbedaannya cukup halus dan orang-orang bingung mengenai hal ini di kolom komentar di bawah [**video tersebut**](https://www.youtube.com/watch?v=H_jePzcPFAQ&amp;list;=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&amp;index;=22), apalagi saya sendiri saat pertama kali melihatnya.
+Untuk menghindari otakmu tersesat, mari kita klarifikasi masalah ini. Banyak pemula yang pusing dan protes di kolom komentar [**video aslinya**](https://www.youtube.com/watch?v=H_jePzcPFAQ&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=22) saat pertama kali mendengarkan penjelasan Dolly di menit ini. 
 
-Apa yang dikatakan Cure Dolly [**di kolom komentar**](https://www.youtube.com/watch?v=H_jePzcPFAQ&amp;lc;=UgzYIfuuuSD1tlN7tr54AaABAg.9JDoZ9EQc-O9JDzxV8JLGd). Saya sarankan untuk membaca semua komentar tentang hal ini.
-
-Dalam video tersebut, Dolly- 先生 salah bicara di sini (seperti yang dia akui [**di kolom komentar**](https://www.youtube.com/watch?v=H_jePzcPFAQ&amp;lc;=UgxS1dUK8UsQQcHxLKd4AaABAg.9KdTNWq3xuG9Kdu0Oxpim9)), menyebut 見える <code>be able to see</code>, yang mungkin membingungkan seseorang untuk berpikir tentang bentuk potensial 見られる sebagai gantinya.
+Dalam rekaman video aslinya, Dolly-*sensei* sempat terpeleset lidah (dan ia sudah meralatnya [**di kolom komentar ini**](https://www.youtube.com/watch?v=H_jePzcPFAQ&lc=UgxS1dUK8UsQQcHxLKd4AaABAg.9KdTNWq3xuG9Kdu0Oxpim9)). Di video, Dolly tidak sengaja bilang bahwa arti `見える` adalah *"be able to see"* (mampu/bisa melihat). Ucapan spontan itu tentu saja akan membuat pemula bingung dan menyamakannya dengan wujud potensial `見られる` (bisa melihat).
 
 ---
 
-Dalam hal ini, yang dimaksudnya adalah 見える sebagai versi pergerakan diri dari 見る, yang berarti sesuatu seperti <code>be visible/seeable</code> sebagai visibilitas fisik (dari suatu benda, dll.). Ini adalah perbedaan yang halus dibandingkan dengan 見られる.  
-Seperti yang dikatakan Dolly [**di komentar**](https://www.youtube.com/watch?v=H_jePzcPFAQ&amp;lc;=Ugz_8te5VO3ktLe0ZVR4AaABAg.96aHgVhcdAL96aMdVNs3c-), kata ini BISA berfungsi sebagai bentuk potensial dan versi self-move dari &quot;
+FAKTANYA: Yang sedang Dolly maksud di sini adalah, `見える` (mieru) merupakan pasangan 'Gerak Diri' (Intransitif) mutlak dari kata kerja 'Melihat' (`見る`). Sehingga makna asli dari `見える` murni adalah `"Bisa terlihat / Menampakkan visibilitas fisiknya"`. 
 
-見る&quot;. Ini adalah kata kerja yang berbeda dari 見られる, tetapi 見える juga dapat berfungsi sebagai bentuk potensial tidak beraturan dari 見る dan juga merupakan pasangan gerak mandiri dari 見る. **Periksa pelajaran 54 untuk ini, bahkan langsung setelahnya.**
+Ini adalah perbedaan sudut pandang yang luar biasa tipis jika dibandingkan dengan wujud potensial murni `見られる` (mirareru).  
+Seperti yang diklarifikasi oleh Dolly [**di komentarnya**](https://www.youtube.com/watch?v=H_jePzcPFAQ&lc=Ugz_8te5VO3ktLe0ZVR4AaABAg.96aHgVhcdAL96aMdVNs3c-): Kata `見える` ini BISA berfungsi merangkap sebagai bentuk potensial (bisa dilihat) sekaligus berfungsi sebagai versi Gerak Diri dari "見る". 
+`見える` ini jelas merupakan kosakata yang berbeda genetik dari `見られる`. Kasus ini persis sama seperti anomali kata potensial mutlak `できる` (Dekiru) yang kita pelajari di Pelajaran 10. **(Dolly akan membongkar tuntas akar filosofis masalah *Mieru* ini di Pelajaran 54).**
 
-Selain itu, [**poin ini**](https://japanese.stackexchange.com/questions/43881/is-%E8%A6%8B%E3%81%88%E3%82%89%E3%82%8C%E3%82%8B-bentuk-potensial-dari-%E8%A6%8B%E3%81%88%E3%82%8B) (jika Anda memeriksa infleksi 見える di Jisho), sama seperti catatan 出来る di Pelajaran 10.  
-Intinya di sini adalah bahwa meskipun keduanya menyiratkan potensi, ada perbedaan, dengan <code>be able to see</code> terjemahan lebih sering digunakan untuk <code>見られる</code> daripada &quot;見える&quot;, itulah sebabnya catatan ini.  
+Intinya: Meskipun keduanya (`Mieru` dan `Mirareru`) terjemahannya sama-sama menyiratkan unsur "potensi / bisa", tetap ada perbedaan mendasar. 
+- Jika kamu memuji orang buta yang sembuh: "Wah, kamu *sudah mampu* melihat lagi!" -> Gunakan Potensial Murni: `見られる` (Mirareru).
+- Jika kamu memicingkan mata melihat tulisan semut di kejauhan: "Wah, tulisannya *nggak kelihatan*!" -> Gunakan Potensial Fisik: `見えない` (Mienai).
 :::
 
-Dan jika kita melihat kalimat ini, **kita harus memiliki subjek yang ditandai dengan &quot;が&quot; pada klausa kedua ini:** <code>何も **(zeroが)** 見えなかった</code>.
+Jika kita membedah anatomi kalimat ini, **kita WAJIB meletakkan sebuah subjek imajiner yang memegang `が` di awal klausa kedua ini.** 
+`何も **(zero-ga)** 見えなかった`.
 
 ![](../media/image633.webp)
 
-Apa yang dimaksud dengan &quot;zero&quot; dalam kasus ini? Jika kita melihatnya dari sudut pandang bahasa Inggris, kita mungkin berpikir itu adalah Alice - <code>Alice couldn&#x27;t see anything</code>. **Namun dalam bahasa Jepang, biasanya justru <code>何</code>, yaitu <code>a thing / something</code>.** **<code>Nothing was able to be seen, nothing could be seen</code>,**
+Lalu siapa sosok *zero-ga* dalam kasus gelap ini? Jika kita ngotot pakai sudut pandang bahasa Indonesia/Inggris, otak kita pasti langsung menebak itu adalah Alice: `Alice (ga) tidak bisa melihat apa pun`. 
+**SALAH BESAR. Dalam tata bahasa Jepang, pemegang `が`-nya mutlak adalah si `何` (Hal/Sesuatu apa pun itu).** 
+Makna literal Jepangnya adalah: **`Nothing was able to be seen / Tidak ada satu PUN BENDA yang fisiknya mampu terlihat`!**
 
 ---
 
-karena biasanya dengan ungkapan seperti <code>**見える** / **見えない**</code>, <code>**聞こえる** / **聞こえない**</code>, <code>be able to see/*do seeable*</code> <code>be able to hear/*do hearable*</code> *(+ bentuk *ない* mereka yang tidak terdengar, dll.)*  
-::: info
-The <code>do seeable</code> adalah terjemahan kasar dari bagaimana Dolly mungkin menerjemahkannya, saya kira untuk menunjukkan bahwa itu adalah kata kerja, sesuai dengan beberapa komentarnya seperti yang dicatat pada catatan halaman sebelumnya.  
-Terjemahan lain untuk &quot;見える&quot; menurut Dolly - terlihat/<code>do seen</code>/dilihat/dapat dilihat/terlihat.  
-Sedangkan -ない
-
-, karena bentuk negatifnya cukup bersifat kata sifat ([**lihat ini**](https://japanese.stackexchange.com/a/5092)). Tidak terlalu penting bagaimana cara menerjemahkannya, kecuali jika Anda ingin lebih teknis sesuai dengan cara terjemahan kasar Dolly &amp; untuk menunjukkan perbedaan yang lebih jelas antara見られる
-
-&amp;見える
-
-. **Lihat pelajaran 54.**
-:::
-
-**- kita menggunakannya bukan untuk orang yang mampu melihat, melainkan untuk benda yang mampu dilihat.** Dan tentu saja kita sudah membahas ini, bukan, dalam pelajaran kita tentang potensi.<sup>[[10]](./10-helper-verbs-the-potential-helper-verb.md)</sup>
+Kenapa harus si benda yang memegang subjek? Karena aturan mutlak bahasa Jepang mengatakan: untuk ungkapan potensial bawaan seperti **`見える / 見えない`** (terlihat/tidak terlihat) dan **`聞こえる / 聞こえない`** (terdengar/tidak terdengar) — **kita TIDAK BISA menggunakan kata-kata itu untuk 'Manusia yang memiliki kemampuan melihat', MELAINKAN kita menggunakannya untuk 'Benda fisik yang keberadaannya sanggup dilihat'.** 
+(Kita kan sudah membahas logika pemindahan subjek ini panjang lebar di kelas Wujud Potensial).<sup>[[10]](./10-helper-verbs-the-potential-helper-verb.md)</sup>
 
 ![](../media/image203.webp)
 
-<code>その後</code>: <code>後</code>, seperti yang kita ketahui, berarti <code>after</code> - kita telah menggunakannya dalam konteks mengikuti seseorang, **tetapi juga berarti <code>after</code> dalam arti lain, <code>after that</code>.** <code>その</code> berarti <code>that</code>; **<code>その後</code> berarti <code>after that</code>.** Jadi sekali lagi, **ini hanyalah ungkapan waktu, yang menempatkannya dalam konteks waktu.** Dan **kali ini merupakan ungkapan waktu relatif, <code>after that / after a particular thing</code>, jadi tidak perlukにasi.**
+> `その後、穴のまわりを見て` (Sono ato, ana no mawari o mite).
+
+Kita bedah `その後` (sono ato). `後` (ato), seperti yang kita ketahui, berarti `setelah / belakang` (kita baru saja memakainya di konteks Alice mengejar bagian belakang kelinci). **Tetapi dalam konteks ini, ia bertindak sebagai penunjuk waktu (*after that / setelah itu*).** 
+`その` (sono) berarti `itu`; **`その後` (sono ato) berarti `setelah itu`.** 
+Jadi, ini murni hanyalah keterangan waktu untuk menyusun kronologi narasi cerita. **Dan ingat, karena ini adalah patokan waktu 'relatif' (`setelah kejadian tertentu`), ia kebal hukum dan TIDAK PERLU ditambahkan partikel `に`.**
 
 ![](../media/image827.webp)
 
-<code>その後、穴のまわりを見て</code> Jadi sekarang dia tidak menunduk. Ini berarti <code>the surroundings</code>, sekali lagi, <code>まわり/***周り***</code>, dari lubang, <code>をみて</code> - <code>after that, she looked at the surroundings of the hole</code>.
+`その後、穴のまわりを見て` 
+(Jadi sekarang dia tidak lagi menunduk melihat kegelapan bawah). Frasa ini berarti: `Setelah itu, ia melihat ke area sekeliling (まわり / 周り) dinding lubang tersebut...`
 
 ![](../media/image1142.webp)
 
 ---
 
-&gt; 目に止まるのはぎっしりならんだとだなや本だなだった.
+> `目に止まるのはぎっしりならんだとだなや本だなだった` (Me ni tomaru no wa gisshiri naranda todana ya hondana datta).
 
 ![](../media/image587.webp)
 
-Baiklah, jadi ini cukup rumit. Klausa pertama cukup sederhana. <code>その後、穴のまわり見て</code> - <code>After that, she looked at the surroundings of the hole</code>. Klausa kedua memiliki banyak hal yang perlu kita pertimbangkan. <code>目に止まるのは</code> secara harfiah berarti <code>the thing that stopped in her eye</code>.
+Baiklah, yang satu ini tingkat kerumitannya lumayan tinggi. 
+`目に止まるのは` (Me ni tomaru no wa) secara harfiah merangkai logika: `hal ('No'/'Koto') yang berhenti mendarat di matanya adalah...`
 
 ![](../media/image734.webp)
 
-Sekarang ini adalah ungkapan yang mirip dengan, dalam bahasa Inggris, <code>the thing that caught her eye</code>, bukan? Berbagai hal melintas di matanya, melintas dalam pandangannya, dan hal yang berhenti di sana adalah yang akan kita bahas. Namun, kita juga perlu memperhatikan penggunaan &quot;の&quot; ini. Seperti yang telah kita lihat sebelumnya, &quot;の&quot; mirip dengan tanda apostrof-s (&#x27;s) dalam bahasa Inggris. Jadi, jika kita mengatakan <code>さくらのドレス</code>, kita mengatakan, <code>Sakura&#x27;s dress</code>.
+Bisa dibilang, ungkapan sastra ini adalah padanan langsung dari idiom bahasa Inggris `the thing that caught her eye` (hal yang menangkap/menarik perhatiannya). Karena dalam kondisi jatuh bebas, berbagai macam barang melesat melintasi pandangannya, lalu tiba-tiba ada satu objek yang 'menancap / berhenti' (tomaru) diam di retinanya. 
+
+Namun, perhatikan juga trik kelas dewa dari penggunaan partikel "の" (No) di sini. Seperti yang kita pelajari, "の" identik dengan tanda kutip 'S (*apostrophe-s*) di bahasa Inggris untuk menyatakan kepemilikan. `さくらのドレス` = `Sakura's dress / Gaun milik Sakura`.
 
 ![](../media/image813.webp)
 
-Sekarang juga, sama seperti dalam bahasa Inggris, jika kamu mengatakan, <code>Which dress do you like best?</code> Misalkan Sakura dan Mary sama-sama mengenakan gaun dan Anda berkata, <code>Which dress do you like best?</code> Dalam bahasa Inggris, Anda mungkin mengatakan, <code>Sakura&#x27;s. I like Sakura&#x27;s best</code>. Anda bisa mengatakan, <code>Sakura&#x27;s dress</code> tetapi Anda tidak harus melakukannya, Anda bisa hanya mengatakan, <code>Sakura&#x27;s</code>. **Dan hal ini sama dalam bahasa Jepang.** **Anda bisa mengatakan** *(hanya)* **, <code>さくらの</code> - Milik Sakura, yang milik Sakura.** Namun hal ini bisa dikembangkan lebih jauh dalam bahasa Jepang, dan [**saya telah membuat video lengkap**](https://www.youtube.com/watch?v=Bq3GO63D9bw) tentang penggunaan khusus &quot;の&quot; ini, yang bisa Anda tonton jika ingin mendalaminya.
+Nah, bayangkan simulasi ini. Misal Sakura dan Mary sama-sama mengenakan gaun, lalu kamu ditanya, `Gaun siapa yang paling kamu suka?` 
+Di bahasa Indonesia, kamu bisa menjawab lengkap: `Saya suka gaun Sakura`. ATAU kamu bisa menyingkatnya praktis jadi: `Saya suka milik Sakura`. 
+Dalam bahasa Inggris, kamu bisa bilang `Sakura's dress` ATAU cukup dipangkas jadi `Sakura's`. 
+**Dan hukum efisiensi yang sama persis BERLAKU DI BAHASA JEPANG.** **Kamu bisa menyingkatnya dengan membuang objeknya, menyisakan `さくらの` (Milik Sakura / Kepunyaan Sakura).** 
+
+Sistem pangkas memangkas *No* ini sering banget diperluas penggunaannya dalam bahasa Jepang. (Dolly sudah membuat [**video eksklusif**](https://www.youtube.com/watch?v=Bq3GO63D9bw) yang mengupas tuntas trik khusus "の" ini kalau kamu ingin membongkar seluruh rahasianya).
 
 ---
 
-Namun dalam kasus ini, cara pengembangannya adalah <code>目に止まるの</code> - ini <code>the thing, the one that stopped in her eye</code>. <code>Which dress do you like best? Sakura&#x27;s, Sakura&#x27;s one, Sakura&#x27;s thing, Sakura&#x27;s dress.</code> <code>目に止まるの</code> - <code>the thing, the one that stopped in her eye</code>. Jadi, <code>穴のまわりを見て、目に止まるのは</code> - &quot;saat melihat sekitar lubang itu, hal yang menarik perhatiannya adalah…&quot; Dan apa itu, adalah
+Namun di konteks cerita ini, `の` dikembangkan fungsinya untuk merepresentasikan `benda/hal` secara universal. 
+`目に止まるの` -> `benda / sesuatu yang berhenti di matanya`. 
 
+Jadi, klausa awal `穴のまわりを見て、目に止まるのは` berarti: *"Saat melihat ke area sekeliling lubang itu, benda yang menangkap perhatian matanya adalah..."*
+
+Lalu, apa sosok bendanya?
 ![](../media/image717.webp)
 
-<code> *(zeroが)*  ぎっしりならんだとだなや本だなだった</code>. **<code>ぎっしり</code> adalah salah satu lagi dari kata keterangan yang berakhiran &quot;り&quot; yang tidak memerlukan &quot;に&quot;.** <code>ぎっしり</code> berarti <code>tightly packed</code>. <code>ならんだ</code> adalah bentuk lampau dari <code>ならぶ</code> yang berarti <code>lined-up</code>, jadi <code>**ぎっしり ならんだ**</code> berarti <code>**tightly lined-up** / **packed together** / **lined-up and packed together**</code>. <code>ぎっしりならんだとだなや本だなだった</code>.
+`*(zero-ga)* ぎっしりならんだとだなや本だなだった`. 
+
+Mari kita bedah kosakata `ぎっしり` (gisshiri). **Ini adalah satu lagi anggota keluarga 'Kata keterangan berakhiran り (Ri)' yang kebal hukum dan TIDAK BUTUH partikel "に".** 
+`ぎっしり` berarti `dikemas secara padat/rapat/sesak`. 
+
+Lalu `ならんだ` (naranda) adalah bentuk lampau dari `ならぶ` (berjejer / berbaris lurus). 
+Jadi kombinasi maut `**ぎっしり ならんだ**` bermakna `**berjejer-jejer sangat padat** / **tersusun rapat**`. 
+
+Lanjut ke objeknya: `とだなや本だなだった` (Todana ya hondana datta).
+Kata asal untuk 'rak' dalam bahasa Jepang adalah `たな` (tana). Dan setiap kali kita menempelkan awalan di depan `tana` untuk menspesifikasikan jenis rak apa itu, kita membangkitkan hukum *Ten-ten hooking* (Pengaitan *Ten-ten*) `〃` yang kita pelajari di Pelajaran 12.  
+Jadi huruf `た` berubah tumpul menjadi `だ`. 
+
+`とだな` (Todana): `と` (to) berarti `pintu`. Secara harfiah `とだな` adalah `rak-berpintu`. Ini adalah istilah resmi bahasa Jepang untuk **Lemari**. Menurut saya, ini istilah yang jauh lebih nyambung dan efisien ketimbang ejaan bahasa Inggris (cupboard). Lemari memang rak yang dikasih pintu, kan? 
+Lalu `本だな` (Hondana) jauh lebih mudah ditebak: secara harfiah itu adalah Rak Buku.
+
+## Partikel "や" + "Dan" Eksklusif (`と`)
+
+Sekarang, kita harus membongkar fungsi partikel sakti `や` (ya) ini. 
+Ketika kamu ingin mengatakan `DAN` (menggabungkan benda A `dan` benda B)—bagaimana kamu mengatakannya dalam tata bahasa Jepang? 
+
+Kita tahu bahwa untuk menyambung DUA KLAUSA AKTIVITAS, kita memakai 'Wujud-te', atau `でも` (tapi/dan juga). 
+Dalam bahasa Indonesia/Inggris, kita cukup malas dan selalu menggunakan satu kata sakti `dan/and` di segala situasi (Cth: `Roti DAN mentega`, `Buku DAN pensil`, atau `Aku pergi ke toko DAN beli roti`). 
+**Namun di tata bahasa Jepang, kita TIDAK BISA malas pakai satu rumus yang sama untuk menyambung klausa dan menyambung deretan benda.** 
+
+Untuk tugas menderetkan dua atau lebih BENDA FISIK, bahasa Jepang punya DUA partikel khusus. 
+Yang pertama adalah partikel "と" (to). Kita sudah kenal reputasi "と" sebagai partikel kutipan, **tetapi pekerjaan paruh waktunya adalah bertindak sebagai partikel "dan" untuk benda.** Jadi, `pensil dan buku` menjadi `ペンと本`. 
+Lalu yang kedua adalah partikel "や" (ya). Kita bisa menderetkan banyak objek memakai `や`. 
+
+Lalu apa dong fungsi bedanya `と` dan `や`?
 
 ---
 
-Baiklah. Nah, kita akan membahas <code>や</code> sejenak lagi, tapi <code>とだなや本だな</code>. Kata untuk rak dalam bahasa Jepang adalah <code>たな</code>, dan ketika kita menambahkan sesuatu di depannya untuk menunjukkan jenis rak apa itu, kita menggunakan <code>ten-ten hooking</code> *(〃)* yang sudah kita bahas sebelumnya.  
-::: info
-Pelajaran 5, <code>The third &amp; fourth Godan group</code>.
-:::
-Jadi <code>た</code> menjadi <code>だ</code>: <code>とだな</code> - yang <code>と</code> berarti <code>door</code>, jadi secara harfiah, <code>とだな</code> adalah <code>door-shelf</code> dan itu adalah kata dalam bahasa Jepang untuk lemari. Dan menurut saya, itu kata yang cukup bagus. Itulah sebenarnya lemari, bukan? Rak-rak, dengan pintu. Itu cara yang lebih baik untuk menyebut lemari daripada cara bahasa Inggris yang mengatakan itu adalah papan tempat Anda meletakkan cangkir, yang sebenarnya bukan benar-benar apa itu lemari. <code>本だな</code> bahkan lebih mudah: secara harfiah itu adalah rak buku, rak-rak buku.
+Ternyata, perbedaan filosofisnya SANGAT masif dan fungsional (bahkan bahasa Indonesia dan Inggris harusnya punya kata berbeda untuk memisahkan ini). 
 
-## Partikel &quot;や&quot; + eksklusif <code>and</code>
-
-Sekarang, ini <code>や</code> adalah sesuatu yang perlu kita bahas. Ketika Anda ingin mengatakan <code>and</code> - sesuatu <code>and</code> yang lain - bagaimana cara mengatakannya dalam bahasa Jepang? Kita tahu bahwa ketika menggabungkan dua klausa, kita menggunakan bentuk &quot;て&quot;, atau terkadang menggunakan hal lain, seperti <code>でも</code>. Dalam bahasa Inggris, kita menggunakan <code>and</code> dalam semua kasus: kita mengatakan <code>bread and butter</code>, <code>pencil and paper</code>. Kita juga mengatakan <code>I went into the baker&#x27;s and bought some bread.</code> **Namun dalam bahasa Jepang, kita tidak menggunakan bentuk yang sama <code>and</code> dalam kedua kasus tersebut.** Kita sudah mengetahui beberapa cara untuk <code>and</code> dua klausa, tetapi ketika kita <code>anding</code> dua hal, ada dua cara untuk melakukannya. Salah satunya adalah dengan menggunakan partikel &quot;と&quot;. Kita tahu bahwa partikel &quot;と&quot; adalah partikel kutipan, **tetapi juga berfungsi sebagai partikel &quot;dan&quot;.** Jadi, jika Anda ingin mengatakan <code>pen and book</code>, kita mengatakan <code>ペンと本</code>. **Tetapi kita juga bisa menggunakan partikel &quot;や&quot;, jadi kita bisa mengatakan <code>と</code> atau <code>や</code> ketika kita ingin <code>and</code> menggabungkan dua atau lebih objek.** Apa perbedaannya?
-
----
-
-Sebenarnya, ini adalah perbedaan yang sangat berguna, dan sesuatu yang kita butuhkan dalam bahasa Inggris. **<code>と</code> adalah partikel eksklusif <code>and</code>.** Jika saya berkata, <code>What&#x27;s in that box?</code> dan kamu menjawab <code>ペンとえんぴつ</code> - <code>pens and pencils</code> - **Anda memberi tahu saya bahwa ada pulpen dan pensil dan tidak ada yang lain di dalam kotak itu.**
+**`と` adalah partikel `DAN` yang bersifat EKSKLUSIF (Mutlak/Tertutup).** 
+Jika saya bertanya kepadamu, `Apa isi di dalam kotak itu?` dan kamu menjawab `ペンとえんぴつ` (Pensil `と` pulpen). 
+**Kamu secara harfiah sedang menyiarkan fakta hukum bahwa isi kotak itu HANYA ADA pensil dan pulpen, dan BENAR-BENAR TIDAK ADA BENDA LAIN LAGI di dalam kotak itu.**
 
 ![](../media/image832.webp)
 
-Jika Anda mengatakan <code>ペンやえんぴつ</code>, Anda mengatakan ada pulpen dan pensil **dan mungkin juga ada benda lain** - **dan seringkali Anda menyiratkan bahwa ada benda lain karena Anda menghindari penggunaan kata <code>and</code>.** Jadi apa <code>stopped in her eye</code> fakta bahwa lemari dan rak buku **(di antara hal-hal lain)** berjejer rapat di sepanjang dinding.
+**Sebaliknya, `や` adalah partikel `DAN` yang bersifat INKLUSIF (Terbuka/Di antaranya).**
+Jika kamu menjawab `ペンやえんぴつ` (Pensil `や` pulpen), kamu sedang memberitahu saya bahwa di dalam sana ada pulpen dan pensil **DAN BESAR KEMUNGKINAN masih ada benda-benda lain berserakan di sana**. **Biasanya kamu memakai ini untuk menyebutkan beberapa 'contoh utama' saja dan membiarkan benda lainnya tidak disebut.** 
+
+Jadi, saat Alice melayang jatuh, apa yang "tertangkap matanya"? Fakta bahwa Dinding lubang kelinci itu dijejali oleh Lemari dan Rak Buku **(Dan mungkin masih banyak tempelan perabotan aneh lainnya yang berjejer rapat di sepanjang dinding)**.
 
 ![](../media/image449.webp)
 
@@ -223,39 +273,49 @@ Jika Anda mengatakan <code>ペンやえんぴつ</code>, Anda mengatakan ada pul
 ![](../media/image334.webp)
 
 ::: info
-Kata &quot;取り下ろした&quot; dalam video memiliki tambahan &quot;ろ&quot; pada furigana &quot;下&quot;-nya. Baca <code>とりおろした</code> saja.  
-Saya telah memperbaikinya di sini. Untuk menurunkan (sesuatu) dapat ditulis sebagai 下す (おろす) atau 下ろす(おろす).  
-下す adalah versi penggunaan okurigana yang tidak beraturan dari 下ろす. Keduanya benar.*
+*(Catatan Editor:* Tulisan furigana "取り下ろした" (Tori-oroshita) dalam visual video aslinya salah cetak; mereka kelebihan menaruh huruf "ろ" (ro) melayang di atas "下". Abaikan visual cacat itu dan baca saja sebagai `とりおろした`.  
+Saya sudah membersihkannya di transkrip teks ini. Aksi menurunkan benda bisa ditulis menggunakan dua sistem ejaan: 下す (orosu) atau 下ろす (orosu). Kedua ejaan resmi ini sah. Ejaan 下す adalah versi penulisan *okurigana* tak beraturan (tradisional) dari 下ろす).
 :::
 
-## Penggunaan paling dasar dari partikel から
+## Pemakaian Fundamental Partikel `から` (Dari)
 
-<code>たなの一つからびんを取り下した</code>
+> `たなの一つからびんを取り下した` (Tana no hitotsu kara bin o torioroshita).
 
-<code>たなの一つ</code>: <code>一つ</code> berarti <code>one</code>; **<code>から</code> adalah partikel yang berarti <code>from</code>.** Sekarang, di sini dia menggunakan <code>たな</code> partikel tersebut secara terpisah - <code>shelves</code> - dan karena tidak terikat pada apa pun, partikel ini <code>たな</code> tidak <code>だな</code>. Jadi, dia mengatakan <code>**from** one of the shelves</code>- <code>たなの一つから</code>, <code>from one of the shelves</code> - perhatikan di sini bahwa <code>たなの一つ</code> sebenarnya sama saja dengan bahasa Inggris <code>**one** of the shelves</code> - <code>たなの一つ</code>.
+`たなの一つ` (Tana no hitotsu): `一つ` (Hitotsu) berarti `satu / salah satu`. 
+**`から` (Kara) adalah partikel penunjuk arah awal yang berarti `DARI`.** 
+Di kalimat ini, ia mencabut kata `たな` (tana / rak-rak) dan membiarkannya berdiri sendiri secara independen (sehingga ia tetap dibaca *Tana*, bukan *Dana* yang terkena *ten-ten hooking* seperti dalam *Hondana*). 
+
+Jadi, kalimat `たなの一つから` (tana no hitotsu kara) murni bermakna `**Dari** salah satu rak tersebut`. Kamu bisa melihat bahwa susunan struktur bahasanya identik 100% dengan frasa Inggris `**from** one of the shelves`.
 
 ![](../media/image705.webp)
 
-<code> *(zeroが)*  たなの一つからびんを取り下ろした.</code>
+`*(zero-ga)* たなの一つからびんを取り下ろした.`
 
-Sekarang, <code>取る</code> berarti <code>take</code>, dan <code>下す</code> - kanji tersebut, seperti yang bisa Anda lihat, adalah kanji untuk <code>down</code>, dan sekali lagi **ini adalah bagian dari pasangan gerakan, pasangan gerakan sendiri/gerakan lain**,  
-itulah mengapa saya memperkenalkannya lebih awal.
+Sekarang, `取る` (toru) berarti `mengambil`, dan `下す` (orosu) — kalau kamu melirik kanjinya, itu adalah kanji yang sama untuk `bawah` (下). Dan ini membuktikan satu rahasia besar: **kedua kata ini sebenarnya juga adalah pasangan evolusi 'Gerak Diri' / 'Gerak Orang Lain'**, persis seperti teori yang kita telan bulat-bulat di pelajaran sebelumnya.  
 
 ![](../media/image586.webp)
 
 ::: info
-Catatan furigana sebelumnya juga berlaku untuk 下りる, di video ada kesalahan ketik, seharusnya hanya お. Saya perbaiki di sini. Tidak ada 下る untuk (下りる) di sini, karena itu bukan bentuk tidak beraturan dari kata tersebut.  
-Jika demikian, itu justru berarti くだる (下る) atau さがる (下る), dalam bentuk okurigana tidak beraturan mereka.
+*(Catatan furigana:* Di video aslinya, ada lagi kesalahan ketik pada kata `下りる` (oriru / turun). Di videonya cuma ditulis satu huruf 'o' melayang. Sudah saya bereskan. Sebagai tambahan, JANGAN pernah salah melafalkan *oriru* ini menjadi *kudaru/sagaru*. Karena jika ejaannya dibaca 'kudaru / sagaru', itu biasanya merujuk pada versi pembacaan *okurigana* *irregular* lainnya dari huruf 'bawah/下' tersebut. Tergantung konteks kalimatnya!).
 :::
 
-Sebagian besar kursus akan menganggap hal itu sebagai materi tingkat menengah, yaitu pergerakan mandiri dan pergerakan orang lain, tetapi menurut saya hal ini akan membuat lebih mudah untuk mengenali apa yang dilakukan kata-kata jika Anda menyadari hal ini. <code>下りる</code> berarti <code>come down / step down</code> - turun tangga, turun dari bus. <code>下す/下ろす</code> berarti <code>bring *(something)* down</code>. Dan sekali lagi, **kita tahu mana yang termasuk gerakan orang lain** - kamu <code>bring (something else) down</code> - itulah yang berakhiran -す: <code>下す</code>. Jadi <code>取り下ろす</code> berarti <code>take and bring down</code>.
+Sebagian besar kursus konvensional di luar sana akan menyimpan materi "Gerak Diri dan Gerak Orang Lain" (Transitif) ini sebagai materi super rahasia untuk kelas tingkat menengah (*Intermediate*). Tetapi saya membongkarnya sejak awal, karena pemahaman akar genetik inilah yang justru akan membuatmu mengenali langsung cara kerja semua kosakata Jepang! 
+
+Coba lihat buktinya:
+- `下りる` (Oriru) berarti `turun / melangkah turun` (bergerak turun dari tangga / keluar bus). Ini jelas versi *Gerak Diri*!
+- `下す / 下ろす` (Orosu) berarti `membawa (benda lain) turun / menurunkan`. Ini jelas versi *Gerak Orang Lain*! Dan seperti insting tajammu, **kita otomatis tahu mana yang bertugas menggerakkan/menurunkan objek lain karena ekornya mutlak berbunyi `-す` (`下す`)**. 
+
+Jadi kata kerja majemuk `取り下ろす` (tori-orosu) bermakna `take and bring down` (mengambil lalu menurunkan).
 
 ![](../media/image586.webp)
 
-<code> *(zeroが)*  たなの一つからびんを取り下ろした.</code> <code>From one of the shelves *(she)* **took down**...</code>
+Mari tutup dengan terjemahan akhir kalimatnya:
+`*(zero-ga)* たなの一つからびんを取り下ろした.` -> `Dari salah satu rak tersebut, *(ia)* **mengambil dan menurunkan**...`
 
-<code>びん</code> biasanya diterjemahkan sebagai <code>bottle</code>; sebenarnya dalam kasus ini lebih mirip <code>jar</code>. Apa isinya? Nah, kita harus menunggu sampai lain kali untuk mengetahuinya…
+Sebuah `びん` (bin). Biasanya diterjemahkan sebagai `botol`; tapi dalam wujud fisiknya, ia lebih mirip `toples kaca/selai`. 
+
+Lalu apa isi toples misterius itu? Nah, kamu harus bersabar menunggu kelanjutannya di bab berikutnya...
 
 ::: info
-Sekali lagi, saya sangat merekomendasikan untuk membaca semua komentar di bawah [**video ini**](https://www.youtube.com/watch?v=H_jePzcPFAQ&amp;list;=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&amp;index;=18), karena beberapa bagiannya dijelaskan lebih lanjut di sana oleh Dolly karena pelajaran ini agak <code>intense</code> (；￣Д￣)
+Sekali lagi, bab ini SANGAT padat secara materi. Saya merekomendasikanmu untuk meluangkan waktu membaca kolom komentar di bawah [**video orisinalnya**](https://www.youtube.com/watch?v=H_jePzcPFAQ&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=18). Di sana ada banyak penjelasan tambahan dari Dolly yang bisa sangat membantumu mencerna materi yang cukup `intense` ini. (；￣Д￣)
 :::
