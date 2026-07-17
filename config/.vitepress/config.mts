@@ -5,7 +5,7 @@ export default defineConfig({
   title: "Cure Dolly",
   description: "in markdown",
   srcDir: 'docs',
-  base: '/',
+  base: '/cure-script-indonesian-ver',
   ignoreDeadLinks: true,
   rewrites: {
     'id/:rest*': ':rest*'
